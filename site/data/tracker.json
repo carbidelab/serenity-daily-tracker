@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-10-27T23:47:04+00:00",
+  "last_successful_sync_utc": "2026-10-27T23:48:08+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -16,9 +16,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "AAOI",
@@ -32,9 +32,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "ALMU",
@@ -48,9 +48,25 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
+    },
+    {
+      "ticker": "ANT",
+      "stance": "bullish",
+      "summary_en": "Author thanks $ANT for the positive $3.4B FCF for H1 2026.",
+      "mentions": 1,
+      "last_seen": "Oct 26, 2026, 04:14 PM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2114752489476309203",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0
     },
     {
       "ticker": "ASTS",
@@ -64,9 +80,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "AVGO",
@@ -80,9 +96,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "AXTI",
@@ -96,9 +112,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "BABA",
@@ -112,9 +128,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "BYTEDANCE",
@@ -128,9 +144,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "CIFR",
@@ -144,9 +160,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "COHR",
@@ -160,9 +176,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "GOOGL",
@@ -176,9 +192,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "LITE",
@@ -192,9 +208,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "META",
@@ -208,9 +224,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "MU",
@@ -224,9 +240,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "NVDA",
@@ -240,9 +256,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "SHAZ",
@@ -256,9 +272,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "SPCX",
@@ -272,9 +288,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "SSNLF",
@@ -288,9 +304,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "TCEHY",
@@ -304,9 +320,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "TE",
@@ -320,9 +336,9 @@
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
-      "new_since_previous": true,
+      "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": null
+      "mentions_delta": 0
     },
     {
       "ticker": "TSLA",
@@ -333,22 +349,6 @@
       "first_mention": "Aug 25, 2025, 08:41 PM",
       "detail_url": "https://serenitystock.com/stocks/NMS/TSLA",
       "post_url": "https://x.com/aleabitoreddit/status/2114477224208535600",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": true,
-      "previous_stance": null,
-      "mentions_delta": null
-    },
-    {
-      "ticker": "ANT",
-      "stance": "bullish",
-      "summary_en": "Author thanks $ANT for the positive $3.4B FCF for H1 2026.",
-      "mentions": 1,
-      "last_seen": "Oct 26, 2026, 04:14 PM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2114752489476309203",
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
