@@ -111,10 +111,26 @@ def extract_table(html):
             ticker_cell = cells[tcol]
             # Stock symbol occurs at the beginning of the ticker cell, before exchange.
             raw = normalize(ticker_cell.get_text(' ', strip=True))
-            match = re.match(r'^\$([A-Za-z][A-Za-z0-9.\-]{0,19}|[0-9]{6}\.[A-Za-z]{1,3})(?=\s|$)', raw)
-            if not match:
+            # Prefer the unambiguous /stocks/<market>/<ticker> link over visible
+            # text: production tables concatenate the symbol and exchange
+            # (e.g. '$ASTSNasdaqGS'), so a whitespace-based regex finds zero.
+            ticker = ''
+            for anchor in ticker_cell.find_all('a', href=True):
+                path = urlparse(urljoin(SOURCE, anchor['href'])).path
+                hit = re.match(r'^/stocks/(?:[^/]+/)?([^/]+)/?$', path, re.I)
+                if hit:
+                    candidate = hit.group(1).upper()
+                    if re.fullmatch(r'(?:[A-Z][A-Z0-9.\-]{0,19}|[0-9]{6}\.[A-Z]{1,3})', candidate):
+                        ticker = candidate
+                        break
+            if not ticker:
+                # Only accept a symbol with a delimiter. Never guess a
+                # ticker from concatenated stock + exchange text.
+                match = re.match(r'^\$([A-Za-z][A-Za-z0-9.\-]{0,19}|[0-9]{6}\.[A-Za-z]{1,3})(?=\s|$)', raw)
+                if match:
+                    ticker = match.group(1).upper()
+            if not ticker:
                 continue
-            ticker = match.group(1).upper()
             stance = normalize(cells[scol].get_text(' ',strip=True)).lower()
             if stance not in STANCE:
                 stance = 'unclear'

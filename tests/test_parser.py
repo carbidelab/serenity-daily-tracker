@@ -30,3 +30,12 @@ class TestTableParser(unittest.TestCase):
   self.assertEqual(rows[0]['mentions'],29)
   self.assertEqual(rows[1]['post_url'],'https://x.com/user/status/222')
   self.assertTrue(all(r['ticker'] not in ('2.5','217.70') for r in rows))
+
+class TestActualLinkBasedTicker(unittest.TestCase):
+ def test_concatenated_exchange_text(self):
+  html = '''<table><thead><tr><th>Ticker</th><th>Latest stance</th><th>Mentions</th><th>First Mention Date</th><th>Latest price</th><th>Since mention</th><th>Last seen</th><th>Latest summary</th><th>Post</th></tr></thead><tbody>
+  <tr><td><a href='/stocks/NMS/ASTS'>$ASTSNasdaqGS</a></td><td>watchlist</td><td>27</td><td>Sep 24</td><td>$41.92</td><td>-0.1%</td><td>Oct 27</td><td>Lists ASTS at $39.</td><td><a href='https://x.com/a/status/1'>Post</a></td></tr>
+  <tr><td><a href='/stocks/NYQ/TE'>$TENYSE</a></td><td>watchlist</td><td>29</td><td>Oct 19</td><td>$2.49</td><td>+1.2%</td><td>Oct 27</td><td>Mentions TE at $2.5.</td><td><a href='https://x.com/a/status/2'>Post</a></td></tr>
+  <tr><td><a href='/stocks/000660.KS'>$000660.KSKSE</a></td><td>bullish</td><td>120</td><td>Nov 04</td><td>₩1,341,000</td><td>-27.8%</td><td>Oct 27</td><td>Memory demand.</td><td><a href='https://x.com/a/status/3'>Post</a></td></tr>
+  </tbody></table>'''
+  self.assertEqual([x['ticker'] for x in extract_stocks(html)],['ASTS','TE','000660.KS'])
