@@ -39,3 +39,13 @@ class TestActualLinkBasedTicker(unittest.TestCase):
   <tr><td><a href='/stocks/000660.KS'>$000660.KSKSE</a></td><td>bullish</td><td>120</td><td>Nov 04</td><td>₩1,341,000</td><td>-27.8%</td><td>Oct 27</td><td>Memory demand.</td><td><a href='https://x.com/a/status/3'>Post</a></td></tr>
   </tbody></table>'''
   self.assertEqual([x['ticker'] for x in extract_stocks(html)],['ASTS','TE','000660.KS'])
+
+
+from scripts.update import valid_ticker
+class TestTickerValidation(unittest.TestCase):
+ def test_valid(self):
+  self.assertTrue(valid_ticker('000660.KS'))
+  self.assertTrue(valid_ticker('ALMU'))
+ def test_price_invalid(self):
+  self.assertFalse(valid_ticker('2.5'))
+  self.assertFalse(valid_ticker('217.70'))

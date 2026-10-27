@@ -16,7 +16,12 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'site' / 'data' / 'tracker.json'
 SOURCE = 'https://serenitystock.com/'
 TICKER_RE = re.compile(r'^\$([A-Za-z0-9][A-Za-z0-9.\-]{0,14})(?=\s|$)')
+COMPANIES = {'NVDA':'엔비디아 (NVIDIA)', 'MU':'마이크론 (Micron)', 'COHR':'코히런트 (Coherent)', 'AAOI':'어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)', 'ALMU':'에일루마 (Aeluma)', '000660.KS':'SK하이닉스', 'ASTS':'AST 스페이스모바일', 'TE':'TE'}
 STANCE = {'bullish': '긍정', 'bearish': '부정', 'neutral': '중립', 'unclear': '판단 보류', 'watchlist': '관심 목록'}
+
+
+def valid_ticker(ticker):
+    return bool(re.fullmatch(r'(?:[A-Z][A-Z0-9.\-]{0,19}|[0-9]{6}\.(?:KS|KQ))', str(ticker or '')))
 
 
 def normalize(s):
@@ -84,7 +89,7 @@ def extract_cards(html):
                 'first_mention':after('First mention'), 'detail_url':detail, 'post_url':xlink}
         if ticker not in found:
             found[ticker] = item
-    return list(found.values())
+    return [x for x in found.values() if valid_ticker(x['ticker'])]
 
 
 def extract_table(html):
@@ -151,7 +156,7 @@ def extract_table(html):
                              'detail_url':detail,'post_url':post}
         if results:
             break
-    return list(results.values())
+    return [x for x in results.values() if valid_ticker(x['ticker'])]
 
 
 def extract_stocks(html):
@@ -174,7 +179,7 @@ def main():
         try: previous=json.loads(OUT.read_text(encoding='utf-8'))
         except (ValueError,OSError): pass
     try:
-        items=extract_stocks(fetch())
+        items=[x for x in extract_stocks(fetch()) if valid_ticker(x['ticker'])]
         if len(items)<3:
             raise RuntimeError(f'Only {len(items)} stock cards parsed; page may have changed')
     except Exception as e:
@@ -183,7 +188,9 @@ def main():
             # Fail without overwriting last successful results.
             sys.exit(1)
         raise
-    old_by_ticker={x['ticker']:x for x in previous.get('stocks',[])}
+    for x in items:
+        x['company_name'] = COMPANIES.get(x['ticker'], '')
+    old_by_ticker={x['ticker']:x for x in previous.get('stocks',[]) if valid_ticker(x.get('ticker'))}
     old_history=previous.get('history',[])
     for x in items:
         old=old_by_ticker.get(x['ticker'])
