@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'site' / 'data' / 'tracker.json'
 SOURCE = 'https://serenitystock.com/'
-TICKER_RE = re.compile(r'(?<![\w.])\$([A-Za-z0-9][A-Za-z0-9.\-]{0,14})(?![\w.])')
+TICKER_RE = re.compile(r'^\$([A-Za-z0-9][A-Za-z0-9.\-]{0,14})(?=\s|$)')
 STANCE = {'bullish': '긍정', 'bearish': '부정', 'neutral': '중립', 'unclear': '판단 보류', 'watchlist': '관심 목록'}
 
 
@@ -35,8 +35,9 @@ def extract_cards(html):
             if not node or node.name in ('body', 'html'):
                 break
             text = node.get_text('\n', strip=True)
-            match = TICKER_RE.search(text)
-            if match and 'Last seen' in text and 'Mentions' in text and len(text) < 3000:
+            headings = [TICKER_RE.match(normalize(v)) for v in node.stripped_strings]
+            headings = [m for m in headings if m and not m.group(1)[0].isdigit()]
+            if headings and 'Last seen' in text and 'Mentions' in text and len(text) < 3000:
                 # Avoid accidentally combining multiple sibling cards.
                 if len(re.findall(r'\bLast seen\b', text)) == 1:
                     chosen = node
@@ -47,10 +48,11 @@ def extract_cards(html):
         lines = [normalize(t) for t in chosen.stripped_strings]
         # Restrict to text from this detail link's card.
         all_text = '\n'.join(lines)
-        m = TICKER_RE.search(all_text)
-        if not m:
+        # Stock ticker must be the first $SYMBOL heading in the card, never a $price in its summary.
+        head = next((TICKER_RE.match(line) for line in lines if TICKER_RE.match(line) and not TICKER_RE.match(line).group(1)[0].isdigit()), None)
+        if not head:
             continue
-        ticker = m.group(1).upper()
+        ticker = head.group(1).upper()
         stance = next((k for k in STANCE if re.search(r'(?im)^'+k+r'$',all_text)), 'unclear')
         def after(label):
             for i, line in enumerate(lines[:-1]):
@@ -113,8 +115,15 @@ def main():
     old_history=previous.get('history',[])
     for x in items:
         old=old_by_ticker.get(x['ticker'])
-        x['changed_since_previous'] = bool(old and (old.get('stance')!=x['stance'] or old.get('last_seen')!=x['last_seen']))
+        x['stance_changed'] = bool(old and old.get('stance') != x['stance'])
+        x['new_mention_since_previous'] = bool(old and (x.get('mentions') or 0) > (old.get('mentions') or 0))
+        x['changed_since_previous'] = bool(old and (x['stance_changed'] or x['new_mention_since_previous'] or old.get('last_seen') != x['last_seen']))
         x['new_since_previous'] = not bool(old)
+        x['previous_stance'] = old.get('stance') if old and x['stance_changed'] else None
+        x['mentions_delta'] = max(0,(x.get('mentions') or 0) - (old.get('mentions') or 0)) if old else None
+    # Rebuild from corrected tickers: previous data may contain mistakenly parsed prices.
+    if old_by_ticker and not any(old_by_ticker.get(x['ticker']) for x in items):
+        print('Previous snapshot appears to use price-as-ticker; resetting comparison baseline')
     counts=Counter(x['stance'] for x in items)
     history=old_history
     day=now[:10]
