@@ -87,6 +87,62 @@ def extract_cards(html):
     return list(found.values())
 
 
+def extract_table(html):
+    """Read the public Latest Mentioned Stocks table rather than page layout cards."""
+    soup = BeautifulSoup(html, 'html.parser')
+    results = {}
+    for table in soup.find_all('table'):
+        heads = [normalize(x.get_text(' ', strip=True)).lower() for x in table.select('thead th')]
+        if not heads:
+            first = table.find('tr')
+            heads = [normalize(x.get_text(' ', strip=True)).lower() for x in first.find_all(['th','td'], recursive=False)] if first else []
+        def column(word):
+            return next((i for i, h in enumerate(heads) if word in h), None)
+        tcol, scol, mcol, lcol = column('ticker'), column('stance'), column('mentions'), column('last seen')
+        if None in (tcol, scol, mcol, lcol):
+            continue
+        firstcol=column('first mention')
+        summarycol=column('summary')
+        postcol=column('post')
+        for tr in table.find_all('tr'):
+            cells = tr.find_all('td', recursive=False)
+            if len(cells) < len(heads):
+                continue
+            ticker_cell = cells[tcol]
+            # Stock symbol occurs at the beginning of the ticker cell, before exchange.
+            raw = normalize(ticker_cell.get_text(' ', strip=True))
+            match = re.match(r'^\$([A-Za-z][A-Za-z0-9.\-]{0,19}|[0-9]{6}\.[A-Za-z]{1,3})(?=\s|$)', raw)
+            if not match:
+                continue
+            ticker = match.group(1).upper()
+            stance = normalize(cells[scol].get_text(' ',strip=True)).lower()
+            if stance not in STANCE:
+                stance = 'unclear'
+            mt = normalize(cells[mcol].get_text(' ',strip=True)).replace(',','')
+            mentions = int(mt) if mt.isdigit() else None
+            summary = normalize(cells[summarycol].get_text(' ',strip=True))[:850] if summarycol is not None else ''
+            def coltext(i):
+                return normalize(cells[i].get_text(' ',strip=True)) if i is not None else ''
+            def href_from(cell, pred):
+                for a in cell.find_all('a', href=True):
+                    absolute = urljoin(SOURCE, a['href'])
+                    if pred(absolute): return absolute
+                return ''
+            detail = href_from(ticker_cell, lambda u: u.startswith('https://serenitystock.com/')) or SOURCE
+            post = href_from(cells[postcol], lambda u: urlparse(u).netloc.lower() in ('x.com','www.x.com','twitter.com','www.twitter.com')) if postcol is not None else ''
+            results[ticker]={'ticker':ticker,'stance':stance,'summary_en':summary,'mentions':mentions,
+                             'last_seen':coltext(lcol),'first_mention':coltext(firstcol),
+                             'detail_url':detail,'post_url':post}
+        if results:
+            break
+    return list(results.values())
+
+
+def extract_stocks(html):
+    items = extract_table(html)
+    return items if len(items) >= 3 else extract_cards(html)
+
+
 def fetch():
     headers={'User-Agent':'Mozilla/5.0 (compatible; SerenityPersonalDashboard/1.0; +https://github.com/)'}
     resp=requests.get(SOURCE,headers=headers,timeout=25)
@@ -102,7 +158,7 @@ def main():
         try: previous=json.loads(OUT.read_text(encoding='utf-8'))
         except (ValueError,OSError): pass
     try:
-        items=extract_cards(fetch())
+        items=extract_stocks(fetch())
         if len(items)<3:
             raise RuntimeError(f'Only {len(items)} stock cards parsed; page may have changed')
     except Exception as e:
