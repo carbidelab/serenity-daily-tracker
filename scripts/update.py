@@ -192,7 +192,7 @@ def main():
     known={x['ticker']:x for x in previous.get('stocks',[]) if valid_ticker(x.get('ticker'))}
     recent_tickers={x['ticker'] for x in items}
     try:
-        extra=collect(set(known)|recent_tickers,max_new=25)
+        extra=collect(set(known)|recent_tickers,max_new=50)
     except Exception as e:
         print('Archive expansion skipped:',str(e)[:180]);extra=[]
     # Current home-page records take precedence; unseen historical records are retained.
