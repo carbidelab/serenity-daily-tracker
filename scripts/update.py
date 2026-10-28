@@ -205,6 +205,9 @@ def main():
         if old and old.get('stance') != x['stance']:
             transitions.append({'observed_at_utc': now, 'from': old['stance'], 'to': x['stance']})
         x['stance_history'] = transitions[-100:]
+        # Keep translation only while the English source is unchanged.
+        if old and old.get('summary_en') == x.get('summary_en') and old.get('summary_ko'):
+            x['summary_ko'] = old['summary_ko']
         # Preserve previously verified pricing when refreshing the archive snapshot.
         if old and isinstance(old.get('price'), dict):
             x['price'] = old['price']
