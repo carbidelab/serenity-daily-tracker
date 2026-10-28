@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-10-28T02:19:33+00:00",
+  "last_successful_sync_utc": "2026-10-28T02:23:06+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -31,7 +31,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:20+00:00"
-      }
+      },
+      "summary_ko": "저자는 SK하이닉스의 장기 메모리 공급 협상을 메모리 내구성 증거로 인용하면서 공급 과잉 위험 속에서 10년 계약에 의문을 제기합니다."
     },
     {
       "ticker": "AAOI",
@@ -60,7 +61,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:20+00:00"
-      }
+      },
+      "summary_ko": "주식에 대한 직접적인 견해는 밝히지 않으면서 새로운 상위 베타 'It's All Over' 포트폴리오에 대한 베타 벤치마킹으로만 AAOI를 언급합니다."
     },
     {
       "ticker": "ALMU",
@@ -89,7 +91,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:21+00:00"
-      }
+      },
+      "summary_ko": "권장 사항이 아닌 새로운 상위 베타 'It's All Over' 포트폴리오에서 ALMU를 $ 7에 예로 나열합니다."
     },
     {
       "ticker": "ANT",
@@ -107,7 +110,8 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "summary_ko": "작성자는 2026년 상반기에 $ 3.4B FCF를 기록한 $ ANT에게 감사를 표합니다."
     },
     {
       "ticker": "ASTS",
@@ -136,7 +140,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:22+00:00"
-      }
+      },
+      "summary_ko": "권장 사항이 아닌 추적 중인 새로운 상위 베타 'It's All Over' 포트폴리오의 예로 ASTS를 $ 39에 나열합니다."
     },
     {
       "ticker": "AVGO",
@@ -165,7 +170,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:22+00:00"
-      }
+      },
+      "summary_ko": "저자는 AVGO가 실패했다는 증폭된 이야기가 타임라인을 지배한다는 생각을 비판하며, 이러한 역학이 건강에 해롭다고 주장합니다. 직접적인 투자 관점은 없습니다."
     },
     {
       "ticker": "AXTI",
@@ -194,7 +200,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:22+00:00"
-      }
+      },
+      "summary_ko": "저자는 InP 기판이 심각한 공급 부족 상태에 있으며 AXTI와 같은 공급업체가 병목 현상과 가격 책정 능력의 이점을 누릴 수 있다는 VPEC의 경고를 강조합니다."
     },
     {
       "ticker": "BABA",
@@ -223,7 +230,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:22+00:00"
-      }
+      },
+      "summary_ko": "저자는 알리바바가 장기 메모리 공급 계약을 협상하는 중국 클라우드 공급 업체 중 하나이며 하이퍼스케일러가 10년 계약을 추구하는 이유에 대해 의문을 제기합니다."
     },
     {
       "ticker": "BYTEDANCE",
@@ -241,7 +249,8 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "summary_ko": "저자는 ByteDance가 장기 메모리 공급 계약을 협상하는 중국 클라우드 공급 업체 중 하나이며 하이퍼스케일러가 10 년 계약을 추구하는 이유에 대해 질문합니다."
     },
     {
       "ticker": "CIFR",
@@ -270,7 +279,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:23+00:00"
-      }
+      },
+      "summary_ko": "권장 사항이 아닌 추적 중인 새로운 상위 베타 'It's All Over' 포트폴리오의 예로 CIFR을 $ 8에 나열합니다."
     },
     {
       "ticker": "COHR",
@@ -299,7 +309,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:23+00:00"
-      }
+      },
+      "summary_ko": "작성자 메모 Coherent는 마진을 극대화하기 위해 용량을 재할당할 수 있으며, 레이저 수요 증가와 촘촘한 공급은 부족과 가격 인상을 유발할 수 있습니다."
     },
     {
       "ticker": "GOOGL",
@@ -328,7 +339,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:24+00:00"
-      }
+      },
+      "summary_ko": "저자는 Google 뉴스가 Google에 대한 명확한 견해를 표명하지 않고 장기 메모리 공급 계약을 협상하는 다른 클라우드 제공 업체보다 앞서 있다고 지적합니다."
     },
     {
       "ticker": "LITE",
@@ -357,7 +369,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:24+00:00"
-      }
+      },
+      "summary_ko": "저자는 LITE 및 기타 레이저 공급 업체가 타이트한 CW 레이저 용량과 잠재적인 할당 전쟁 및 가격 인상으로 엄청난 광학 수요에 직면하고 있음을 확인합니다."
     },
     {
       "ticker": "META",
@@ -386,7 +399,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:24+00:00"
-      }
+      },
+      "summary_ko": "플랫폼 담론 비유에서 NVDA의 Jensen Huang이 소유한 가상의 회사로 언급됨. 직접 투자 스탠스 없음."
     },
     {
       "ticker": "MU",
@@ -415,7 +429,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:25+00:00"
-      }
+      },
+      "summary_ko": "저자는이 뉴스를 잠재적 인 중국 메모리 공급 과잉 속에서 장기적인 LTA 논리에 의문을 제기하면서 Micron에 대한 더 많은 메모리 내구성 증거로 인용합니다."
     },
     {
       "ticker": "NVDA",
@@ -444,7 +459,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:25+00:00"
-      }
+      },
+      "summary_ko": "저자는 SPCX 파이낸싱이 2027년 상반기에 NVDA GPU 조달에 자금을 지원하고 메모리 및 네트워킹에 대한 수요를 간접적으로 제거하여 AI 인프라 수요를 지원할 것이라고 말합니다."
     },
     {
       "ticker": "SHAZ",
@@ -473,7 +489,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:25+00:00"
-      }
+      },
+      "summary_ko": "새로운 상위 베타 'It's All Over' 포트폴리오의 'Leopold 거래' 중 하나로 $ 25에 Shaz를 언급합니다."
     },
     {
       "ticker": "SPCX",
@@ -502,7 +519,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:26+00:00"
-      }
+      },
+      "summary_ko": "작성자 노트 Elon은 SPCX 파이낸싱이 2027년 상반기에 NVDA GPU 구매에 주로 자금을 지원할 것이며, \"AI Infra\" 버블에 들어가는 또 다른 $ 40B에 대한 비꼬는 프레임 내에서 자금을 조달할 것이라고 말했습니다."
     },
     {
       "ticker": "SSNLF",
@@ -531,7 +549,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:26+00:00"
-      }
+      },
+      "summary_ko": "저자는 삼성의 장기 메모리 공급 협상을 메모리 내구성 증거로 인용하면서 공급 과잉 위험 속에서 10 년 계약에 의문을 제기합니다."
     },
     {
       "ticker": "TCEHY",
@@ -560,7 +579,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:26+00:00"
-      }
+      },
+      "summary_ko": "저자는 Tencent가 장기 메모리 공급 계약을 협상하는 중국 클라우드 공급업체 중 하나이며 하이퍼스케일러가 10년 계약을 추구하는 이유에 대해 의문을 제기한다고 보고합니다."
     },
     {
       "ticker": "TE",
@@ -589,7 +609,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:27+00:00"
-      }
+      },
+      "summary_ko": "추천이 아닌 새로운 상위 베타 'It's All Over' 포트폴리오에서 'Leopold 거래' 중 하나로 $ 2.5에 TE를 언급합니다."
     },
     {
       "ticker": "TSLA",
@@ -618,7 +639,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-10-28T01:46:27+00:00"
-      }
+      },
+      "summary_ko": "자신의 회사와 충돌하는 회사에 대한 붕괴 내러티브를 증폭시킨다는 비판에서 X 오너의 이익 중 하나로 언급했다. 직접 투자 입장은 없다."
     }
   ],
   "history": [
