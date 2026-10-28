@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-10-28T01:44:30+00:00",
+  "last_successful_sync_utc": "2026-10-28T01:46:19+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -20,7 +20,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 1449000.0,
+        "latest_date": "2026-10-28",
+        "first_close": 586000.0,
+        "first_price_date": "2025-11-04",
+        "return_pct": 147.27,
+        "currency": "KRW",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:20+00:00"
+      }
     },
     {
       "ticker": "AAOI",
@@ -38,7 +49,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 76.95,
+        "latest_date": "2026-10-27",
+        "first_close": 36.32,
+        "first_price_date": "2025-12-11",
+        "return_pct": 111.87,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:20+00:00"
+      }
     },
     {
       "ticker": "ALMU",
@@ -56,7 +78,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 7.75,
+        "latest_date": "2026-10-27",
+        "first_close": 21.46,
+        "first_price_date": "2026-01-14",
+        "return_pct": -63.89,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:21+00:00"
+      }
     },
     {
       "ticker": "ANT",
@@ -92,7 +125,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 41.96,
+        "latest_date": "2026-10-27",
+        "first_close": 54.5,
+        "first_price_date": "2025-09-24",
+        "return_pct": -23.01,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:22+00:00"
+      }
     },
     {
       "ticker": "AVGO",
@@ -110,7 +154,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 342.33,
+        "latest_date": "2026-10-27",
+        "first_close": 334.53,
+        "first_price_date": "2025-09-26",
+        "return_pct": 2.33,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:22+00:00"
+      }
     },
     {
       "ticker": "AXTI",
@@ -128,7 +183,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 58.23,
+        "latest_date": "2026-10-27",
+        "first_close": 15.22,
+        "first_price_date": "2025-12-22",
+        "return_pct": 282.59,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:22+00:00"
+      }
     },
     {
       "ticker": "BABA",
@@ -146,7 +212,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 100.24,
+        "latest_date": "2026-10-27",
+        "first_close": 173.23,
+        "first_price_date": "2026-01-23",
+        "return_pct": -42.13,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:22+00:00"
+      }
     },
     {
       "ticker": "BYTEDANCE",
@@ -182,7 +259,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 8.48,
+        "latest_date": "2026-10-27",
+        "first_close": 11.66,
+        "first_price_date": "2025-09-25",
+        "return_pct": -27.27,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:23+00:00"
+      }
     },
     {
       "ticker": "COHR",
@@ -200,7 +288,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 235.79,
+        "latest_date": "2026-10-27",
+        "first_close": 163.5,
+        "first_price_date": "2025-12-01",
+        "return_pct": 44.21,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:23+00:00"
+      }
     },
     {
       "ticker": "GOOGL",
@@ -218,7 +317,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 320.58,
+        "latest_date": "2026-10-27",
+        "first_close": 179.53,
+        "first_price_date": "2025-07-03",
+        "return_pct": 78.57,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:24+00:00"
+      }
     },
     {
       "ticker": "LITE",
@@ -236,7 +346,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 866.18,
+        "latest_date": "2026-10-27",
+        "first_close": 193.8,
+        "first_price_date": "2025-10-27",
+        "return_pct": 346.95,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:24+00:00"
+      }
     },
     {
       "ticker": "META",
@@ -254,7 +375,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 620.19,
+        "latest_date": "2026-10-27",
+        "first_close": 760.66,
+        "first_price_date": "2025-09-24",
+        "return_pct": -18.47,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:24+00:00"
+      }
     },
     {
       "ticker": "MU",
@@ -272,7 +404,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 928.76,
+        "latest_date": "2026-10-27",
+        "first_close": 156.83,
+        "first_price_date": "2025-09-25",
+        "return_pct": 492.21,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:25+00:00"
+      }
     },
     {
       "ticker": "NVDA",
@@ -290,7 +433,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 217.94,
+        "latest_date": "2026-10-27",
+        "first_close": 179.81,
+        "first_price_date": "2025-08-25",
+        "return_pct": 21.21,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:25+00:00"
+      }
     },
     {
       "ticker": "SHAZ",
@@ -308,7 +462,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 25.75,
+        "latest_date": "2026-10-27",
+        "first_close": 79.96,
+        "first_price_date": "2026-07-06",
+        "return_pct": -67.8,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:25+00:00"
+      }
     },
     {
       "ticker": "SPCX",
@@ -326,7 +491,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 148.58,
+        "latest_date": "2026-10-27",
+        "first_close": 160.95,
+        "first_price_date": "2026-06-12",
+        "return_pct": -7.69,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:26+00:00"
+      }
     },
     {
       "ticker": "SSNLF",
@@ -344,7 +520,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 65.21,
+        "latest_date": "2026-10-26",
+        "first_close": 65.21,
+        "first_price_date": "2025-12-29",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:26+00:00"
+      }
     },
     {
       "ticker": "TCEHY",
@@ -362,7 +549,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 49.46,
+        "latest_date": "2026-10-27",
+        "first_close": 49.46,
+        "first_price_date": "2026-10-27",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:26+00:00"
+      }
     },
     {
       "ticker": "TE",
@@ -380,7 +578,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 2.46,
+        "latest_date": "2026-10-27",
+        "first_close": 4.76,
+        "first_price_date": "2025-10-20",
+        "return_pct": -48.32,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:27+00:00"
+      }
     },
     {
       "ticker": "TSLA",
@@ -398,7 +607,18 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 0,
-      "stance_history": []
+      "stance_history": [],
+      "price": {
+        "latest_close": 407.46,
+        "latest_date": "2026-10-27",
+        "first_close": 346.6,
+        "first_price_date": "2025-08-25",
+        "return_pct": 17.56,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-10-28T01:46:27+00:00"
+      }
     }
   ],
   "history": [
