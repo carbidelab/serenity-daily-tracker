@@ -36,6 +36,10 @@ jobs:
       - name: Collect latest third-party archive snapshot
         run: python scripts/update.py
         continue-on-error: true
+        
+      - name: Enrich with end-of-day prices (optional)
+        run: python scripts/enrich_prices.py
+        continue-on-error: true
 
       - name: Save observations to repository
         run: |
