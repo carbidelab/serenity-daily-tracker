@@ -200,6 +200,14 @@ def main():
         x['new_since_previous'] = not bool(old)
         x['previous_stance'] = old.get('stance') if old and x['stance_changed'] else None
         x['mentions_delta'] = max(0,(x.get('mentions') or 0) - (old.get('mentions') or 0)) if old else None
+        # Observable stance changes only; earlier unseen changes cannot be reconstructed.
+        transitions = list(old.get('stance_history', [])) if old else []
+        if old and old.get('stance') != x['stance']:
+            transitions.append({'observed_at_utc': now, 'from': old['stance'], 'to': x['stance']})
+        x['stance_history'] = transitions[-100:]
+        # Preserve previously verified pricing when refreshing the archive snapshot.
+        if old and isinstance(old.get('price'), dict):
+            x['price'] = old['price']
     # Rebuild from corrected tickers: previous data may contain mistakenly parsed prices.
     if old_by_ticker and not any(old_by_ticker.get(x['ticker']) for x in items):
         print('Previous snapshot appears to use price-as-ticker; resetting comparison baseline')
