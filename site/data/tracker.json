@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-10-28T00:05:26+00:00",
+  "last_successful_sync_utc": "2026-10-28T01:30:48+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -19,7 +19,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "AAOI",
@@ -36,7 +37,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "ALMU",
@@ -53,7 +55,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "ANT",
@@ -70,7 +73,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "ASTS",
@@ -87,7 +91,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "AVGO",
@@ -104,7 +109,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "AXTI",
@@ -121,7 +127,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "BABA",
@@ -138,7 +145,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "BYTEDANCE",
@@ -155,7 +163,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "CIFR",
@@ -172,7 +181,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "COHR",
@@ -189,7 +199,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "GOOGL",
@@ -206,7 +217,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "LITE",
@@ -223,7 +235,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "META",
@@ -240,7 +253,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "MU",
@@ -257,7 +271,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "NVDA",
@@ -274,7 +289,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "SHAZ",
@@ -291,7 +307,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "SPCX",
@@ -308,7 +325,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "SSNLF",
@@ -325,7 +343,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "TCEHY",
@@ -342,7 +361,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "TE",
@@ -359,7 +379,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     },
     {
       "ticker": "TSLA",
@@ -376,7 +397,8 @@
       "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0
+      "mentions_delta": 0,
+      "stance_history": []
     }
   ],
   "history": [
