@@ -199,7 +199,7 @@ def main():
     items.extend(extra)
     items.extend(dict(v) for k,v in known.items() if k not in {x['ticker'] for x in items})
     for x in items:
-        x['company_name'] = COMPANIES.get(x['ticker'], '')
+        x['company_name'] = COMPANIES.get(x['ticker']) or x.get('company_name', '')
     old_by_ticker={x['ticker']:x for x in previous.get('stocks',[]) if valid_ticker(x.get('ticker'))}
     old_history=previous.get('history',[])
     for x in items:
