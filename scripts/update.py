@@ -11,6 +11,7 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+from archive_expand import collect
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'site' / 'data' / 'tracker.json'
@@ -188,12 +189,27 @@ def main():
             # Fail without overwriting last successful results.
             sys.exit(1)
         raise
+    known={x['ticker']:x for x in previous.get('stocks',[]) if valid_ticker(x.get('ticker'))}
+    recent_tickers={x['ticker'] for x in items}
+    try:
+        extra=collect(set(known)|recent_tickers,max_new=25)
+    except Exception as e:
+        print('Archive expansion skipped:',str(e)[:180]);extra=[]
+    # Current home-page records take precedence; unseen historical records are retained.
+    items.extend(extra)
+    items.extend(dict(v) for k,v in known.items() if k not in {x['ticker'] for x in items})
     for x in items:
         x['company_name'] = COMPANIES.get(x['ticker'], '')
     old_by_ticker={x['ticker']:x for x in previous.get('stocks',[]) if valid_ticker(x.get('ticker'))}
     old_history=previous.get('history',[])
     for x in items:
         old=old_by_ticker.get(x['ticker'])
+        if x['ticker'] not in recent_tickers and x['ticker'] not in {z['ticker'] for z in extra}:
+            # Retained historical observation: no new observation occurred today.
+            for key in ('stance_changed','new_mention_since_previous','changed_since_previous','new_since_previous'):
+                x[key]=False
+            x['mentions_delta']=0
+            continue
         x['stance_changed'] = bool(old and old.get('stance') != x['stance'])
         x['new_mention_since_previous'] = bool(old and (x.get('mentions') or 0) > (old.get('mentions') or 0))
         x['changed_since_previous'] = bool(old and (x['stance_changed'] or x['new_mention_since_previous'] or old.get('last_seen') != x['last_seen']))
@@ -222,10 +238,10 @@ def main():
     else: history.append(record)
     doc={'source':SOURCE,'source_type':'third_party_archive_snapshot','last_successful_sync_utc':now,
          'disclaimer':'Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.',
-         'stocks':sorted(items,key=lambda x:(not x['changed_since_previous'],not x['new_since_previous'],x['ticker'])),
+         'stocks':sorted(items,key=lambda x:(x.get('last_seen',''),x['ticker']),reverse=True),
          'history':history[-365:]}
     OUT.parent.mkdir(parents=True,exist_ok=True)
     OUT.write_text(json.dumps(doc,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    print(f'Saved {len(items)} tickers at {now}')
+    print(f'Saved {len(items)} tickers (home: {len(recent_tickers)}, archived new: {len(extra)}, retained: {len(items)-len(recent_tickers)-len(extra)}) at {now}')
 
 if __name__=='__main__':main()
