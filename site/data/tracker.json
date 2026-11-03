@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-03T11:56:43+00:00",
+  "last_successful_sync_utc": "2026-11-03T23:48:06+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -412,12 +412,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/SMTC",
       "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T11:56:43+00:00",
@@ -425,6 +425,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "저자는 Semtech가 레이저 용량을 확장하기 위해 M&A를 명시적으로 수행하는 또 다른 업체라고 언급합니다.",
       "price": {
         "latest_close": 122.38,
         "latest_date": "2026-11-02",
@@ -435,8 +436,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-03T06:02:55+00:00"
-      },
-      "summary_ko": "저자는 Semtech가 레이저 용량을 확장하기 위해 M&A를 명시적으로 수행하는 또 다른 업체라고 언급합니다."
+      }
     },
     {
       "ticker": "SIVE.ST",
@@ -448,12 +448,12 @@
       "detail_url": "https://serenitystock.com/stocks/STO/SIVE.ST",
       "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T11:56:43+00:00",
@@ -461,6 +461,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "저자는 Sivers를 레이저 병목 현상 기회 내에서 외부 파운드리 용량이 100M인 새로운 CW/ELS 레이저 소스로 강조합니다.",
       "price": {
         "latest_close": 20.9,
         "latest_date": "2026-10-30",
@@ -471,8 +472,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-03T06:02:55+00:00"
-      },
-      "summary_ko": "저자는 Sivers를 레이저 병목 현상 기회 내에서 외부 파운드리 용량이 100M인 새로운 CW/ELS 레이저 소스로 강조합니다."
+      }
     },
     {
       "ticker": "MRVL",
@@ -484,12 +484,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/MRVL",
       "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-30T11:52:23+00:00",
@@ -507,6 +507,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "저자는 Marvell/Lumentum 인수의 카운터 포인트로 게시물을 구성하여 Marvell과 경쟁하는 구매자가 두 번째 독립적 인 레이저 소스를 찾을 것이라고 주장합니다.",
       "price": {
         "latest_close": 171.41,
         "latest_date": "2026-11-02",
@@ -517,24 +518,138 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-03T06:02:55+00:00"
-      },
-      "summary_ko": "저자는 Marvell/Lumentum 인수의 카운터 포인트로 게시물을 구성하여 Marvell과 경쟁하는 구매자가 두 번째 독립적 인 레이저 소스를 찾을 것이라고 주장합니다."
+      }
+    },
+    {
+      "ticker": "JBL",
+      "stance": "neutral",
+      "summary_en": "Author cites Jabil as an example of module makers moving upstream and heavily competing with the combined Lumentum + Marvell.",
+      "mentions": 70,
+      "last_seen": "Nov 03, 2026, 09:31 AM",
+      "first_mention": "Dec 01, 2025, 06:25 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/JBL",
+      "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [],
+      "summary_ko": "저자는 모듈 제조업체가 상류로 이동하고 결합된 Lumentum + Marvell과 크게 경쟁하는 사례로 Jabil을 인용합니다.",
+      "price": {
+        "latest_close": 266.35,
+        "latest_date": "2026-11-02",
+        "first_close": 209.99,
+        "first_price_date": "2025-12-01",
+        "return_pct": 26.84,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-03T06:02:56+00:00"
+      }
+    },
+    {
+      "ticker": "CRDO",
+      "stance": "neutral",
+      "summary_en": "Author notes Credo as a name mentioned as a potential partner of Sivers in the new CW/ELS laser capacity discussion.",
+      "mentions": 59,
+      "last_seen": "Nov 03, 2026, 09:31 AM",
+      "first_mention": "Jul 21, 2025, 08:15 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CRDO",
+      "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [],
+      "summary_ko": "저자는 새로운 CW/ELS 레이저 용량 논의에서 Sivers의 잠재적 파트너로 언급된 이름으로 Credo를 언급합니다.",
+      "price": {
+        "latest_close": 140.02,
+        "latest_date": "2026-11-02",
+        "first_close": 95.74,
+        "first_price_date": "2025-07-21",
+        "return_pct": 46.25,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-03T06:05:54+00:00"
+      }
+    },
+    {
+      "ticker": "POET",
+      "stance": "bearish",
+      "summary_en": "Author highlights POET's steep decline, noting it trades near net cash and below book value and would need a 337.5% rally to reach the prior financing price.",
+      "mentions": 103,
+      "last_seen": "Nov 03, 2026, 08:47 AM",
+      "first_mention": "Dec 11, 2025, 10:18 PM",
+      "detail_url": "https://serenitystock.com/stocks/NCM/POET",
+      "post_url": "https://x.com/aleabitoreddit/status/2117539121434591711",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        }
+      ],
+      "summary_ko": "저자는 시인의 가파른 하락세를 강조하면서 순 현금에 가깝고 장부가액보다 낮게 거래되며 이전 자금 조달 가격에 도달하려면 337.5% 의 랠리가 필요할 것이라고 지적합니다.",
+      "price": {
+        "latest_close": 4.8,
+        "latest_date": "2026-11-02",
+        "first_close": 7.22,
+        "first_price_date": "2025-12-11",
+        "return_pct": -33.52,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-03T06:04:07+00:00"
+      }
+    },
+    {
+      "ticker": "ESMT",
+      "stance": "bullish",
+      "summary_en": "Author is bullish on ESMT, citing strong margins, net cash, inventory, a low annualized P/E, and expected DDR2/DDR3 price support despite the market selloff.",
+      "mentions": 12,
+      "last_seen": "Nov 03, 2026, 05:47 AM",
+      "first_mention": "Aug 29, 2026, 09:20 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
+      "post_url": "https://x.com/aleabitoreddit/status/2117493886100918684",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [],
+      "summary_ko": "저자는 시장 매도에도 불구하고 강력한 마진, 순 현금, 재고, 낮은 연간 P/E 및 예상 DDR2/DDR3 가격 지원을 인용하여 ESMT에서 낙관적입니다."
     },
     {
       "ticker": "LITE",
       "stance": "neutral",
-      "summary_en": "Author cites Lumentum as sold out for years, with overflow demand going to whoever has merchant laser capacity, in the Marvell/Lumentum acquisition context.",
-      "mentions": 428,
-      "last_seen": "Nov 03, 2026, 09:31 AM",
+      "summary_en": "Author notes LITE announced a $5B contract and that AXTI has contracts with LITE.",
+      "mentions": 429,
+      "last_seen": "Nov 03, 2026, 05:06 PM",
       "first_mention": "Oct 25, 2025, 06:17 AM",
       "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
-      "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
+      "post_url": "https://x.com/aleabitoreddit/status/2117664715811995717",
       "company_name": "",
-      "stance_changed": true,
+      "stance_changed": false,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "bullish",
+      "previous_stance": null,
       "mentions_delta": 1,
       "stance_history": [
         {
@@ -569,47 +684,58 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-03T06:02:49+00:00"
       },
-      "summary_ko": "저자는 Marvell/Lumentum 인수 맥락에서 Lumentum을 수년간 매진된 것으로 인용하며, 오버플로우 수요는 상인 레이저 용량을 가진 사람에게 전달됩니다."
+      "summary_ko": "작성자 노트 Lite는 $ 5B 계약을 발표했으며 AXTI는 Lite와 계약을 맺었습니다."
     },
     {
-      "ticker": "JBL",
+      "ticker": "COHR",
       "stance": "neutral",
-      "summary_en": "Author cites Jabil as an example of module makers moving upstream and heavily competing with the combined Lumentum + Marvell.",
-      "mentions": 70,
-      "last_seen": "Nov 03, 2026, 09:31 AM",
-      "first_mention": "Dec 01, 2025, 06:25 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/JBL",
-      "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
-      "company_name": "",
-      "stance_changed": false,
+      "summary_en": "Author notes AXTI has contracts with COHR.",
+      "mentions": 218,
+      "last_seen": "Nov 03, 2026, 05:06 PM",
+      "first_mention": "Dec 01, 2025, 05:21 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
+      "post_url": "https://x.com/aleabitoreddit/status/2117664715811995717",
+      "company_name": "코히런트 (Coherent)",
+      "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": null,
+      "previous_stance": "unclear",
       "mentions_delta": 1,
-      "stance_history": [],
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
       "price": {
-        "latest_close": 266.35,
+        "latest_close": 199.95,
         "latest_date": "2026-11-02",
-        "first_close": 209.99,
+        "first_close": 163.5,
         "first_price_date": "2025-12-01",
-        "return_pct": 26.84,
+        "return_pct": 22.29,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-03T06:02:56+00:00"
+        "fetched_utc": "2026-11-03T06:02:49+00:00"
       },
-      "summary_ko": "저자는 모듈 제조업체가 상류로 이동하고 결합된 Lumentum + Marvell과 크게 경쟁하는 사례로 Jabil을 인용합니다."
+      "summary_ko": "작성자 메모 AXTI는 COHR과 계약을 맺었습니다."
     },
     {
-      "ticker": "CRDO",
-      "stance": "neutral",
-      "summary_en": "Author notes Credo as a name mentioned as a potential partner of Sivers in the new CW/ELS laser capacity discussion.",
-      "mentions": 59,
-      "last_seen": "Nov 03, 2026, 09:31 AM",
-      "first_mention": "Jul 21, 2025, 08:15 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CRDO",
-      "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
+      "ticker": "AXTI",
+      "stance": "bullish",
+      "summary_en": "Author views AXTI positively, expecting it to likely become #1 in InP substrate manufacturing scale and noting its contracts with LITE and COHR.",
+      "mentions": 469,
+      "last_seen": "Nov 03, 2026, 05:06 PM",
+      "first_mention": "Dec 22, 2025, 09:48 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AXTI",
+      "post_url": "https://x.com/aleabitoreddit/status/2117664715811995717",
       "company_name": "",
       "stance_changed": false,
       "new_mention_since_previous": true,
@@ -619,33 +745,33 @@
       "mentions_delta": 1,
       "stance_history": [],
       "price": {
-        "latest_close": 140.02,
+        "latest_close": 48.2,
         "latest_date": "2026-11-02",
-        "first_close": 95.74,
-        "first_price_date": "2025-07-21",
-        "return_pct": 46.25,
+        "first_close": 15.22,
+        "first_price_date": "2025-12-22",
+        "return_pct": 216.69,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-03T06:05:54+00:00"
+        "fetched_utc": "2026-11-03T06:02:53+00:00"
       },
-      "summary_ko": "저자는 새로운 CW/ELS 레이저 용량 논의에서 Sivers의 잠재적 파트너로 언급된 이름으로 Credo를 언급합니다."
+      "summary_ko": "작성자는 AXTI가 InP 기판 제조 규모에서 1위가 될 것으로 예상하고 LITE 및 COHR과의 계약을 언급하면서 AXTI를 긍정적으로 보고 있습니다."
     },
     {
       "ticker": "AAOI",
-      "stance": "neutral",
-      "summary_en": "Author uses AAOI's roughly ~24M/year exit-2026 laser capacity target as a scale comparison, noting it has a different blend.",
-      "mentions": 404,
-      "last_seen": "Nov 03, 2026, 09:31 AM",
+      "stance": "bullish",
+      "summary_en": "Author views AAOI positively after its $194.4M/year Yuunan Germanium contract and capacity expansion, noting secured capacity during the bottleneck and a possible earnings signal.",
+      "mentions": 405,
+      "last_seen": "Nov 03, 2026, 05:06 PM",
       "first_mention": "Dec 11, 2025, 10:10 PM",
       "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
-      "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
+      "post_url": "https://x.com/aleabitoreddit/status/2117664715811995717",
       "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "bullish",
+      "previous_stance": "neutral",
       "mentions_delta": 1,
       "stance_history": [
         {
@@ -657,6 +783,11 @@
           "observed_at_utc": "2026-11-03T11:56:43+00:00",
           "from": "bullish",
           "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "neutral",
+          "to": "bullish"
         }
       ],
       "price": {
@@ -670,17 +801,17 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-03T06:02:57+00:00"
       },
-      "summary_ko": "작성자는 AAOI의 대략 ~ 24M/년 출구-2026 레이저 용량 목표를 스케일 비교로 사용하며, 이는 다른 혼합을 가지고 있습니다."
+      "summary_ko": "저자는 $ 194.4M/year Yuunan 게르마늄 계약 및 용량 확장 후 AAOI를 긍정적으로 보고 있으며, 병목 현상 동안 확보된 용량과 수익 신호 가능성을 지적합니다."
     },
     {
-      "ticker": "POET",
-      "stance": "bearish",
-      "summary_en": "Author highlights POET's steep decline, noting it trades near net cash and below book value and would need a 337.5% rally to reach the prior financing price.",
-      "mentions": 103,
-      "last_seen": "Nov 03, 2026, 08:47 AM",
-      "first_mention": "Dec 11, 2025, 10:18 PM",
-      "detail_url": "https://serenitystock.com/stocks/NCM/POET",
-      "post_url": "https://x.com/aleabitoreddit/status/2117539121434591711",
+      "ticker": "FN",
+      "stance": "bullish",
+      "summary_en": "Author is glad to see high-beta AI semiconductor FN rallying after earnings.",
+      "mentions": 20,
+      "last_seen": "Nov 03, 2026, 03:27 PM",
+      "first_mention": "Feb 27, 2026, 06:28 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/FN",
+      "post_url": "https://x.com/aleabitoreddit/status/2117639781572366705",
       "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
@@ -690,33 +821,129 @@
       "mentions_delta": 1,
       "stance_history": [
         {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
           "from": "neutral",
-          "to": "bearish"
+          "to": "bullish"
         }
       ],
       "price": {
-        "latest_close": 4.8,
+        "latest_close": 314.7,
         "latest_date": "2026-11-02",
-        "first_close": 7.22,
-        "first_price_date": "2025-12-11",
-        "return_pct": -33.52,
+        "first_close": 545.63,
+        "first_price_date": "2026-02-27",
+        "return_pct": -42.32,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-03T06:04:07+00:00"
+        "fetched_utc": "2026-11-03T06:05:25+00:00"
       },
-      "summary_ko": "저자는 시인의 가파른 하락세를 강조하면서 순 현금에 가깝고 장부가액보다 낮게 거래되며 이전 자금 조달 가격에 도달하려면 337.5% 의 랠리가 필요할 것이라고 지적합니다."
+      "summary_ko": "저자는 수익 이후 하이 베타 AI 반도체 FN 랠리를 보게 되어 기쁩니다."
     },
     {
-      "ticker": "ESMT",
+      "ticker": "AEHR",
       "stance": "bullish",
-      "summary_en": "Author is bullish on ESMT, citing strong margins, net cash, inventory, a low annualized P/E, and expected DDR2/DDR3 price support despite the market selloff.",
-      "mentions": 12,
-      "last_seen": "Nov 03, 2026, 05:47 AM",
-      "first_mention": "Aug 29, 2026, 09:20 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
-      "post_url": "https://x.com/aleabitoreddit/status/2117493886100918684",
+      "summary_en": "Author is glad to see high-beta AI semiconductor AEHR rallying after earnings.",
+      "mentions": 86,
+      "last_seen": "Nov 03, 2026, 03:27 PM",
+      "first_mention": "Jan 16, 2026, 07:57 AM",
+      "detail_url": "https://serenitystock.com/stocks/NCM/AEHR",
+      "post_url": "https://x.com/aleabitoreddit/status/2117639781572366705",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 51.47,
+        "latest_date": "2026-11-02",
+        "first_close": 28.81,
+        "first_price_date": "2026-01-16",
+        "return_pct": 78.65,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-03T06:02:54+00:00"
+      },
+      "summary_ko": "저자는 수익 이후 하이 베타 AI 반도체 AEHR 랠리를 보게 되어 기쁩니다."
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "neutral",
+      "summary_en": "Mentioned only as a backer of Agility Robotics; no independent view on NVDA is expressed.",
+      "mentions": 417,
+      "last_seen": "Nov 03, 2026, 03:06 PM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2117634458778247210",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 202.06,
+        "latest_date": "2026-11-02",
+        "first_close": 179.81,
+        "first_price_date": "2025-08-25",
+        "return_pct": 12.37,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-03T06:02:54+00:00"
+      },
+      "summary_ko": "Agility Robotics의 후원자로서만 언급되며 NVDA에 대한 독립적인 견해는 표현되지 않습니다."
+    },
+    {
+      "ticker": "CCIX",
+      "stance": "bullish",
+      "summary_en": "Author purchased shares today after seeing the news and currently holds a position.",
+      "mentions": 1,
+      "last_seen": "Nov 03, 2026, 03:06 PM",
+      "first_mention": "Nov 03, 2026, 03:06 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/CCIX",
+      "post_url": "https://x.com/aleabitoreddit/status/2117634458778247210",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "summary_ko": "작성자는 뉴스를 본 후 오늘 주식을 구입했으며 현재 직책을 맡고 있습니다."
+    },
+    {
+      "ticker": "AMZN",
+      "stance": "neutral",
+      "summary_en": "Mentioned only as a backer of Agility Robotics; no independent view on AMZN is expressed.",
+      "mentions": 179,
+      "last_seen": "Nov 03, 2026, 03:06 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
+      "post_url": "https://x.com/aleabitoreddit/status/2117634458778247210",
       "company_name": "",
       "stance_changed": false,
       "new_mention_since_previous": true,
@@ -724,8 +951,50 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 1,
-      "stance_history": [],
-      "summary_ko": "저자는 시장 매도에도 불구하고 강력한 마진, 순 현금, 재고, 낮은 연간 P/E 및 예상 DDR2/DDR3 가격 지원을 인용하여 ESMT에서 낙관적입니다."
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 245.63,
+        "latest_date": "2026-11-02",
+        "first_close": 220.21,
+        "first_price_date": "2025-09-24",
+        "return_pct": 11.54,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-03T06:02:53+00:00"
+      },
+      "summary_ko": "Agility Robotics의 후원자로서만 언급되며 AMZN에 대한 독립적인 견해는 표현되지 않습니다."
+    },
+    {
+      "ticker": "AGLT",
+      "stance": "neutral",
+      "summary_en": "Merger is approved; AGLT is expected to begin trading November 5 as the first US pure-play humanoid company, with a warning that reduced share count may cause significant volatility.",
+      "mentions": 2,
+      "last_seen": "Nov 03, 2026, 03:06 PM",
+      "first_mention": "Oct 13, 2026, 10:56 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/AGLT",
+      "post_url": "https://x.com/aleabitoreddit/status/2117634458778247210",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "합병이 승인되었습니다. AGLT는 11 월 5 일 미국 최초의 순수 휴머노이드 회사로 거래를 시작할 것으로 예상되며, 주식 수가 감소하면 상당한 변동성이 발생할 수 있음을 경고합니다."
     },
     {
       "ticker": "SPCX",
@@ -829,42 +1098,6 @@
         "first_close": 52.37,
         "first_price_date": "2025-07-21",
         "return_pct": 169.98,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-03T06:02:49+00:00"
-      }
-    },
-    {
-      "ticker": "COHR",
-      "stance": "unclear",
-      "summary_en": "Author notes that investors were long COHR two months ago and now flip-flop on market narratives, without giving a direct view on COHR.",
-      "mentions": 217,
-      "last_seen": "Nov 03, 2026, 02:04 AM",
-      "first_mention": "Dec 01, 2025, 05:21 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
-      "post_url": "https://x.com/aleabitoreddit/status/2117437833820672397",
-      "company_name": "코히런트 (Coherent)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "저자는 투자자들이 COHR에 대한 직접적인 견해를 밝히지 않고 두 달 전에는 긴 COHR이었지만 이제는 시장 서술에 대한 플립플롭 (flip-flop) 을 했다고 지적합니다.",
-      "price": {
-        "latest_close": 199.95,
-        "latest_date": "2026-11-02",
-        "first_close": 163.5,
-        "first_price_date": "2025-12-01",
-        "return_pct": 22.29,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1190,72 +1423,6 @@
       }
     },
     {
-      "ticker": "AXTI",
-      "stance": "bullish",
-      "summary_en": "Guided annualized Q4 at 23.7x P/E, before potential InP substrate hikes and capacity expansion that could compress it to single digits.",
-      "mentions": 468,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Dec 22, 2025, 09:48 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AXTI",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "잠재적인 InP 기판 인상 및 용량 확장이 한 자릿수로 압축될 수 있기 전에 연간 4분기를 23.7x P/E로 안내합니다.",
-      "price": {
-        "latest_close": 48.2,
-        "latest_date": "2026-11-02",
-        "first_close": 15.22,
-        "first_price_date": "2025-12-22",
-        "return_pct": 216.69,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-03T06:02:53+00:00"
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "stance": "neutral",
-      "summary_en": "Cited as a trillion-dollar company with $28.1B operating profit versus SKHY's ~$59B, and no signs of materially cutting capex.",
-      "mentions": 178,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "SKHY의 약 59억 달러에 비해 281억 달러의 영업이익을 올렸으며, 실질적으로 CAPEX를 삭감할 기미가 없는 1조 달러 규모의 기업으로 인용되었습니다.",
-      "price": {
-        "latest_close": 245.63,
-        "latest_date": "2026-11-02",
-        "first_close": 220.21,
-        "first_price_date": "2025-09-24",
-        "return_pct": 11.54,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-03T06:02:53+00:00"
-      }
-    },
-    {
       "ticker": "AEVA",
       "stance": "neutral",
       "summary_en": "Short float rose from 11% to 25.64%+ from September to October, per the cited short-interest data.",
@@ -1286,36 +1453,6 @@
       }
     },
     {
-      "ticker": "AEHR",
-      "stance": "neutral",
-      "summary_en": "Short float rose from 14.33% to 17.93%+ from September to October, per the cited short-interest data.",
-      "mentions": 85,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Jan 16, 2026, 07:57 AM",
-      "detail_url": "https://serenitystock.com/stocks/NCM/AEHR",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "숏플로트는 인용된 숏이자 데이터에 따라 9월부터 10월까지 14.33% 에서 17.93% 이상으로 상승했다.",
-      "price": {
-        "latest_close": 51.47,
-        "latest_date": "2026-11-02",
-        "first_close": 28.81,
-        "first_price_date": "2026-01-16",
-        "return_pct": 78.65,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-03T06:02:54+00:00"
-      }
-    },
-    {
       "ticker": "000660.KS",
       "stance": "bullish",
       "summary_en": "Reported ~$59B operating profit, more than Amazon's $28.1B, backed by 5-year LTAs.",
@@ -1340,42 +1477,6 @@
         "first_price_date": "2025-11-04",
         "return_pct": 138.57,
         "currency": "KRW",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-03T06:02:54+00:00"
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as separate from LITE's new $5B CPO/NPO announcement; no stance is expressed.",
-      "mentions": 416,
-      "last_seen": "Nov 02, 2026, 04:43 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2117296667108278605",
-      "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "Lite의 새로운 $ 5B CPO/NPO 발표와 별도로만 언급되며 어떠한 입장도 표명되지 않습니다.",
-      "price": {
-        "latest_close": 202.06,
-        "latest_date": "2026-11-02",
-        "first_close": 179.81,
-        "first_price_date": "2025-08-25",
-        "return_pct": 12.37,
-        "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-03T06:02:54+00:00"
@@ -14921,36 +15022,6 @@
       }
     },
     {
-      "ticker": "FN",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 19,
-      "first_mention": "Feb 27, 2026",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/FN",
-      "post_url": "",
-      "company_name": "Fabrinet",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 314.7,
-        "latest_date": "2026-11-02",
-        "first_close": 545.63,
-        "first_price_date": "2026-02-27",
-        "return_pct": -42.32,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-03T06:05:25+00:00"
-      }
-    },
-    {
       "ticker": "FLYYQ",
       "stance": "bearish",
       "summary_en": "",
@@ -21495,25 +21566,6 @@
       }
     },
     {
-      "ticker": "AGLT",
-      "stance": "bullish",
-      "summary_en": "",
-      "mentions": 1,
-      "first_mention": "Oct 13, 2026",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/AGLT",
-      "post_url": "",
-      "company_name": "AGLT",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": []
-    },
-    {
       "ticker": "AGIBZZX",
       "stance": "bullish",
       "summary_en": "",
@@ -22710,11 +22762,11 @@
     },
     {
       "date": "2026-11-03",
-      "stocks": 769,
-      "bullish": 191,
+      "stocks": 770,
+      "bullish": 194,
       "bearish": 62,
       "neutral": 319,
-      "unclear": 71,
+      "unclear": 69,
       "watchlist": 95
     }
   ]
