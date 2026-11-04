@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-04T06:09:32+00:00",
+  "last_successful_sync_utc": "2026-11-04T11:59:59+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -401,6 +401,118 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-04T06:09:40+00:00"
       }
+    },
+    {
+      "ticker": "TSM",
+      "stance": "neutral",
+      "summary_en": "Author cites a helium disruption shutting down TSM as an example of an overblown worst-case scenario that markets typically move past within weeks.",
+      "mentions": 188,
+      "last_seen": "Nov 04, 2026, 04:25 AM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/TSM",
+      "post_url": "https://x.com/aleabitoreddit/status/2117835682702110999",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 404.8,
+        "latest_date": "2026-11-03",
+        "first_close": 280.71,
+        "first_price_date": "2025-09-24",
+        "return_pct": 44.21,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:10:16+00:00"
+      },
+      "summary_ko": "저자는 시장이 일반적으로 몇 주 이내에 지나치게 악화되는 최악의 시나리오의 예로 TSM을 종료하는 헬륨 파괴를 꼽습니다."
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "bullish",
+      "summary_en": "Author cites NVDA's historic rally and accelerating AI buildout under Biden as evidence that AI is a bipartisan priority and apocalyptic political narratives are overblown.",
+      "mentions": 418,
+      "last_seen": "Nov 04, 2026, 04:25 AM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2117835682702110999",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 206.69,
+        "latest_date": "2026-11-03",
+        "first_close": 179.81,
+        "first_price_date": "2025-08-25",
+        "return_pct": 14.95,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:44+00:00"
+      },
+      "summary_ko": "저자는 NVDA의 역사적인 집회와 바이든 하에서의 AI 구축 가속화를 AI가 초당적 우선 순위이며 종말론적인 정치 서사가 과장되었다는 증거로 인용합니다."
+    },
+    {
+      "ticker": "CRWV",
+      "stance": "unclear",
+      "summary_en": "Author dismisses the idea that political rhetoric alone justifies doomposting CRWV, arguing a market-wide doomsday scenario is unlikely.",
+      "mentions": 174,
+      "last_seen": "Nov 04, 2026, 04:25 AM",
+      "first_mention": "Aug 23, 2025, 11:08 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
+      "post_url": "https://x.com/aleabitoreddit/status/2117835682702110999",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 53.74,
+        "latest_date": "2026-11-03",
+        "first_close": 92.38,
+        "first_price_date": "2025-08-25",
+        "return_pct": -41.83,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:48+00:00"
+      },
+      "summary_ko": "저자는 정치적 수사만으로는 CRWV의 파멸을 정당화할 수 있다는 생각을 일축하며, 시장 차원의 파멸 시나리오는 가능하지 않다고 주장합니다."
     },
     {
       "ticker": "SMTC",
@@ -876,47 +988,6 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "stance": "neutral",
-      "summary_en": "Mentioned only as a backer of Agility Robotics; no independent view on NVDA is expressed.",
-      "mentions": 417,
-      "last_seen": "Nov 03, 2026, 03:06 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2117634458778247210",
-      "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "Agility Robotics의 후원자로서만 언급되며 NVDA에 대한 독립적인 견해는 표현되지 않습니다.",
-      "price": {
-        "latest_close": 206.69,
-        "latest_date": "2026-11-03",
-        "first_close": 179.81,
-        "first_price_date": "2025-08-25",
-        "return_pct": 14.95,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:44+00:00"
-      }
-    },
-    {
       "ticker": "CCIX",
       "stance": "bullish",
       "summary_en": "Author purchased shares today after seeing the news and currently holds a position.",
@@ -1290,36 +1361,6 @@
         "first_close": 97.98,
         "first_price_date": "2025-07-02",
         "return_pct": -12.55,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:48+00:00"
-      }
-    },
-    {
-      "ticker": "CRWV",
-      "stance": "neutral",
-      "summary_en": "Short float rose from 17.91% to 26.58%+ from September to October, per the cited short-interest data.",
-      "mentions": 173,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Aug 23, 2025, 11:08 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "숏플로트는 인용된 숏이자 데이터에 따라 9월부터 10월까지 17.91% 에서 26.58% + 로 상승했다.",
-      "price": {
-        "latest_close": 53.74,
-        "latest_date": "2026-11-03",
-        "first_close": 92.38,
-        "first_price_date": "2025-08-25",
-        "return_pct": -41.83,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -3996,36 +4037,6 @@
         "first_close": 28.09,
         "first_price_date": "2025-07-03",
         "return_pct": -74.97,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:10:16+00:00"
-      }
-    },
-    {
-      "ticker": "TSM",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 187,
-      "first_mention": "Sep 24, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/TSM",
-      "post_url": "",
-      "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 404.8,
-        "latest_date": "2026-11-03",
-        "first_close": 280.71,
-        "first_price_date": "2025-09-24",
-        "return_pct": 44.21,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -22772,10 +22783,10 @@
     {
       "date": "2026-11-04",
       "stocks": 770,
-      "bullish": 194,
+      "bullish": 195,
       "bearish": 62,
-      "neutral": 319,
-      "unclear": 69,
+      "neutral": 317,
+      "unclear": 70,
       "watchlist": 95
     }
   ]
