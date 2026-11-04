@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-04T11:59:59+00:00",
+  "last_successful_sync_utc": "2026-11-04T23:51:55+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -62,66 +62,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-04T06:09:35+00:00"
-      }
-    },
-    {
-      "ticker": "MU",
-      "stance": "bullish",
-      "summary_en": "The author cites the news as more memory durability evidence for Micron while questioning long-term LTA logic amid potential Chinese memory oversupply.",
-      "mentions": 202,
-      "last_seen": "Oct 27, 2026, 12:20 PM",
-      "first_mention": "Sep 25, 2025, 04:25 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MU",
-      "post_url": "https://x.com/aleabitoreddit/status/2115056034763137169",
-      "company_name": "마이크론 (Micron)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "저자는이 뉴스를 잠재적 인 중국 메모리 공급 과잉 속에서 장기적인 LTA 논리에 의문을 제기하면서 Micron에 대한 더 많은 메모리 내구성 증거로 인용합니다.",
-      "price": {
-        "latest_close": 855.1,
-        "latest_date": "2026-11-03",
-        "first_close": 156.83,
-        "first_price_date": "2025-09-25",
-        "return_pct": 445.24,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:36+00:00"
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "stance": "neutral",
-      "summary_en": "The author notes Google news preceded other cloud providers negotiating long-term memory supply agreements, without expressing a clear view on Google.",
-      "mentions": 222,
-      "last_seen": "Oct 27, 2026, 12:20 PM",
-      "first_mention": "Jul 03, 2025, 09:57 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
-      "post_url": "https://x.com/aleabitoreddit/status/2115056034763137169",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "저자는 Google 뉴스가 Google에 대한 명확한 견해를 표명하지 않고 장기 메모리 공급 계약을 협상하는 다른 클라우드 제공 업체보다 앞서 있다고 지적합니다.",
-      "price": {
-        "latest_close": 280.03,
-        "latest_date": "2026-11-03",
-        "first_close": 179.53,
-        "first_price_date": "2025-07-03",
-        "return_pct": 55.98,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:36+00:00"
       }
     },
     {
@@ -313,36 +253,6 @@
       "summary_ko": "작성자는 2026년 상반기에 $ 3.4B FCF를 기록한 $ ANT에게 감사를 표합니다."
     },
     {
-      "ticker": "TSLA",
-      "stance": "unclear",
-      "summary_en": "Mentioned as one of the X owner's interests in a critique that he amplifies collapse narratives against companies conflicting with his own; no direct investment stance.",
-      "mentions": 109,
-      "last_seen": "Oct 25, 2026, 10:00 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/TSLA",
-      "post_url": "https://x.com/aleabitoreddit/status/2114477224208535600",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "자신의 회사와 충돌하는 회사에 대한 붕괴 내러티브를 증폭시킨다는 비판에서 X 오너의 이익 중 하나로 언급했다. 직접 투자 입장은 없다.",
-      "price": {
-        "latest_close": 398.5,
-        "latest_date": "2026-11-03",
-        "first_close": 346.6,
-        "first_price_date": "2025-08-25",
-        "return_pct": 14.97,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:39+00:00"
-      }
-    },
-    {
       "ticker": "META",
       "stance": "unclear",
       "summary_en": "Mentioned as the hypothetical company owned by NVDA's Jensen Huang in a platform-discourse analogy; no direct investment stance.",
@@ -405,12 +315,12 @@
     {
       "ticker": "TSM",
       "stance": "neutral",
-      "summary_en": "Author cites a helium disruption shutting down TSM as an example of an overblown worst-case scenario that markets typically move past within weeks.",
-      "mentions": 188,
-      "last_seen": "Nov 04, 2026, 04:25 AM",
+      "summary_en": "Mentions former TSM chairman as a historical comparison for large insider purchases, without expressing a direct view on TSM shares.",
+      "mentions": 189,
+      "last_seen": "Nov 04, 2026, 06:36 PM",
       "first_mention": "Sep 24, 2025, 11:36 PM",
       "detail_url": "https://serenitystock.com/stocks/NYQ/TSM",
-      "post_url": "https://x.com/aleabitoreddit/status/2117835682702110999",
+      "post_url": "https://x.com/aleabitoreddit/status/2118049698733064433",
       "company_name": "",
       "stance_changed": false,
       "new_mention_since_previous": true,
@@ -430,23 +340,330 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-04T06:10:16+00:00"
       },
-      "summary_ko": "저자는 시장이 일반적으로 몇 주 이내에 지나치게 악화되는 최악의 시나리오의 예로 TSM을 종료하는 헬륨 파괴를 꼽습니다."
+      "summary_ko": "TSM 주식에 대한 직접적인 견해를 표명하지 않고 대규모 내부자 구매에 대한 역사적 비교로 전 TSM 회장을 언급합니다."
     },
     {
-      "ticker": "NVDA",
+      "ticker": "MU",
+      "stance": "neutral",
+      "summary_en": "Cites a past instance of the former TSM chairman buying $7.8M of MU in the $300s as an analogy to the Intel insider purchase.",
+      "mentions": 205,
+      "last_seen": "Nov 04, 2026, 06:36 PM",
+      "first_mention": "Sep 25, 2025, 04:25 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MU",
+      "post_url": "https://x.com/aleabitoreddit/status/2118049698733064433",
+      "company_name": "마이크론 (Micron)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 3,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 855.1,
+        "latest_date": "2026-11-03",
+        "first_close": 156.83,
+        "first_price_date": "2025-09-25",
+        "return_pct": 445.24,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:36+00:00"
+      },
+      "summary_ko": "전 TSM 회장이 인텔 내부자 구매에 비유하여 $ 300에 $ 7.8M의 MU를 구매한 과거 사례를 인용합니다."
+    },
+    {
+      "ticker": "INTC",
       "stance": "bullish",
-      "summary_en": "Author cites NVDA's historic rally and accelerating AI buildout under Biden as evidence that AI is a bipartisan priority and apocalyptic political narratives are overblown.",
-      "mentions": 418,
-      "last_seen": "Nov 04, 2026, 04:25 AM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2117835682702110999",
-      "company_name": "엔비디아 (NVIDIA)",
+      "summary_en": "Notes that Intel's CEO bought $9.71M of shares at $64.7 via a family trust, calling it a large vote of confidence after a 49.9% drop this month.",
+      "mentions": 116,
+      "last_seen": "Nov 04, 2026, 06:36 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/INTC",
+      "post_url": "https://x.com/aleabitoreddit/status/2118049698733064433",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 60.55,
+        "latest_date": "2026-11-03",
+        "first_close": 31.22,
+        "first_price_date": "2025-09-24",
+        "return_pct": 93.95,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:47+00:00"
+      },
+      "summary_ko": "인텔의 CEO는 가족 신탁을 통해 $ 9.71 M의 주식을 $ 64.7에 매입했으며, 이번 달 49.9% 하락한 후 큰 신뢰를 얻었습니다."
+    },
+    {
+      "ticker": "NET",
+      "stance": "bearish",
+      "summary_en": "Author says people are throwing money at Cloudflare and peers and that this was a bubble, favoring compute infrastructure instead.",
+      "mentions": 4,
+      "last_seen": "Nov 04, 2026, 06:16 PM",
+      "first_mention": "Oct 13, 2025, 03:51 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/NET",
+      "post_url": "https://x.com/aleabitoreddit/status/2118044688829845703",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        }
+      ],
+      "price": {
+        "latest_close": 273.62,
+        "latest_date": "2026-11-03",
+        "first_close": 222.56,
+        "first_price_date": "2025-10-13",
+        "return_pct": 22.94,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:11:16+00:00"
+      },
+      "summary_ko": "작성자는 사람들이 Cloudflare와 동료들에게 돈을 던지고 있으며 이것이 거품이라고 말하면서 대신 컴퓨팅 인프라를 선호한다고 말합니다."
+    },
+    {
+      "ticker": "NBIS",
+      "stance": "bullish",
+      "summary_en": "Author says if cyber is a compute issue, the economics go to infrastructure from neoclouds to NBIS, signaling a positive view.",
+      "mentions": 711,
+      "last_seen": "Nov 04, 2026, 06:16 PM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2118044688829845703",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 151.64,
+        "latest_date": "2026-11-03",
+        "first_close": 52.37,
+        "first_price_date": "2025-07-21",
+        "return_pct": 189.56,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:46+00:00"
+      },
+      "summary_ko": "저자는 사이버가 컴퓨팅 문제라면 경제성이 네오클라우드에서 NBIS에 이르는 인프라로 이동하여 긍정적 인 견해를 나타냅니다."
+    },
+    {
+      "ticker": "CRWD",
+      "stance": "bearish",
+      "summary_en": "Author says people are throwing money at CrowdStrike and peers and that this was a bubble, favoring compute infrastructure instead.",
+      "mentions": 22,
+      "last_seen": "Nov 04, 2026, 06:16 PM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CRWD",
+      "post_url": "https://x.com/aleabitoreddit/status/2118044688829845703",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 2,
+      "stance_history": [],
+      "price": {
+        "latest_close": 244.68,
+        "latest_date": "2026-11-03",
+        "first_close": 120.395,
+        "first_price_date": "2025-07-21",
+        "return_pct": 103.23,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:48+00:00"
+      },
+      "summary_ko": "작성자는 사람들이 CrowdStrike와 동료들에게 돈을 던지고 있으며 이것이 거품이었고 대신 컴퓨팅 인프라를 선호한다고 말합니다."
+    },
+    {
+      "ticker": "AMZN",
+      "stance": "neutral",
+      "summary_en": "Author cites Amazon's CEO saying cybersecurity could consume 20% of tokens next year as evidence of a compute-intensive cyber arms race.",
+      "mentions": 181,
+      "last_seen": "Nov 04, 2026, 06:16 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
+      "post_url": "https://x.com/aleabitoreddit/status/2118044688829845703",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 2,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 250.69,
+        "latest_date": "2026-11-03",
+        "first_close": 220.21,
+        "first_price_date": "2025-09-24",
+        "return_pct": 13.84,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:45+00:00"
+      },
+      "summary_ko": "저자는 사이버 보안이 컴퓨팅 집약적인 사이버 무기 경쟁의 증거로 내년에 토큰의 20% 를 소비할 수 있다고 아마존의 CEO를 인용합니다."
+    },
+    {
+      "ticker": "AAOI",
+      "stance": "bullish",
+      "summary_en": "Author says cyber as a compute problem directs economics to infrastructure, including networking names like AAOI.",
+      "mentions": 408,
+      "last_seen": "Nov 04, 2026, 06:16 PM",
+      "first_mention": "Dec 11, 2025, 10:10 PM",
+      "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
+      "post_url": "https://x.com/aleabitoreddit/status/2118044688829845703",
+      "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 3,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 63.97,
+        "latest_date": "2026-11-03",
+        "first_close": 36.32,
+        "first_price_date": "2025-12-11",
+        "return_pct": 76.13,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:43+00:00"
+      },
+      "summary_ko": "저자는 컴퓨팅 문제로서의 사이버가 AAOI와 같은 네트워킹 이름을 포함하여 인프라에 경제성을 전달한다고 말합니다."
+    },
+    {
+      "ticker": "SIVE.ST",
+      "stance": "bullish",
+      "summary_en": "Author calls $SIVE a purer play on the severe laser bottleneck, citing its 200mW+ higher-margin multiwavelength NPO/CPO laser capabilities.",
+      "mentions": 477,
+      "last_seen": "Nov 04, 2026, 05:40 PM",
+      "first_mention": "Dec 23, 2025, 11:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/STO/SIVE.ST",
+      "post_url": "https://x.com/aleabitoreddit/status/2118035778253283768",
+      "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
       "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 20.04,
+        "latest_date": "2026-11-02",
+        "first_close": 4.18,
+        "first_price_date": "2025-12-23",
+        "return_pct": 379.43,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:41+00:00"
+      },
+      "summary_ko": "저자는 200mW 이상의 높은 마진 다중 파장 NPO/CPO 레이저 기능을 인용하여 $ sive를 심각한 레이저 병목 현상에 대한 더 순수한 플레이라고 부릅니다."
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "neutral",
+      "summary_en": "Author cites Jensen Huang's expectation of 15x optical volume for CPO scale-up as a demand signal.",
+      "mentions": 419,
+      "last_seen": "Nov 04, 2026, 05:40 PM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2118035778253283768",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
       "mentions_delta": 1,
       "stance_history": [
         {
@@ -463,6 +680,11 @@
           "observed_at_utc": "2026-11-04T11:59:59+00:00",
           "from": "neutral",
           "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
         }
       ],
       "price": {
@@ -476,7 +698,123 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-04T06:09:44+00:00"
       },
-      "summary_ko": "저자는 NVDA의 역사적인 집회와 바이든 하에서의 AI 구축 가속화를 AI가 초당적 우선 순위이며 종말론적인 정치 서사가 과장되었다는 증거로 인용합니다."
+      "summary_ko": "저자는 수요 신호로 CPO 스케일 업에 대한 Jensen Huang의 15배 광학 볼륨에 대한 기대를 인용합니다."
+    },
+    {
+      "ticker": "LITE",
+      "stance": "bullish",
+      "summary_en": "Author cites $LITE's new $5B UHP laser contracts and says its lasers are sold out into 2029, supporting the laser-bottleneck thesis.",
+      "mentions": 430,
+      "last_seen": "Nov 04, 2026, 05:40 PM",
+      "first_mention": "Oct 25, 2025, 06:17 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
+      "post_url": "https://x.com/aleabitoreddit/status/2118035778253283768",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-10-29T05:54:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 680.16,
+        "latest_date": "2026-11-03",
+        "first_close": 193.8,
+        "first_price_date": "2025-10-27",
+        "return_pct": 250.96,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:42+00:00"
+      },
+      "summary_ko": "저자는 $ Lite의 새로운 $ 5B UHP 레이저 계약을 인용하고 레이저 병목 현상을 뒷받침하는 레이저가 2029년에 매진되었다고 말합니다."
+    },
+    {
+      "ticker": "ATS",
+      "stance": "bullish",
+      "summary_en": "Author cites $ATS's large-body substrates as a bottleneck for Marvell and AMD, supporting a deep demand-imbalance thesis.",
+      "mentions": 1,
+      "last_seen": "Nov 04, 2026, 05:40 PM",
+      "first_mention": "Nov 04, 2026, 05:40 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/ATS",
+      "post_url": "https://x.com/aleabitoreddit/status/2118035778253283768",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "price": {
+        "latest_close": 17.57,
+        "latest_date": "2026-11-04",
+        "first_close": 17.57,
+        "first_price_date": "2026-11-04",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T23:52:00+00:00"
+      },
+      "summary_ko": "저자는 Marvell과 AMD의 병목 현상으로 $ ATS의 대형 바디 기판을 인용하여 깊은 수요 불균형 논지를 뒷받침합니다."
+    },
+    {
+      "ticker": "AMD",
+      "stance": "neutral",
+      "summary_en": "Author notes AMD is affected by ATS large-body substrate bottlenecks, without a direct bull or bear call on AMD.",
+      "mentions": 125,
+      "last_seen": "Nov 04, 2026, 05:40 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMD",
+      "post_url": "https://x.com/aleabitoreddit/status/2118035778253283768",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 483.9,
+        "latest_date": "2026-11-03",
+        "first_close": 160.88,
+        "first_price_date": "2025-09-24",
+        "return_pct": 200.78,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:50+00:00"
+      },
+      "summary_ko": "작성자 메모 AMD는 AMD에 대한 직접적인 황소 또는 곰 호출 없이 ATS 대형 기판 병목 현상의 영향을 받습니다."
     },
     {
       "ticker": "CRWV",
@@ -488,12 +826,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
       "post_url": "https://x.com/aleabitoreddit/status/2117835682702110999",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-04T11:59:59+00:00",
@@ -501,6 +839,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "저자는 정치적 수사만으로는 CRWV의 파멸을 정당화할 수 있다는 생각을 일축하며, 시장 차원의 파멸 시나리오는 가능하지 않다고 주장합니다.",
       "price": {
         "latest_close": 53.74,
         "latest_date": "2026-11-03",
@@ -511,8 +850,270 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-04T06:09:48+00:00"
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "stance": "neutral",
+      "summary_en": "Author cites TSLA's $787M net income at a $1.5T market cap as a profitability comparison to ESMT.",
+      "mentions": 110,
+      "last_seen": "Nov 04, 2026, 04:20 PM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/TSLA",
+      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 398.5,
+        "latest_date": "2026-11-03",
+        "first_close": 346.6,
+        "first_price_date": "2025-08-25",
+        "return_pct": 14.97,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:39+00:00"
       },
-      "summary_ko": "저자는 정치적 수사만으로는 CRWV의 파멸을 정당화할 수 있다는 생각을 일축하며, 시장 차원의 파멸 시나리오는 가능하지 않다고 주장합니다."
+      "summary_ko": "저자는 TSLA의 $ 787M 순이익을 $ 1.5T 시가 총액으로 ESMT와 비교한 수익성을 인용합니다."
+    },
+    {
+      "ticker": "SNDK",
+      "stance": "bullish",
+      "summary_en": "Author groups SNDK with other memory names whose durability is contractually enforced via take/pay LTAs with price floors.",
+      "mentions": 153,
+      "last_seen": "Nov 04, 2026, 04:20 PM",
+      "first_mention": "Nov 14, 2025, 05:03 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
+      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 1126.52,
+        "latest_date": "2026-11-03",
+        "first_close": 254.16,
+        "first_price_date": "2025-11-14",
+        "return_pct": 343.23,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:46+00:00"
+      },
+      "summary_ko": "가격대가 있는 테이크/페이 LTA를 통해 내구성이 계약상 적용되는 다른 메모리 이름과 함께 작성자 그룹 SNDK."
+    },
+    {
+      "ticker": "NOW",
+      "stance": "neutral",
+      "summary_en": "Author cites NOW's $277M net income at a $113B market cap as a profitability comparison to ESMT.",
+      "mentions": 1,
+      "last_seen": "Nov 04, 2026, 04:20 PM",
+      "first_mention": "Nov 04, 2026, 04:20 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/NOW",
+      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "price": {
+        "latest_close": 108.81,
+        "latest_date": "2026-11-04",
+        "first_close": 108.81,
+        "first_price_date": "2026-11-04",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T23:52:01+00:00"
+      },
+      "summary_ko": "저자는 현재 시가 총액이 1130억 달러에 달하는 2억 7,700만 달러의 순이익을 ESMT와의 수익성 비교로 인용합니다."
+    },
+    {
+      "ticker": "GOOGL",
+      "stance": "neutral",
+      "summary_en": "Mentioned only as a party in CIFR's initial colocation deals, with no direct sentiment expressed toward GOOGL.",
+      "mentions": 223,
+      "last_seen": "Nov 04, 2026, 04:20 PM",
+      "first_mention": "Jul 03, 2025, 09:57 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
+      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 280.03,
+        "latest_date": "2026-11-03",
+        "first_close": 179.53,
+        "first_price_date": "2025-07-03",
+        "return_pct": 55.98,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:36+00:00"
+      },
+      "summary_ko": "CIFR의 초기 코로케이션 거래에서 당사자로만 언급되었으며 GOOGL에 대한 직접적인 감정은 표현되지 않았습니다."
+    },
+    {
+      "ticker": "ESMT",
+      "stance": "bullish",
+      "summary_en": "Author is strongly bullish on ESMT, citing its low valuation, high net assets, and DDR2/DDR3 supply tightening as reasons the market is wrong to sell it off.",
+      "mentions": 13,
+      "last_seen": "Nov 04, 2026, 04:20 PM",
+      "first_mention": "Aug 29, 2026, 09:20 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
+      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "summary_ko": "저자는 낮은 밸류에이션, 높은 순자산 및 DDR2/DDR3 공급 조임을 시장이 매각하는 것이 잘못된 이유로 꼽으며 ESMT에 대해 강하게 낙관적입니다."
+    },
+    {
+      "ticker": "CIFR",
+      "stance": "unclear",
+      "summary_en": "Author highlights CIFR's 44% decline since announcing initial GOOGL/AMZN colocation deals as evidence of rampant market deleveraging.",
+      "mentions": 197,
+      "last_seen": "Nov 04, 2026, 04:20 PM",
+      "first_mention": "Sep 25, 2025, 03:34 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CIFR",
+      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "watchlist",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 8.12,
+        "latest_date": "2026-11-03",
+        "first_close": 11.66,
+        "first_price_date": "2025-09-25",
+        "return_pct": -30.36,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:49+00:00"
+      },
+      "summary_ko": "저자는 만연한 시장 디레버리징의 증거로 초기 GOOGL/AMZN 코로케이션 거래를 발표한 이후 CIFR이 44% 하락했다고 강조합니다."
+    },
+    {
+      "ticker": "000660.KS",
+      "stance": "bullish",
+      "summary_en": "Author groups SKHY with other memory names whose durability is contractually enforced via take/pay LTAs with price floors.",
+      "mentions": 123,
+      "last_seen": "Nov 04, 2026, 04:20 PM",
+      "first_mention": "Nov 04, 2025, 06:04 PM",
+      "detail_url": "https://serenitystock.com/stocks/KSC/000660.KS",
+      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
+      "company_name": "SK하이닉스",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 1387000.0,
+        "latest_date": "2026-11-04",
+        "first_close": 586000.0,
+        "first_price_date": "2025-11-04",
+        "return_pct": 136.69,
+        "currency": "KRW",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:09:50+00:00"
+      },
+      "summary_ko": "가격대가 있는 테이크/페이 LTA를 통해 내구성이 계약상 적용되는 다른 메모리 이름과 함께 작성자 그룹 SKHY."
+    },
+    {
+      "ticker": "DUOL",
+      "stance": "neutral",
+      "summary_en": "Author notes DUOL rose 34.86% in a post about rotation into safe, quality assets.",
+      "mentions": 17,
+      "last_seen": "Nov 04, 2026, 03:37 PM",
+      "first_mention": "Aug 23, 2025, 11:08 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/DUOL",
+      "post_url": "https://x.com/aleabitoreddit/status/2118004727053218010",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 128.0,
+        "latest_date": "2026-11-03",
+        "first_close": 321.44,
+        "first_price_date": "2025-08-25",
+        "return_pct": -60.18,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-04T06:12:24+00:00"
+      },
+      "summary_ko": "작성자 노트 DUOL은 안전하고 양질의 자산으로의 전환에 대한 게시물에서 34.86% 상승했습니다."
     },
     {
       "ticker": "SMTC",
@@ -548,42 +1149,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-04T06:09:40+00:00"
-      }
-    },
-    {
-      "ticker": "SIVE.ST",
-      "stance": "neutral",
-      "summary_en": "Author highlights Sivers as a cited new CW/ELS laser source with 100M lasers of external foundry capacity, within the laser bottleneck opportunity.",
-      "mentions": 476,
-      "last_seen": "Nov 03, 2026, 09:31 AM",
-      "first_mention": "Dec 23, 2025, 11:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/STO/SIVE.ST",
-      "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 Sivers를 레이저 병목 현상 기회 내에서 외부 파운드리 용량이 100M인 새로운 CW/ELS 레이저 소스로 강조합니다.",
-      "price": {
-        "latest_close": 20.04,
-        "latest_date": "2026-11-02",
-        "first_close": 4.18,
-        "first_price_date": "2025-12-23",
-        "return_pct": 379.43,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:41+00:00"
       }
     },
     {
@@ -729,76 +1294,6 @@
       }
     },
     {
-      "ticker": "ESMT",
-      "stance": "bullish",
-      "summary_en": "Author is bullish on ESMT, citing strong margins, net cash, inventory, a low annualized P/E, and expected DDR2/DDR3 price support despite the market selloff.",
-      "mentions": 12,
-      "last_seen": "Nov 03, 2026, 05:47 AM",
-      "first_mention": "Aug 29, 2026, 09:20 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
-      "post_url": "https://x.com/aleabitoreddit/status/2117493886100918684",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "저자는 시장 매도에도 불구하고 강력한 마진, 순 현금, 재고, 낮은 연간 P/E 및 예상 DDR2/DDR3 가격 지원을 인용하여 ESMT에서 낙관적입니다."
-    },
-    {
-      "ticker": "LITE",
-      "stance": "neutral",
-      "summary_en": "Author notes LITE announced a $5B contract and that AXTI has contracts with LITE.",
-      "mentions": 429,
-      "last_seen": "Nov 03, 2026, 05:06 PM",
-      "first_mention": "Oct 25, 2025, 06:17 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
-      "post_url": "https://x.com/aleabitoreddit/status/2117664715811995717",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-10-29T05:54:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "작성자 노트 Lite는 $ 5B 계약을 발표했으며 AXTI는 Lite와 계약을 맺었습니다.",
-      "price": {
-        "latest_close": 680.16,
-        "latest_date": "2026-11-03",
-        "first_close": 193.8,
-        "first_price_date": "2025-10-27",
-        "return_pct": 250.96,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:42+00:00"
-      }
-    },
-    {
       "ticker": "COHR",
       "stance": "neutral",
       "summary_en": "Author notes AXTI has contracts with COHR.",
@@ -863,52 +1358,6 @@
         "first_close": 15.22,
         "first_price_date": "2025-12-22",
         "return_pct": 237.25,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:43+00:00"
-      }
-    },
-    {
-      "ticker": "AAOI",
-      "stance": "bullish",
-      "summary_en": "Author views AAOI positively after its $194.4M/year Yuunan Germanium contract and capacity expansion, noting secured capacity during the bottleneck and a possible earnings signal.",
-      "mentions": 405,
-      "last_seen": "Nov 03, 2026, 05:06 PM",
-      "first_mention": "Dec 11, 2025, 10:10 PM",
-      "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
-      "post_url": "https://x.com/aleabitoreddit/status/2117664715811995717",
-      "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "저자는 $ 194.4M/year Yuunan 게르마늄 계약 및 용량 확장 후 AAOI를 긍정적으로 보고 있으며, 병목 현상 동안 확보된 용량과 수익 신호 가능성을 지적합니다.",
-      "price": {
-        "latest_close": 63.97,
-        "latest_date": "2026-11-03",
-        "first_close": 36.32,
-        "first_price_date": "2025-12-11",
-        "return_pct": 76.13,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1007,42 +1456,6 @@
       "summary_ko": "작성자는 뉴스를 본 후 오늘 주식을 구입했으며 현재 직책을 맡고 있습니다."
     },
     {
-      "ticker": "AMZN",
-      "stance": "neutral",
-      "summary_en": "Mentioned only as a backer of Agility Robotics; no independent view on AMZN is expressed.",
-      "mentions": 179,
-      "last_seen": "Nov 03, 2026, 03:06 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
-      "post_url": "https://x.com/aleabitoreddit/status/2117634458778247210",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "Agility Robotics의 후원자로서만 언급되며 AMZN에 대한 독립적인 견해는 표현되지 않습니다.",
-      "price": {
-        "latest_close": 250.69,
-        "latest_date": "2026-11-03",
-        "first_close": 220.21,
-        "first_price_date": "2025-09-24",
-        "return_pct": 13.84,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:45+00:00"
-      }
-    },
-    {
       "ticker": "AGLT",
       "stance": "neutral",
       "summary_en": "Merger is approved; AGLT is expected to begin trading November 5 as the first US pure-play humanoid company, with a warning that reduced share count may cause significant volatility.",
@@ -1101,78 +1514,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-04T06:09:45+00:00"
-      }
-    },
-    {
-      "ticker": "SNDK",
-      "stance": "unclear",
-      "summary_en": "Author notes that the same investors were long SNDK two months ago and now flip-flop on market narratives, without giving a direct view on SNDK.",
-      "mentions": 152,
-      "last_seen": "Nov 03, 2026, 02:04 AM",
-      "first_mention": "Nov 14, 2025, 05:03 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
-      "post_url": "https://x.com/aleabitoreddit/status/2117437833820672397",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "저자는 동일한 투자자들이 두 달 전에는 긴 SNDK였지만 지금은 SNDK에 대한 직접적인 견해는 밝히지 않은 채 시장 서술을 뒤집고 있다고 지적합니다.",
-      "price": {
-        "latest_close": 1126.52,
-        "latest_date": "2026-11-03",
-        "first_close": 254.16,
-        "first_price_date": "2025-11-14",
-        "return_pct": 343.23,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:46+00:00"
-      }
-    },
-    {
-      "ticker": "NBIS",
-      "stance": "unclear",
-      "summary_en": "Author notes that investors were long NBIS two months ago and now flip-flop on market narratives, without giving a direct view on NBIS.",
-      "mentions": 710,
-      "last_seen": "Nov 03, 2026, 02:04 AM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2117437833820672397",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "저자는 투자자들이 두 달 전에는 긴 NBIS였으며 이제는 NBIS에 대한 직접적인 견해를 밝히지 않고 시장 서술에 대해 플립플롭 (flip-flop) 했다고 지적합니다.",
-      "price": {
-        "latest_close": 151.64,
-        "latest_date": "2026-11-03",
-        "first_close": 52.37,
-        "first_price_date": "2025-07-21",
-        "return_pct": 189.56,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:46+00:00"
       }
     },
     {
@@ -1302,42 +1643,6 @@
       }
     },
     {
-      "ticker": "INTC",
-      "stance": "bearish",
-      "summary_en": "Implied as an exception to the strong AI capex and bottleneck earnings trend.",
-      "mentions": 115,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/INTC",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "강력한 AI capex 및 병목 현상 수익 추세에 대한 예외로 암시됩니다.",
-      "price": {
-        "latest_close": 60.55,
-        "latest_date": "2026-11-03",
-        "first_close": 31.22,
-        "first_price_date": "2025-09-24",
-        "return_pct": 93.95,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:47+00:00"
-      }
-    },
-    {
       "ticker": "HOOD",
       "stance": "unclear",
       "summary_en": "Mentioned only as the source of short-interest data; no investment stance is expressed.",
@@ -1365,72 +1670,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-04T06:09:48+00:00"
-      }
-    },
-    {
-      "ticker": "CRWD",
-      "stance": "bearish",
-      "summary_en": "Recent rotation pushed CRWD and cybersecurity names to bubble valuations with hundreds forward P/E.",
-      "mentions": 20,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CRWD",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "최근 로테이션은 CRWD 및 사이버 보안 이름을 수백 개의 순방향 P/E로 버블 밸류에이션으로 밀어 넣었습니다.",
-      "price": {
-        "latest_close": 244.68,
-        "latest_date": "2026-11-03",
-        "first_close": 120.395,
-        "first_price_date": "2025-07-21",
-        "return_pct": 103.23,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:48+00:00"
-      }
-    },
-    {
-      "ticker": "CIFR",
-      "stance": "neutral",
-      "summary_en": "Short float rose from 19.94% to 25.39%+ from September to October, per the cited short-interest data.",
-      "mentions": 196,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Sep 25, 2025, 03:34 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CIFR",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "watchlist",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "Short float는 인용된 short-interest data에 따라 9월부터 10월까지 19.94% 에서 25.39% + 로 상승하였다.",
-      "price": {
-        "latest_close": 8.12,
-        "latest_date": "2026-11-03",
-        "first_close": 11.66,
-        "first_price_date": "2025-09-25",
-        "return_pct": -30.36,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:49+00:00"
       }
     },
     {
@@ -1494,36 +1733,6 @@
       }
     },
     {
-      "ticker": "000660.KS",
-      "stance": "bullish",
-      "summary_en": "Reported ~$59B operating profit, more than Amazon's $28.1B, backed by 5-year LTAs.",
-      "mentions": 122,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Nov 04, 2025, 06:04 PM",
-      "detail_url": "https://serenitystock.com/stocks/KSC/000660.KS",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "SK하이닉스",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "5년 LTA로 뒷받침되는 아마존의 $ 28.1B보다 많은 ~ $ 59B의 영업 이익이 보고되었습니다.",
-      "price": {
-        "latest_close": 1387000.0,
-        "latest_date": "2026-11-04",
-        "first_close": 586000.0,
-        "first_price_date": "2025-11-04",
-        "return_pct": 136.69,
-        "currency": "KRW",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:50+00:00"
-      }
-    },
-    {
       "ticker": "MTSI",
       "stance": "bullish",
       "summary_en": "Author says MTSI should get attention as an emerging laser player in 2027.",
@@ -1553,36 +1762,6 @@
         "first_close": 224.29,
         "first_price_date": "2026-01-22",
         "return_pct": 4.99,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:09:50+00:00"
-      }
-    },
-    {
-      "ticker": "AMD",
-      "stance": "neutral",
-      "summary_en": "Author thinks AMD, as a Marvell competitor outside the Nvidia ecosystem, may rethink its LITE relationship and may have looked at AAOI for ELSFP/CW capacity.",
-      "mentions": 124,
-      "last_seen": "Nov 02, 2026, 01:59 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMD",
-      "post_url": "https://x.com/aleabitoreddit/status/2117255303301612014",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "저자는 AMD가 엔비디아 생태계 외부의 Marvell 경쟁사로서 LITE 관계를 재고하고 ELSFP/CW 용량에 대해 AAOI를 검토했을 수 있다고 생각합니다.",
-      "price": {
-        "latest_close": 483.9,
-        "latest_date": "2026-11-03",
-        "first_close": 160.88,
-        "first_price_date": "2025-09-24",
-        "return_pct": 200.78,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -9855,36 +10034,6 @@
       }
     },
     {
-      "ticker": "NET",
-      "stance": "bullish",
-      "summary_en": "",
-      "mentions": 3,
-      "first_mention": "Oct 13, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/NET",
-      "post_url": "",
-      "company_name": "Cloudflare, Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 273.62,
-        "latest_date": "2026-11-03",
-        "first_close": 222.56,
-        "first_price_date": "2025-10-13",
-        "return_pct": 22.94,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:11:16+00:00"
-      }
-    },
-    {
       "ticker": "NEO",
       "stance": "neutral",
       "summary_en": "",
@@ -16350,36 +16499,6 @@
       "stance_history": []
     },
     {
-      "ticker": "DUOL",
-      "stance": "unclear",
-      "summary_en": "",
-      "mentions": 16,
-      "first_mention": "Aug 23, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/DUOL",
-      "post_url": "",
-      "company_name": "Duolingo, Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 128.0,
-        "latest_date": "2026-11-03",
-        "first_close": 321.44,
-        "first_price_date": "2025-08-25",
-        "return_pct": -60.18,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-04T06:12:24+00:00"
-      }
-    },
-    {
       "ticker": "DUK",
       "stance": "conditional_call",
       "summary_en": "",
@@ -22782,11 +22901,11 @@
     },
     {
       "date": "2026-11-04",
-      "stocks": 770,
-      "bullish": 195,
+      "stocks": 772,
+      "bullish": 198,
       "bearish": 62,
-      "neutral": 317,
-      "unclear": 70,
+      "neutral": 319,
+      "unclear": 67,
       "watchlist": 95
     }
   ]
