@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-05T12:04:42+00:00",
+  "last_successful_sync_utc": "2026-11-05T23:52:53+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -313,6 +313,144 @@
       }
     },
     {
+      "ticker": "GLXY",
+      "stance": "bullish",
+      "summary_en": "The author highlights GLXY's CEO calling out a valuation disconnect and buying more stock as a vote of confidence.",
+      "mentions": 21,
+      "last_seen": "Nov 05, 2026, 08:52 PM",
+      "first_mention": "Sep 27, 2025, 07:50 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/GLXY",
+      "post_url": "https://x.com/aleabitoreddit/status/2118446295274901803",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-05T23:52:53+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 13.97,
+        "latest_date": "2026-11-04",
+        "first_close": 34.29,
+        "first_price_date": "2025-09-29",
+        "return_pct": -59.26,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-05T06:13:45+00:00"
+      },
+      "summary_ko": "저자는 GLXY의 CEO가 밸류에이션 단절을 외치고 자신감의 투표로 더 많은 주식을 매입하는 것을 강조합니다."
+    },
+    {
+      "ticker": "GOOGL",
+      "stance": "bullish",
+      "summary_en": "Google announced a new $17B data center in Wyoming, which the author sarcastically frames as evidence the AI buildout is over.",
+      "mentions": 224,
+      "last_seen": "Nov 05, 2026, 07:18 PM",
+      "first_mention": "Jul 03, 2025, 09:57 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
+      "post_url": "https://x.com/aleabitoreddit/status/2118422637320007721",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-05T23:52:53+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 288.93,
+        "latest_date": "2026-11-04",
+        "first_close": 179.53,
+        "first_price_date": "2025-07-03",
+        "return_pct": 60.94,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-05T06:11:30+00:00"
+      },
+      "summary_ko": "Google은 와이오밍에 새로운 $ 17B 데이터 센터를 발표했습니다. 저자는 AI 구축이 끝났다는 증거로 비꼬았습니다."
+    },
+    {
+      "ticker": "BE",
+      "stance": "neutral",
+      "summary_en": "Google announced it will use BE fuel cells for the new Wyoming data center, stated as a factual project update.",
+      "mentions": 19,
+      "last_seen": "Nov 05, 2026, 07:18 PM",
+      "first_mention": "Oct 04, 2025, 01:22 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/BE",
+      "post_url": "https://x.com/aleabitoreddit/status/2118422637320007721",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-05T23:52:53+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 200.4,
+        "latest_date": "2026-11-04",
+        "first_close": 86.97,
+        "first_price_date": "2025-10-06",
+        "return_pct": 130.42,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-05T06:14:36+00:00"
+      },
+      "summary_ko": "Google은 실제 프로젝트 업데이트로 명시된 새로운 와이오밍 데이터 센터에 BE 연료 전지를 사용할 것이라고 발표했습니다."
+    },
+    {
+      "ticker": "CBRS",
+      "stance": "neutral",
+      "summary_en": "Author relays a short seller report from Culper Research arguing that Cerebras wafers wear out after about two years.",
+      "mentions": 10,
+      "last_seen": "Nov 05, 2026, 04:54 PM",
+      "first_mention": "Apr 17, 2026, 03:52 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CBRS",
+      "post_url": "https://x.com/aleabitoreddit/status/2118386579853267313",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 91.85,
+        "latest_date": "2026-11-04",
+        "first_close": 311.07,
+        "first_price_date": "2026-05-14",
+        "return_pct": -70.47,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-05T06:11:36+00:00"
+      },
+      "summary_ko": "저자는 Culper Research의 공매도 보고서에서 Cerebras 웨이퍼가 약 2년 후에 마모된다고 주장합니다."
+    },
+    {
       "ticker": "MRVL",
       "stance": "unclear",
       "summary_en": "Author only mentions MRVL in an analyst question about a LITE + MRVL merger, with no direct sentiment or analysis on MRVL.",
@@ -322,12 +460,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/MRVL",
       "post_url": "https://x.com/aleabitoreddit/status/2118200689453314341",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-30T11:52:23+00:00",
@@ -350,6 +488,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "작성자는 LITE + MRVL 합병에 대한 분석가 질문에서 MRVL에 대한 직접적인 감정이나 분석 없이 MRVL만 언급합니다.",
       "price": {
         "latest_close": 159.8,
         "latest_date": "2026-11-04",
@@ -360,8 +499,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-05T06:11:32+00:00"
-      },
-      "summary_ko": "작성자는 LITE + MRVL 합병에 대한 분석가 질문에서 MRVL에 대한 직접적인 감정이나 분석 없이 MRVL만 언급합니다."
+      }
     },
     {
       "ticker": "LITE",
@@ -373,12 +511,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
       "post_url": "https://x.com/aleabitoreddit/status/2118200689453314341",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-29T05:54:36+00:00",
@@ -411,6 +549,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "저자는 Lite가 유일한 하이엔드 레이저 경쟁사이며 LITE-MRVL 합병 과정에서 고객이 독립적인 광학 공급업체를 선호할 수 있다는 Coherent의 견해를 중계합니다.",
       "price": {
         "latest_close": 626.75,
         "latest_date": "2026-11-04",
@@ -421,8 +560,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-05T06:11:28+00:00"
-      },
-      "summary_ko": "저자는 Lite가 유일한 하이엔드 레이저 경쟁사이며 LITE-MRVL 합병 과정에서 고객이 독립적인 광학 공급업체를 선호할 수 있다는 Coherent의 견해를 중계합니다."
+      }
     },
     {
       "ticker": "COHR",
@@ -434,12 +572,12 @@
       "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
       "post_url": "https://x.com/aleabitoreddit/status/2118200689453314341",
       "company_name": "코히런트 (Coherent)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -457,6 +595,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 Coherent의 수입을 강세로 요약합니다. 가격 책정 능력과 마진 목표가 상승하고, 2027년까지 용량이 매진되고, $ 20B LTA가 고출력 CW 레이저로 고정됩니다.",
       "price": {
         "latest_close": 195.09,
         "latest_date": "2026-11-04",
@@ -467,8 +606,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-05T06:11:33+00:00"
-      },
-      "summary_ko": "저자는 Coherent의 수입을 강세로 요약합니다. 가격 책정 능력과 마진 목표가 상승하고, 2027년까지 용량이 매진되고, $ 20B LTA가 고출력 CW 레이저로 고정됩니다."
+      }
     },
     {
       "ticker": "TSM",
@@ -1055,36 +1193,6 @@
         "first_close": 108.81,
         "first_price_date": "2026-11-04",
         "return_pct": 0.0,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-05T06:11:30+00:00"
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "stance": "neutral",
-      "summary_en": "Mentioned only as a party in CIFR's initial colocation deals, with no direct sentiment expressed toward GOOGL.",
-      "mentions": 223,
-      "last_seen": "Nov 04, 2026, 04:20 PM",
-      "first_mention": "Jul 03, 2025, 09:57 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
-      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "CIFR의 초기 코로케이션 거래에서 당사자로만 언급되었으며 GOOGL에 대한 직접적인 감정은 표현되지 않았습니다.",
-      "price": {
-        "latest_close": 288.93,
-        "latest_date": "2026-11-04",
-        "first_close": 179.53,
-        "first_price_date": "2025-07-03",
-        "return_pct": 60.94,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1692,36 +1800,6 @@
         "first_close": 97.98,
         "first_price_date": "2025-07-02",
         "return_pct": -10.79,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-05T06:11:36+00:00"
-      }
-    },
-    {
-      "ticker": "CBRS",
-      "stance": "neutral",
-      "summary_en": "Short float rose from 12.25% to 20.12%+ from September to October, per the cited short-interest data.",
-      "mentions": 9,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Apr 17, 2026, 03:52 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CBRS",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "숏플로트는 인용된 숏이자 데이터에 따라 9월부터 10월까지 12.25% 에서 20.12% 이상으로 상승했다.",
-      "price": {
-        "latest_close": 91.85,
-        "latest_date": "2026-11-04",
-        "first_close": 311.07,
-        "first_price_date": "2026-05-14",
-        "return_pct": -70.47,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -14589,36 +14667,6 @@
       }
     },
     {
-      "ticker": "GLXY",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 20,
-      "first_mention": "Sep 27, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/GLXY",
-      "post_url": "",
-      "company_name": "Galaxy Digital",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 13.97,
-        "latest_date": "2026-11-04",
-        "first_close": 34.29,
-        "first_price_date": "2025-09-29",
-        "return_pct": -59.26,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-05T06:13:45+00:00"
-      }
-    },
-    {
       "ticker": "GLW",
       "stance": "neutral",
       "summary_en": "",
@@ -19658,36 +19706,6 @@
       }
     },
     {
-      "ticker": "BE",
-      "stance": "bullish",
-      "summary_en": "",
-      "mentions": 18,
-      "first_mention": "Oct 04, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/BE",
-      "post_url": "",
-      "company_name": "Bloom Energy Corporation",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 200.4,
-        "latest_date": "2026-11-04",
-        "first_close": 86.97,
-        "first_price_date": "2025-10-06",
-        "return_pct": 130.42,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-05T06:14:36+00:00"
-      }
-    },
-    {
       "ticker": "BDC",
       "stance": "watchlist",
       "summary_en": "",
@@ -22937,9 +22955,9 @@
     {
       "date": "2026-11-05",
       "stocks": 772,
-      "bullish": 198,
+      "bullish": 199,
       "bearish": 62,
-      "neutral": 318,
+      "neutral": 317,
       "unclear": 68,
       "watchlist": 95
     }
