@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-05T06:11:18+00:00",
+  "last_successful_sync_utc": "2026-11-05T12:04:42+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -311,6 +311,164 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-05T06:11:25+00:00"
       }
+    },
+    {
+      "ticker": "MRVL",
+      "stance": "unclear",
+      "summary_en": "Author only mentions MRVL in an analyst question about a LITE + MRVL merger, with no direct sentiment or analysis on MRVL.",
+      "mentions": 196,
+      "last_seen": "Nov 05, 2026, 04:36 AM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MRVL",
+      "post_url": "https://x.com/aleabitoreddit/status/2118200689453314341",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-10-30T11:52:23+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 159.8,
+        "latest_date": "2026-11-04",
+        "first_close": 72.95,
+        "first_price_date": "2025-08-25",
+        "return_pct": 119.05,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-05T06:11:32+00:00"
+      },
+      "summary_ko": "작성자는 LITE + MRVL 합병에 대한 분석가 질문에서 MRVL에 대한 직접적인 감정이나 분석 없이 MRVL만 언급합니다."
+    },
+    {
+      "ticker": "LITE",
+      "stance": "neutral",
+      "summary_en": "Author relays Coherent's view that LITE is its only high-end laser competitor and that customers may favor independent optical suppliers amid the LITE-MRVL merger.",
+      "mentions": 431,
+      "last_seen": "Nov 05, 2026, 04:36 AM",
+      "first_mention": "Oct 25, 2025, 06:17 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
+      "post_url": "https://x.com/aleabitoreddit/status/2118200689453314341",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-10-29T05:54:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 626.75,
+        "latest_date": "2026-11-04",
+        "first_close": 193.8,
+        "first_price_date": "2025-10-27",
+        "return_pct": 223.4,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-05T06:11:28+00:00"
+      },
+      "summary_ko": "저자는 Lite가 유일한 하이엔드 레이저 경쟁사이며 LITE-MRVL 합병 과정에서 고객이 독립적인 광학 공급업체를 선호할 수 있다는 Coherent의 견해를 중계합니다."
+    },
+    {
+      "ticker": "COHR",
+      "stance": "bullish",
+      "summary_en": "Author summarizes Coherent's earnings call bullishly: pricing power and margin targets are rising, capacity is sold out through 2027, and a $20B LTA is anchored by high-power CW lasers.",
+      "mentions": 219,
+      "last_seen": "Nov 05, 2026, 04:36 AM",
+      "first_mention": "Dec 01, 2025, 05:21 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
+      "post_url": "https://x.com/aleabitoreddit/status/2118200689453314341",
+      "company_name": "코히런트 (Coherent)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 195.09,
+        "latest_date": "2026-11-04",
+        "first_close": 163.5,
+        "first_price_date": "2025-12-01",
+        "return_pct": 19.32,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-05T06:11:33+00:00"
+      },
+      "summary_ko": "저자는 Coherent의 수입을 강세로 요약합니다. 가격 책정 능력과 마진 목표가 상승하고, 2027년까지 용량이 매진되고, $ 20B LTA가 고출력 CW 레이저로 고정됩니다."
     },
     {
       "ticker": "TSM",
@@ -694,62 +852,6 @@
         "first_close": 179.81,
         "first_price_date": "2025-08-25",
         "return_pct": 11.3,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-05T06:11:28+00:00"
-      }
-    },
-    {
-      "ticker": "LITE",
-      "stance": "bullish",
-      "summary_en": "Author cites $LITE's new $5B UHP laser contracts and says its lasers are sold out into 2029, supporting the laser-bottleneck thesis.",
-      "mentions": 430,
-      "last_seen": "Nov 04, 2026, 05:40 PM",
-      "first_mention": "Oct 25, 2025, 06:17 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
-      "post_url": "https://x.com/aleabitoreddit/status/2118035778253283768",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-10-29T05:54:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "저자는 $ Lite의 새로운 $ 5B UHP 레이저 계약을 인용하고 레이저 병목 현상을 뒷받침하는 레이저가 2029년에 매진되었다고 말합니다.",
-      "price": {
-        "latest_close": 626.75,
-        "latest_date": "2026-11-04",
-        "first_close": 193.8,
-        "first_price_date": "2025-10-27",
-        "return_pct": 223.4,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1152,52 +1254,6 @@
       }
     },
     {
-      "ticker": "MRVL",
-      "stance": "neutral",
-      "summary_en": "Author frames the post as a counterpoint on the Marvell/Lumentum acquisition, arguing buyers competing with Marvell will seek a second independent laser source.",
-      "mentions": 195,
-      "last_seen": "Nov 03, 2026, 09:31 AM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MRVL",
-      "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-10-30T11:52:23+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 Marvell/Lumentum 인수의 카운터 포인트로 게시물을 구성하여 Marvell과 경쟁하는 구매자가 두 번째 독립적 인 레이저 소스를 찾을 것이라고 주장합니다.",
-      "price": {
-        "latest_close": 159.8,
-        "latest_date": "2026-11-04",
-        "first_close": 72.95,
-        "first_price_date": "2025-08-25",
-        "return_pct": 119.05,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-05T06:11:32+00:00"
-      }
-    },
-    {
       "ticker": "JBL",
       "stance": "neutral",
       "summary_en": "Author cites Jabil as an example of module makers moving upstream and heavily competing with the combined Lumentum + Marvell.",
@@ -1291,47 +1347,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-05T06:11:32+00:00"
-      }
-    },
-    {
-      "ticker": "COHR",
-      "stance": "neutral",
-      "summary_en": "Author notes AXTI has contracts with COHR.",
-      "mentions": 218,
-      "last_seen": "Nov 03, 2026, 05:06 PM",
-      "first_mention": "Dec 01, 2025, 05:21 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
-      "post_url": "https://x.com/aleabitoreddit/status/2117664715811995717",
-      "company_name": "코히런트 (Coherent)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "작성자 메모 AXTI는 COHR과 계약을 맺었습니다.",
-      "price": {
-        "latest_close": 195.09,
-        "latest_date": "2026-11-04",
-        "first_close": 163.5,
-        "first_price_date": "2025-12-01",
-        "return_pct": 19.32,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-05T06:11:33+00:00"
       }
     },
     {
@@ -22924,8 +22939,8 @@
       "stocks": 772,
       "bullish": 198,
       "bearish": 62,
-      "neutral": 319,
-      "unclear": 67,
+      "neutral": 318,
+      "unclear": 68,
       "watchlist": 95
     }
   ]
