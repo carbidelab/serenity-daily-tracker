@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-06T11:59:23+00:00",
+  "last_successful_sync_utc": "2026-11-06T23:47:05+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -174,36 +174,6 @@
       }
     },
     {
-      "ticker": "ASTS",
-      "stance": "watchlist",
-      "summary_en": "Lists ASTS at $39 as an example in a new higher-beta 'It’s All Over' portfolio being tracked, not presented as a recommendation.",
-      "mentions": 27,
-      "last_seen": "Oct 27, 2026, 02:51 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/ASTS",
-      "post_url": "https://x.com/aleabitoreddit/status/2115094150626644115",
-      "company_name": "AST 스페이스모바일",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "권장 사항이 아닌 추적 중인 새로운 상위 베타 'It's All Over' 포트폴리오의 예로 ASTS를 $ 39에 나열합니다.",
-      "price": {
-        "latest_close": 30.2,
-        "latest_date": "2026-11-05",
-        "first_close": 54.5,
-        "first_price_date": "2025-09-24",
-        "return_pct": -44.59,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-06T06:10:00+00:00"
-      }
-    },
-    {
       "ticker": "ALMU",
       "stance": "watchlist",
       "summary_en": "Lists ALMU at $7 as an example in a new higher-beta 'It’s All Over' portfolio being tracked, not presented as a recommendation.",
@@ -313,45 +283,70 @@
       }
     },
     {
-      "ticker": "SPCX",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as the benchmark RKLB could potentially become; no independent view on SPCX is expressed.",
-      "mentions": 39,
-      "last_seen": "Nov 06, 2026, 07:24 AM",
-      "first_mention": "Dec 09, 2025, 10:48 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
-      "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
+      "ticker": "TSM",
+      "stance": "bullish",
+      "summary_en": "Named in AI-trade volatility; author outlines Taiwan's short-selling curbs, higher margin collateral, and $15.3B stabilization fund, calling such mechanics bullish for near-term market stability and potential equity reversal.",
+      "mentions": 190,
+      "last_seen": "Nov 06, 2026, 12:33 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/TSM",
+      "post_url": "https://x.com/aleabitoreddit/status/2118683089383874576",
       "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "bullish",
+      "previous_stance": "neutral",
       "mentions_delta": 1,
       "stance_history": [
         {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "observed_at_utc": "2026-11-06T23:47:05+00:00",
           "from": "neutral",
           "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "unclear"
         }
       ],
       "price": {
-        "latest_close": 123.62,
+        "latest_close": 353.1,
         "latest_date": "2026-11-05",
-        "first_close": 160.95,
-        "first_price_date": "2026-06-12",
-        "return_pct": -23.19,
+        "first_close": 280.71,
+        "first_price_date": "2025-09-24",
+        "return_pct": 25.79,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-06T06:10:13+00:00"
+        "fetched_utc": "2026-11-06T06:10:04+00:00"
       },
-      "summary_ko": "RKLB가 잠재적으로 될 수 있는 벤치마크에 대해서만 언급했습니다. SPCX에 대한 독립적인 견해는 표현되지 않습니다."
+      "summary_ko": "AI-무역 변동성으로 명명된 저자는 대만의 공매도 연석, 더 높은 마진 담보 및 $ 15.3B 안정화 펀드를 요약하여 이러한 메커니즘을 단기 시장 안정과 잠재적 지분 반전을 위해 낙관적이라고 부릅니다."
+    },
+    {
+      "ticker": "000660.KS",
+      "stance": "bullish",
+      "summary_en": "Post refers to $SKHY (SK Hynix) in AI-trade volatility; author cites South Korea's three-month waiver of 140% margin-loan collateral maintenance to reduce forced selling and calls such mechanics bullish for near-term equity stability.",
+      "mentions": 124,
+      "last_seen": "Nov 06, 2026, 12:33 PM",
+      "first_mention": "Nov 04, 2025, 06:04 PM",
+      "detail_url": "https://serenitystock.com/stocks/KSC/000660.KS",
+      "post_url": "https://x.com/aleabitoreddit/status/2118683089383874576",
+      "company_name": "SK하이닉스",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 1150000.0,
+        "latest_date": "2026-11-06",
+        "first_close": 586000.0,
+        "first_price_date": "2025-11-04",
+        "return_pct": 96.25,
+        "currency": "KRW",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-06T06:10:10+00:00"
+      },
+      "summary_ko": "POST는 AI 거래 변동성의 $ SKHY (SK 하이닉스) 를 나타냅니다. 저자는 강제 매도를 줄이기 위해 한국의 3개월간 140% 마진 대출 담보 유지 보수를 포기하고 그러한 메커니즘을 단기 지분 안정성을 위해 낙관적이라고 말합니다."
     },
     {
       "ticker": "SIVE.ST",
@@ -364,11 +359,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T11:56:43+00:00",
@@ -381,6 +376,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 sive가 다음 Lite가 될 가능성이 있다고 말합니다.",
       "price": {
         "latest_close": 17.68,
         "latest_date": "2026-11-04",
@@ -391,44 +387,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:07+00:00"
-      },
-      "summary_ko": "저자는 sive가 다음 Lite가 될 가능성이 있다고 말합니다."
-    },
-    {
-      "ticker": "RKLB",
-      "stance": "bullish",
-      "summary_en": "Author believes RKLB could become the next SPCX, expressing speculative upside.",
-      "mentions": 136,
-      "last_seen": "Nov 06, 2026, 07:24 AM",
-      "first_mention": "Jul 03, 2025, 09:05 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/RKLB",
-      "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
-      "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "price": {
-        "latest_close": 45.99,
-        "latest_date": "2026-11-05",
-        "first_close": 35.66,
-        "first_price_date": "2025-07-03",
-        "return_pct": 28.97,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-06T06:11:11+00:00"
-      },
-      "summary_ko": "저자는 RKLB가 다음 SPCX가 될 수 있다고 믿으며, 추측적인 거꾸로 표현합니다."
+      }
     },
     {
       "ticker": "NVDA",
@@ -440,12 +399,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
       "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
       "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -473,6 +432,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "AMD가 가능한 다음 NVDA로 간주되는 것에 대한 역사적 비교에서만 언급되며 독립적인 입장은 표현되지 않습니다.",
       "price": {
         "latest_close": 181.6,
         "latest_date": "2026-11-05",
@@ -483,8 +443,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:07+00:00"
-      },
-      "summary_ko": "AMD가 가능한 다음 NVDA로 간주되는 것에 대한 역사적 비교에서만 언급되며 독립적인 입장은 표현되지 않습니다."
+      }
     },
     {
       "ticker": "NBIS",
@@ -497,11 +456,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 2,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -514,6 +473,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 NBIS가 다음 하이퍼스케일러가 될 가능성이 있다고 봅니다.",
       "price": {
         "latest_close": 120.37,
         "latest_date": "2026-11-05",
@@ -524,8 +484,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:05+00:00"
-      },
-      "summary_ko": "저자는 NBIS가 다음 하이퍼스케일러가 될 가능성이 있다고 봅니다."
+      }
     },
     {
       "ticker": "LITE",
@@ -537,12 +496,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
       "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 2,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-29T05:54:36+00:00",
@@ -580,6 +539,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "SIVE의 문샷 잠재력에 대한 벤치마크로만 언급되며, Lite에 대한 독립적인 견해는 표현되지 않습니다.",
       "price": {
         "latest_close": 509.7,
         "latest_date": "2026-11-05",
@@ -590,8 +550,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:03+00:00"
-      },
-      "summary_ko": "SIVE의 문샷 잠재력에 대한 벤치마크로만 언급되며, Lite에 대한 독립적인 견해는 표현되지 않습니다."
+      }
     },
     {
       "ticker": "INTC",
@@ -603,12 +562,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/INTC",
       "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -626,6 +585,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "AMD가 다음 INTC로 간주될 수 있다는 역사적 비교에서만 언급되며, 독립적인 입장은 표현되지 않습니다.",
       "price": {
         "latest_close": 52.25,
         "latest_date": "2026-11-05",
@@ -636,8 +596,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:05+00:00"
-      },
-      "summary_ko": "AMD가 다음 INTC로 간주될 수 있다는 역사적 비교에서만 언급되며, 독립적인 입장은 표현되지 않습니다."
+      }
     },
     {
       "ticker": "AXTI",
@@ -650,12 +609,13 @@
       "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [],
+      "summary_ko": "저자는 AXTI의 기판 병목 현상이 시장이 생각하는 것보다 더 내구성이 있다고 주장합니다.",
       "price": {
         "latest_close": 36.72,
         "latest_date": "2026-11-05",
@@ -666,8 +626,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:11+00:00"
-      },
-      "summary_ko": "저자는 AXTI의 기판 병목 현상이 시장이 생각하는 것보다 더 내구성이 있다고 주장합니다."
+      }
     },
     {
       "ticker": "AMD",
@@ -680,12 +639,13 @@
       "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [],
+      "summary_ko": "레버리지 소탕 후 자산 회수의 예로 AMD의 과거 이동이 3달러에서 400달러로 증가했다고 언급했습니다.",
       "price": {
         "latest_close": 404.4,
         "latest_date": "2026-11-05",
@@ -696,8 +656,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:07+00:00"
-      },
-      "summary_ko": "레버리지 소탕 후 자산 회수의 예로 AMD의 과거 이동이 3달러에서 400달러로 증가했다고 언급했습니다."
+      }
     },
     {
       "ticker": "COHR",
@@ -709,12 +668,12 @@
       "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
       "post_url": "https://x.com/aleabitoreddit/status/2118569237128286343",
       "company_name": "코히런트 (Coherent)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -737,6 +696,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "AAOI가 진출하는 가맹점 UHP CPO 시장에서 Lite와 함께 지배적인 현직 기업으로 선정되었습니다.",
       "price": {
         "latest_close": 169.76,
         "latest_date": "2026-11-05",
@@ -747,8 +707,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:04+00:00"
-      },
-      "summary_ko": "AAOI가 진출하는 가맹점 UHP CPO 시장에서 Lite와 함께 지배적인 현직 기업으로 선정되었습니다."
+      }
     },
     {
       "ticker": "AAOI",
@@ -761,11 +720,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2118569237128286343",
       "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -783,6 +742,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작성자는 AAOI의 중장기 설정에서 낙관적입니다. LTA 가시성이 향상되고 가맹점 UHP CPO 레이저가 중요하지만 단기 조달 지연 및 DSP 병목 현상이 위험합니다.",
       "price": {
         "latest_close": 46.89,
         "latest_date": "2026-11-05",
@@ -793,8 +753,125 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:06+00:00"
+      }
+    },
+    {
+      "ticker": "SPCX",
+      "stance": "unclear",
+      "summary_en": "Mentioned only as a potential competitor to ASTS's planned medium/heavy lift reusable rockets via SpaceX's Falcon 9.",
+      "mentions": 40,
+      "last_seen": "Nov 06, 2026, 03:25 PM",
+      "first_mention": "Dec 09, 2025, 10:48 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
+      "post_url": "https://x.com/aleabitoreddit/status/2118726497129423273",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 123.62,
+        "latest_date": "2026-11-05",
+        "first_close": 160.95,
+        "first_price_date": "2026-06-12",
+        "return_pct": -23.19,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-06T06:10:13+00:00"
       },
-      "summary_ko": "작성자는 AAOI의 중장기 설정에서 낙관적입니다. LTA 가시성이 향상되고 가맹점 UHP CPO 레이저가 중요하지만 단기 조달 지연 및 DSP 병목 현상이 위험합니다."
+      "summary_ko": "SpaceX의 Falcon 9를 통해 ASTS의 계획된 중형/중형 리프트 재사용 로켓의 잠재적 경쟁자로만 언급되었습니다."
+    },
+    {
+      "ticker": "RKLB",
+      "stance": "unclear",
+      "summary_en": "Mentioned only as a potential competitor to ASTS's planned medium/heavy lift reusable rockets via Rocket Lab's Neutron.",
+      "mentions": 137,
+      "last_seen": "Nov 06, 2026, 03:25 PM",
+      "first_mention": "Jul 03, 2025, 09:05 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/RKLB",
+      "post_url": "https://x.com/aleabitoreddit/status/2118726497129423273",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T23:47:05+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 45.99,
+        "latest_date": "2026-11-05",
+        "first_close": 35.66,
+        "first_price_date": "2025-07-03",
+        "return_pct": 28.97,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-06T06:11:11+00:00"
+      },
+      "summary_ko": "Rocket Lab의 Neutron을 통해 ASTS의 계획된 중형/중형 리프트 재사용 로켓의 잠재적 경쟁자로만 언급되었습니다."
+    },
+    {
+      "ticker": "ASTS",
+      "stance": "unclear",
+      "summary_en": "Author notes ASTS plans to build its own medium/heavy lift reusable rockets, sees the effort as difficult and capital intensive but potentially more valuable if achieved.",
+      "mentions": 28,
+      "last_seen": "Nov 06, 2026, 03:25 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/ASTS",
+      "post_url": "https://x.com/aleabitoreddit/status/2118726497129423273",
+      "company_name": "AST 스페이스모바일",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "watchlist",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-06T23:47:05+00:00",
+          "from": "watchlist",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 30.2,
+        "latest_date": "2026-11-05",
+        "first_close": 54.5,
+        "first_price_date": "2025-09-24",
+        "return_pct": -44.59,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-06T06:10:00+00:00"
+      },
+      "summary_ko": "저자 노트 ASTS는 자체 중형/중형 리프트 재사용 로켓을 만들 계획이며, 노력이 어렵고 자본 집약적이지만 달성되면 잠재적으로 더 가치가 있다고 생각합니다."
     },
     {
       "ticker": "GLXY",
@@ -983,36 +1060,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:03+00:00"
-      }
-    },
-    {
-      "ticker": "TSM",
-      "stance": "neutral",
-      "summary_en": "Mentions former TSM chairman as a historical comparison for large insider purchases, without expressing a direct view on TSM shares.",
-      "mentions": 189,
-      "last_seen": "Nov 04, 2026, 06:36 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/TSM",
-      "post_url": "https://x.com/aleabitoreddit/status/2118049698733064433",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "TSM 주식에 대한 직접적인 견해를 표명하지 않고 대규모 내부자 구매에 대한 역사적 비교로 전 TSM 회장을 언급합니다.",
-      "price": {
-        "latest_close": 353.1,
-        "latest_date": "2026-11-05",
-        "first_close": 280.71,
-        "first_price_date": "2025-09-24",
-        "return_pct": 25.79,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-06T06:10:04+00:00"
       }
     },
     {
@@ -1384,36 +1431,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-06T06:10:09+00:00"
-      }
-    },
-    {
-      "ticker": "000660.KS",
-      "stance": "bullish",
-      "summary_en": "Author groups SKHY with other memory names whose durability is contractually enforced via take/pay LTAs with price floors.",
-      "mentions": 123,
-      "last_seen": "Nov 04, 2026, 04:20 PM",
-      "first_mention": "Nov 04, 2025, 06:04 PM",
-      "detail_url": "https://serenitystock.com/stocks/KSC/000660.KS",
-      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
-      "company_name": "SK하이닉스",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "가격대가 있는 테이크/페이 LTA를 통해 내구성이 계약상 적용되는 다른 메모리 이름과 함께 작성자 그룹 SKHY.",
-      "price": {
-        "latest_close": 1150000.0,
-        "latest_date": "2026-11-06",
-        "first_close": 586000.0,
-        "first_price_date": "2025-11-04",
-        "return_pct": 96.25,
-        "currency": "KRW",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-06T06:10:10+00:00"
       }
     },
     {
@@ -22997,9 +23014,9 @@
       "stocks": 772,
       "bullish": 197,
       "bearish": 62,
-      "neutral": 315,
-      "unclear": 72,
-      "watchlist": 95
+      "neutral": 314,
+      "unclear": 74,
+      "watchlist": 94
     }
   ]
 }
