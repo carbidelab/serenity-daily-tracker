@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-07T11:49:16+00:00",
+  "last_successful_sync_utc": "2026-11-07T23:45:09+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -223,36 +223,6 @@
       "summary_ko": "작성자는 2026년 상반기에 $ 3.4B FCF를 기록한 $ ANT에게 감사를 표합니다."
     },
     {
-      "ticker": "META",
-      "stance": "unclear",
-      "summary_en": "Mentioned as the hypothetical company owned by NVDA's Jensen Huang in a platform-discourse analogy; no direct investment stance.",
-      "mentions": 238,
-      "last_seen": "Oct 25, 2026, 10:00 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/META",
-      "post_url": "https://x.com/aleabitoreddit/status/2114477224208535600",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "플랫폼 담론 비유에서 NVDA의 Jensen Huang이 소유한 가상의 회사로 언급됨. 직접 투자 스탠스 없음.",
-      "price": {
-        "latest_close": 610.15,
-        "latest_date": "2026-11-06",
-        "first_close": 760.66,
-        "first_price_date": "2025-09-24",
-        "return_pct": -19.79,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:56:46+00:00"
-      }
-    },
-    {
       "ticker": "AVGO",
       "stance": "unclear",
       "summary_en": "Author criticizes the idea of timelines being dominated by amplified narratives of AVGO failing, calling such dynamics unhealthy; no direct investment view.",
@@ -283,29 +253,69 @@
       }
     },
     {
+      "ticker": "GEV",
+      "stance": "neutral",
+      "summary_en": "Author relays GE Vernova CEO Scott Strazik denying Softbank turbine order cancellations, customer financing disruptions, or requests to exit turbine reservations.",
+      "mentions": 3,
+      "last_seen": "Nov 07, 2026, 11:04 AM",
+      "first_mention": "Feb 07, 2026, 07:12 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/GEV",
+      "post_url": "https://x.com/aleabitoreddit/status/2119023086502805730",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 774.11,
+        "latest_date": "2026-11-06",
+        "first_close": 801.54,
+        "first_price_date": "2026-02-09",
+        "return_pct": -3.42,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:59:08+00:00"
+      },
+      "summary_ko": "작성자는 Softbank 터빈 주문 취소, 고객 자금 조달 중단 또는 터빈 예약 종료 요청을 거부하는 GE Vernova CEO Scott Strazik을 중계합니다."
+    },
+    {
       "ticker": "TSM",
-      "stance": "bullish",
-      "summary_en": "Named in AI-trade volatility; author outlines Taiwan's short-selling curbs, higher margin collateral, and $15.3B stabilization fund, calling such mechanics bullish for near-term market stability and potential equity reversal.",
-      "mentions": 190,
-      "last_seen": "Nov 06, 2026, 12:33 PM",
+      "stance": "neutral",
+      "summary_en": "Author reports a TSM spokesperson denied exploring 3D DRAM and says conflicting headlines create confusion and volatility.",
+      "mentions": 191,
+      "last_seen": "Nov 07, 2026, 04:01 PM",
       "first_mention": "Sep 24, 2025, 11:36 PM",
       "detail_url": "https://serenitystock.com/stocks/NYQ/TSM",
-      "post_url": "https://x.com/aleabitoreddit/status/2118683089383874576",
+      "post_url": "https://x.com/aleabitoreddit/status/2119097842363211968",
       "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-06T23:47:05+00:00",
           "from": "neutral",
           "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "bullish",
+          "to": "neutral"
         }
       ],
-      "summary_ko": "AI-무역 변동성으로 명명된 저자는 대만의 공매도 연석, 더 높은 마진 담보 및 $ 15.3B 안정화 펀드를 요약하여 이러한 메커니즘을 단기 시장 안정과 잠재적 지분 반전을 위해 낙관적이라고 부릅니다.",
       "price": {
         "latest_close": 375.44,
         "latest_date": "2026-11-06",
@@ -316,7 +326,412 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-07T05:56:46+00:00"
-      }
+      },
+      "summary_ko": "저자는 TSM 대변인이 3D DRAM 탐색을 거부하고 상충되는 헤드라인이 혼란과 변동성을 야기한다고 보고합니다."
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "neutral",
+      "summary_en": "Author notes a report said TSMC's production plans came from an NVDA request and cites NVDA CEO honeypot allegations as potentially untrue news.",
+      "mentions": 422,
+      "last_seen": "Nov 07, 2026, 04:01 PM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2119097842363211968",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 2,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 186.64,
+        "latest_date": "2026-11-06",
+        "first_close": 179.81,
+        "first_price_date": "2025-08-25",
+        "return_pct": 3.8,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:56:47+00:00"
+      },
+      "summary_ko": "작성자는 보고서에서 TSMC의 생산 계획이 NVDA 요청에서 나온 것이며 NVDA CEO 허니팟 주장을 잠재적으로 사실이 아닌 뉴스라고 언급했습니다."
+    },
+    {
+      "ticker": "MU",
+      "stance": "neutral",
+      "summary_en": "Author says TSMC's reported 3D DRAM plans would have put TSMC in competition with MU and other memory makers.",
+      "mentions": 207,
+      "last_seen": "Nov 07, 2026, 04:01 PM",
+      "first_mention": "Sep 25, 2025, 04:25 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MU",
+      "post_url": "https://x.com/aleabitoreddit/status/2119097842363211968",
+      "company_name": "마이크론 (Micron)",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 2,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 690.0,
+        "latest_date": "2026-11-06",
+        "first_close": 156.83,
+        "first_price_date": "2025-09-25",
+        "return_pct": 339.97,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:56:52+00:00"
+      },
+      "summary_ko": "작성자는 TSMC의 보고된 3D DRAM 계획이 TSMC를 MU 및 기타 메모리 제조업체와 경쟁하게 했을 것이라고 말합니다."
+    },
+    {
+      "ticker": "SPCX",
+      "stance": "bullish",
+      "summary_en": "Author cites Elon's SPCX/SpaceX focus on the neocloud market and SpaceX's $40B GPU financing as evidence he sees attractive compute economics.",
+      "mentions": 41,
+      "last_seen": "Nov 07, 2026, 02:40 PM",
+      "first_mention": "Dec 09, 2025, 10:48 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
+      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 134.27,
+        "latest_date": "2026-11-06",
+        "first_close": 160.95,
+        "first_price_date": "2026-06-12",
+        "return_pct": -16.58,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:56:50+00:00"
+      },
+      "summary_ko": "저자는 Elon의 SPCX/SpaceX가 neocloud 시장에 초점을 맞추고 SpaceX의 $ 40B GPU 파이낸싱이 매력적인 컴퓨팅 경제학의 증거라고 말합니다."
+    },
+    {
+      "ticker": "NBIS",
+      "stance": "bullish",
+      "summary_en": "Author gives a contrarian bullish take on NBIS/neoclouds after the valuation crash, citing Rosenblatt's view of little risk in NBIS's primary buildout across Missouri, Pennsylvania, and South Carolina.",
+      "mentions": 714,
+      "last_seen": "Nov 07, 2026, 02:40 PM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 129.49,
+        "latest_date": "2026-11-06",
+        "first_close": 52.37,
+        "first_price_date": "2025-07-21",
+        "return_pct": 147.26,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:56:48+00:00"
+      },
+      "summary_ko": "저자는 미주리, 펜실베이니아 및 사우스 캐롤라이나 전역의 NBIS 주요 구축에서 거의 위험하지 않은 Rosenblatt의 견해를 인용하여 평가 충돌 후 NBIS/neoclouds에 대해 반대 의견을 제시합니다."
+    },
+    {
+      "ticker": "MSFT",
+      "stance": "neutral",
+      "summary_en": "Author notes MSFT sees profitable AI data-center economics and is accelerating its AI DC buildout.",
+      "mentions": 172,
+      "last_seen": "Nov 07, 2026, 02:40 PM",
+      "first_mention": "Sep 27, 2025, 10:53 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MSFT",
+      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 530.61,
+        "latest_date": "2026-11-06",
+        "first_close": 514.6,
+        "first_price_date": "2025-09-29",
+        "return_pct": 3.11,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:56:58+00:00"
+      },
+      "summary_ko": "저자 주 MSFT는 수익성 있는 AI 데이터 센터 경제성을 보고 AI DC 구축을 가속화하고 있습니다."
+    },
+    {
+      "ticker": "META",
+      "stance": "neutral",
+      "summary_en": "Author notes META sees profitable AI data-center economics and is accelerating its AI DC buildout.",
+      "mentions": 239,
+      "last_seen": "Nov 07, 2026, 02:40 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/META",
+      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 610.15,
+        "latest_date": "2026-11-06",
+        "first_close": 760.66,
+        "first_price_date": "2025-09-24",
+        "return_pct": -19.79,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:56:46+00:00"
+      },
+      "summary_ko": "저자 노트 메타는 수익성 있는 AI 데이터 센터 경제성을 보고 AI DC 구축을 가속화하고 있습니다."
+    },
+    {
+      "ticker": "IREN",
+      "stance": "bullish",
+      "summary_en": "Author cites IREN earnings as showing public neoclouds adapt well to tight financing via 90% prepayments and higher H100 recontract pricing.",
+      "mentions": 392,
+      "last_seen": "Nov 07, 2026, 02:40 PM",
+      "first_mention": "Aug 31, 2025, 04:51 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
+      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 21.64,
+        "latest_date": "2026-11-06",
+        "first_close": 29.11,
+        "first_price_date": "2025-09-02",
+        "return_pct": -25.66,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:58:52+00:00"
+      },
+      "summary_ko": "저자는 90% 선불 결제와 더 높은 H100 재계약 가격을 통해 공공 네오클라우드가 엄격한 자금 조달에 잘 적응하고 있음을 보여주는 IREN 수입을 인용합니다."
+    },
+    {
+      "ticker": "GOOGL",
+      "stance": "neutral",
+      "summary_en": "Author cites GOOGL as a compute customer for SpaceX, supporting the view that AI compute economics are attractive.",
+      "mentions": 225,
+      "last_seen": "Nov 07, 2026, 02:40 PM",
+      "first_mention": "Jul 03, 2025, 09:57 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
+      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-05T23:52:53+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 284.78,
+        "latest_date": "2026-11-06",
+        "first_close": 179.53,
+        "first_price_date": "2025-07-03",
+        "return_pct": 58.63,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:56:51+00:00"
+      },
+      "summary_ko": "저자는 AI 컴퓨팅 경제학이 매력적이라는 견해를 뒷받침하는 SpaceX의 컴퓨팅 고객으로 GOOGL을 인용합니다."
+    },
+    {
+      "ticker": "CRWV",
+      "stance": "bearish",
+      "summary_en": "Author points to CRWV's high debt interest as an example of poor procurement financing unless refinanced.",
+      "mentions": 175,
+      "last_seen": "Nov 07, 2026, 02:40 PM",
+      "first_mention": "Aug 23, 2025, 11:08 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
+      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        }
+      ],
+      "price": {
+        "latest_close": 46.4,
+        "latest_date": "2026-11-06",
+        "first_close": 92.38,
+        "first_price_date": "2025-08-25",
+        "return_pct": -49.77,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:56:53+00:00"
+      },
+      "summary_ko": "저자는 CRWV의 높은 부채 이자를 재융자하지 않는 한 저조한 조달 자금 조달의 예로 지적합니다."
+    },
+    {
+      "ticker": "AMZN",
+      "stance": "neutral",
+      "summary_en": "Author notes AMZN sees profitable AI data-center economics and is accelerating its AI DC buildout.",
+      "mentions": 182,
+      "last_seen": "Nov 07, 2026, 02:40 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
+      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 259.3,
+        "latest_date": "2026-11-06",
+        "first_close": 220.21,
+        "first_price_date": "2025-09-24",
+        "return_pct": 17.75,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-07T05:56:53+00:00"
+      },
+      "summary_ko": "저자 주 AMZN은 수익성 있는 AI 데이터 센터 경제성을 보고 AI DC 구축을 가속화하고 있습니다."
     },
     {
       "ticker": "000660.KS",
@@ -387,103 +802,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-07T05:56:47+00:00"
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "stance": "unclear",
-      "summary_en": "Mentioned only in a historical comparison about AMD being seen as a possible next NVDA; no independent stance is expressed.",
-      "mentions": 420,
-      "last_seen": "Nov 06, 2026, 07:24 AM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
-      "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "AMD가 가능한 다음 NVDA로 간주되는 것에 대한 역사적 비교에서만 언급되며 독립적인 입장은 표현되지 않습니다.",
-      "price": {
-        "latest_close": 186.64,
-        "latest_date": "2026-11-06",
-        "first_close": 179.81,
-        "first_price_date": "2025-08-25",
-        "return_pct": 3.8,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:56:47+00:00"
-      }
-    },
-    {
-      "ticker": "NBIS",
-      "stance": "bullish",
-      "summary_en": "Author sees NBIS as having the potential to become the next hyperscaler.",
-      "mentions": 713,
-      "last_seen": "Nov 06, 2026, 07:24 AM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "저자는 NBIS가 다음 하이퍼스케일러가 될 가능성이 있다고 봅니다.",
-      "price": {
-        "latest_close": 129.49,
-        "latest_date": "2026-11-06",
-        "first_close": 52.37,
-        "first_price_date": "2025-07-21",
-        "return_pct": 147.26,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:56:48+00:00"
       }
     },
     {
@@ -756,47 +1074,6 @@
       }
     },
     {
-      "ticker": "SPCX",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as a potential competitor to ASTS's planned medium/heavy lift reusable rockets via SpaceX's Falcon 9.",
-      "mentions": 40,
-      "last_seen": "Nov 06, 2026, 03:25 PM",
-      "first_mention": "Dec 09, 2025, 10:48 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
-      "post_url": "https://x.com/aleabitoreddit/status/2118726497129423273",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "SpaceX의 Falcon 9를 통해 ASTS의 계획된 중형/중형 리프트 재사용 로켓의 잠재적 경쟁자로만 언급되었습니다.",
-      "price": {
-        "latest_close": 134.27,
-        "latest_date": "2026-11-06",
-        "first_close": 160.95,
-        "first_price_date": "2026-06-12",
-        "return_pct": -16.58,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:56:50+00:00"
-      }
-    },
-    {
       "ticker": "RKLB",
       "stance": "unclear",
       "summary_en": "Mentioned only as a potential competitor to ASTS's planned medium/heavy lift reusable rockets via Rocket Lab's Neutron.",
@@ -907,42 +1184,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-07T05:56:50+00:00"
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "stance": "bullish",
-      "summary_en": "Google announced a new $17B data center in Wyoming, which the author sarcastically frames as evidence the AI buildout is over.",
-      "mentions": 224,
-      "last_seen": "Nov 05, 2026, 07:18 PM",
-      "first_mention": "Jul 03, 2025, 09:57 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
-      "post_url": "https://x.com/aleabitoreddit/status/2118422637320007721",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-05T23:52:53+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "Google은 와이오밍에 새로운 $ 17B 데이터 센터를 발표했습니다. 저자는 AI 구축이 끝났다는 증거로 비꼬았습니다.",
-      "price": {
-        "latest_close": 284.78,
-        "latest_date": "2026-11-06",
-        "first_close": 179.53,
-        "first_price_date": "2025-07-03",
-        "return_pct": 58.63,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:56:51+00:00"
       }
     },
     {
@@ -1063,42 +1304,6 @@
       }
     },
     {
-      "ticker": "MU",
-      "stance": "neutral",
-      "summary_en": "Cites a past instance of the former TSM chairman buying $7.8M of MU in the $300s as an analogy to the Intel insider purchase.",
-      "mentions": 205,
-      "last_seen": "Nov 04, 2026, 06:36 PM",
-      "first_mention": "Sep 25, 2025, 04:25 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MU",
-      "post_url": "https://x.com/aleabitoreddit/status/2118049698733064433",
-      "company_name": "마이크론 (Micron)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "전 TSM 회장이 인텔 내부자 구매에 비유하여 $ 300에 $ 7.8M의 MU를 구매한 과거 사례를 인용합니다.",
-      "price": {
-        "latest_close": 690.0,
-        "latest_date": "2026-11-06",
-        "first_close": 156.83,
-        "first_price_date": "2025-09-25",
-        "return_pct": 339.97,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:56:52+00:00"
-      }
-    },
-    {
       "ticker": "NET",
       "stance": "bearish",
       "summary_en": "Author says people are throwing money at Cloudflare and peers and that this was a bubble, favoring compute infrastructure instead.",
@@ -1165,42 +1370,6 @@
       }
     },
     {
-      "ticker": "AMZN",
-      "stance": "neutral",
-      "summary_en": "Author cites Amazon's CEO saying cybersecurity could consume 20% of tokens next year as evidence of a compute-intensive cyber arms race.",
-      "mentions": 181,
-      "last_seen": "Nov 04, 2026, 06:16 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
-      "post_url": "https://x.com/aleabitoreddit/status/2118044688829845703",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 사이버 보안이 컴퓨팅 집약적인 사이버 무기 경쟁의 증거로 내년에 토큰의 20% 를 소비할 수 있다고 아마존의 CEO를 인용합니다.",
-      "price": {
-        "latest_close": 259.3,
-        "latest_date": "2026-11-06",
-        "first_close": 220.21,
-        "first_price_date": "2025-09-24",
-        "return_pct": 17.75,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:56:53+00:00"
-      }
-    },
-    {
       "ticker": "ATS",
       "stance": "bullish",
       "summary_en": "Author cites $ATS's large-body substrates as a bottleneck for Marvell and AMD, supporting a deep demand-imbalance thesis.",
@@ -1224,42 +1393,6 @@
         "first_close": 17.57,
         "first_price_date": "2026-11-04",
         "return_pct": -3.41,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:56:53+00:00"
-      }
-    },
-    {
-      "ticker": "CRWV",
-      "stance": "unclear",
-      "summary_en": "Author dismisses the idea that political rhetoric alone justifies doomposting CRWV, arguing a market-wide doomsday scenario is unlikely.",
-      "mentions": 174,
-      "last_seen": "Nov 04, 2026, 04:25 AM",
-      "first_mention": "Aug 23, 2025, 11:08 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
-      "post_url": "https://x.com/aleabitoreddit/status/2117835682702110999",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "저자는 정치적 수사만으로는 CRWV의 파멸을 정당화할 수 있다는 생각을 일축하며, 시장 차원의 파멸 시나리오는 가능하지 않다고 주장합니다.",
-      "price": {
-        "latest_close": 46.4,
-        "latest_date": "2026-11-06",
-        "first_close": 92.38,
-        "first_price_date": "2025-08-25",
-        "return_pct": -49.77,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1782,42 +1915,6 @@
         "first_close": 71.19,
         "first_price_date": "2025-08-25",
         "return_pct": -66.92,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:56:58+00:00"
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "stance": "neutral",
-      "summary_en": "No signs that Microsoft is materially cutting capex.",
-      "mentions": 171,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Sep 27, 2025, 10:53 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MSFT",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "Microsoft가 CAPEX를 실질적으로 삭감하고 있다는 징후는 없습니다.",
-      "price": {
-        "latest_close": 530.61,
-        "latest_date": "2026-11-06",
-        "first_close": 514.6,
-        "first_price_date": "2025-09-29",
-        "return_pct": 3.11,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -13147,36 +13244,6 @@
       }
     },
     {
-      "ticker": "IREN",
-      "stance": "bullish",
-      "summary_en": "",
-      "mentions": 391,
-      "first_mention": "Aug 31, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
-      "post_url": "",
-      "company_name": "IREN Limited",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 21.64,
-        "latest_date": "2026-11-06",
-        "first_close": 29.11,
-        "first_price_date": "2025-09-02",
-        "return_pct": -25.66,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:58:52+00:00"
-      }
-    },
-    {
       "ticker": "IQEPF",
       "stance": "neutral",
       "summary_en": "",
@@ -14888,36 +14955,6 @@
         "first_close": 43.62,
         "first_price_date": "2026-01-20",
         "return_pct": -11.46,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-07T05:59:08+00:00"
-      }
-    },
-    {
-      "ticker": "GEV",
-      "stance": "bullish",
-      "summary_en": "",
-      "mentions": 2,
-      "first_mention": "Feb 07, 2026",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/GEV",
-      "post_url": "",
-      "company_name": "GE Vernova Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 774.11,
-        "latest_date": "2026-11-06",
-        "first_close": 801.54,
-        "first_price_date": "2026-02-09",
-        "return_pct": -3.42,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23021,10 +23058,10 @@
     {
       "date": "2026-11-07",
       "stocks": 772,
-      "bullish": 197,
-      "bearish": 62,
-      "neutral": 314,
-      "unclear": 74,
+      "bullish": 195,
+      "bearish": 63,
+      "neutral": 319,
+      "unclear": 70,
       "watchlist": 94
     }
   ]
