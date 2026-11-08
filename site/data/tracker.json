@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-08T05:57:33+00:00",
+  "last_successful_sync_utc": "2026-11-08T11:50:16+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -253,6 +253,472 @@
       }
     },
     {
+      "ticker": "POET",
+      "stance": "bullish",
+      "summary_en": "Author highlights POET trading -$97M under net cash, implying the operating business is valued below zero and challenging the AI bubble label for optical names.",
+      "mentions": 104,
+      "last_seen": "Nov 08, 2026, 09:35 AM",
+      "first_mention": "Dec 11, 2025, 10:18 PM",
+      "detail_url": "https://serenitystock.com/stocks/NCM/POET",
+      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 5.07,
+        "latest_date": "2026-11-06",
+        "first_close": 7.22,
+        "first_price_date": "2025-12-11",
+        "return_pct": -29.78,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:57:55+00:00"
+      },
+      "summary_ko": "저자는 시인 거래를 강조합니다 - 순 현금으로 $ 97M, 운영 비즈니스가 0 이하로 평가되고 광학 이름에 대한 AI 버블 레이블에 도전한다는 것을 암시합니다."
+    },
+    {
+      "ticker": "LITE",
+      "stance": "bullish",
+      "summary_en": "Author points to $5B long-term agreements with LITE as evidence that AI companies with larger premiums still have durable demand over the next 3-5 years.",
+      "mentions": 434,
+      "last_seen": "Nov 08, 2026, 09:35 AM",
+      "first_mention": "Oct 25, 2025, 06:17 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
+      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-10-29T05:54:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 538.59,
+        "latest_date": "2026-11-06",
+        "first_close": 193.8,
+        "first_price_date": "2025-10-27",
+        "return_pct": 177.91,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:57:46+00:00"
+      },
+      "summary_ko": "저자는 Lite와의 $ 5B 장기 계약을 보험료가 큰 AI 회사가 향후 3 ~ 5 년 동안 여전히 지속적인 수요를 가지고 있다는 증거로 지적합니다."
+    },
+    {
+      "ticker": "ESMT",
+      "stance": "bullish",
+      "summary_en": "Author cites ESMT among memory companies at 1-3x forward P/E with HBM hyperscaler price-floor LTAs, arguing the AI infrastructure theme is not a bubble.",
+      "mentions": 14,
+      "last_seen": "Nov 08, 2026, 09:35 AM",
+      "first_mention": "Aug 29, 2026, 09:20 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
+      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "summary_ko": "저자는 ESMT가 HBM 하이퍼스케일러 가격층 LTA와 함께 1-3x 포워드 P/E의 메모리 회사 중 하나라고 말하면서 AI 인프라 테마가 거품이 아니라고 주장합니다."
+    },
+    {
+      "ticker": "COHR",
+      "stance": "bullish",
+      "summary_en": "Author points to new $20B long-term agreements with COHR as evidence that AI companies with larger premiums still have durable demand over the next 3-5 years.",
+      "mentions": 221,
+      "last_seen": "Nov 08, 2026, 09:35 AM",
+      "first_mention": "Dec 01, 2025, 05:21 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
+      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
+      "company_name": "코히런트 (Coherent)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 192.81,
+        "latest_date": "2026-11-06",
+        "first_close": 163.5,
+        "first_price_date": "2025-12-01",
+        "return_pct": 17.93,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:57:48+00:00"
+      },
+      "summary_ko": "저자는 COHR과의 새로운 $ 20B 장기 계약을 보험료가 큰 AI 회사가 향후 3 ~ 5 년 동안 여전히 지속적인 수요를 가지고 있다는 증거로 지적합니다."
+    },
+    {
+      "ticker": "005930.KS",
+      "stance": "bullish",
+      "summary_en": "Author cites Samsung among memory companies at 1-3x forward P/E with HBM hyperscaler price-floor LTAs, arguing the AI infrastructure theme is not a bubble.",
+      "mentions": 48,
+      "last_seen": "Nov 08, 2026, 09:35 AM",
+      "first_mention": "Dec 05, 2025, 05:14 AM",
+      "detail_url": "https://serenitystock.com/stocks/KSC/005930.KS",
+      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 188700.0,
+        "latest_date": "2026-11-06",
+        "first_close": 108400.0,
+        "first_price_date": "2025-12-05",
+        "return_pct": 74.08,
+        "currency": "KRW",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T06:02:05+00:00"
+      },
+      "summary_ko": "저자는 HBM 하이퍼스케일러 가격층 LTA와 함께 1-3x 포워드 P/E에서 메모리 회사 중 삼성을 인용하여 AI 인프라 테마가 거품이 아니라고 주장합니다."
+    },
+    {
+      "ticker": "VOYG",
+      "stance": "neutral",
+      "summary_en": "Author highlights Voyager ($VOYG) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 1,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Nov 08, 2026, 04:35 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/VOYG",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "price": {
+        "latest_close": 23.98,
+        "latest_date": "2026-11-06",
+        "first_close": null,
+        "first_price_date": null,
+        "return_pct": null,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T11:50:21+00:00"
+      },
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 보이저 ($ VOYG) 가 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 수행하기 위해 경쟁하고 있다고 강조합니다."
+    },
+    {
+      "ticker": "SPCX",
+      "stance": "neutral",
+      "summary_en": "Author highlights SpaceX (listed as $SPCX) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 42,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Dec 09, 2025, 10:48 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 134.27,
+        "latest_date": "2026-11-06",
+        "first_close": 160.95,
+        "first_price_date": "2026-06-12",
+        "return_pct": -16.58,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:57:43+00:00"
+      },
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 SpaceX ($ SPCX) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
+    },
+    {
+      "ticker": "RDW",
+      "stance": "neutral",
+      "summary_en": "Author notes NASA announced an award to $RDW for a lunar power and communications tower, alongside awards to Honeybee Robotics.",
+      "mentions": 4,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Jul 03, 2025, 09:05 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/RDW",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 7.21,
+        "latest_date": "2026-11-06",
+        "first_close": 15.99,
+        "first_price_date": "2025-07-03",
+        "return_pct": -54.91,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:59:05+00:00"
+      },
+      "summary_ko": "저자는 NASA가 Honeybee Robotics에 대한 상과 함께 달의 전력 및 통신 타워에 대한 $ RDW에 대한 상을 발표했다고 말합니다."
+    },
+    {
+      "ticker": "NOC",
+      "stance": "neutral",
+      "summary_en": "Author highlights Northrop Grumman Space ($NOC) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 13,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Oct 18, 2025, 11:27 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/NOC",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 525.01,
+        "latest_date": "2026-11-06",
+        "first_close": 602.0,
+        "first_price_date": "2025-10-20",
+        "return_pct": -12.79,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:59:31+00:00"
+      },
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나로 Northrop Grumman Space ($ NOC) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
+    },
+    {
+      "ticker": "LUNR",
+      "stance": "neutral",
+      "summary_en": "Author highlights Lunar ($LUNR) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 3,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Oct 08, 2025, 04:35 PM",
+      "detail_url": "https://serenitystock.com/stocks/NGM/LUNR",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 10.47,
+        "latest_date": "2026-11-06",
+        "first_close": 12.48,
+        "first_price_date": "2025-10-08",
+        "return_pct": -16.11,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:59:51+00:00"
+      },
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 달 ($ LUNR) 을 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
+    },
+    {
+      "ticker": "LMT",
+      "stance": "neutral",
+      "summary_en": "Author highlights Lockheed Martin Space ($LMT) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 10,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Jan 04, 2026, 03:40 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/LMT",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 567.08,
+        "latest_date": "2026-11-06",
+        "first_close": 511.57,
+        "first_price_date": "2026-01-05",
+        "return_pct": 10.85,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:59:54+00:00"
+      },
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 록히드 마틴 스페이스 ($ LMT) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
+    },
+    {
+      "ticker": "FLY",
+      "stance": "neutral",
+      "summary_en": "Author highlights Firefly ($FLY) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 33,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Oct 08, 2025, 03:51 PM",
+      "detail_url": "https://serenitystock.com/stocks/NGM/FLY",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 20.76,
+        "latest_date": "2026-11-06",
+        "first_close": 31.0,
+        "first_price_date": "2025-10-08",
+        "return_pct": -33.03,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T06:00:35+00:00"
+      },
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 Firefly ($ FLY) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
+    },
+    {
       "ticker": "GEV",
       "stance": "neutral",
       "summary_en": "Author relays GE Vernova CEO Scott Strazik denying Softbank turbine order cancellations, customer financing disruptions, or requests to exit turbine reservations.",
@@ -420,52 +886,6 @@
         "first_close": 156.83,
         "first_price_date": "2025-09-25",
         "return_pct": 339.97,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:57:43+00:00"
-      }
-    },
-    {
-      "ticker": "SPCX",
-      "stance": "bullish",
-      "summary_en": "Author cites Elon's SPCX/SpaceX focus on the neocloud market and SpaceX's $40B GPU financing as evidence he sees attractive compute economics.",
-      "mentions": 41,
-      "last_seen": "Nov 07, 2026, 02:40 PM",
-      "first_mention": "Dec 09, 2025, 10:48 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
-      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "저자는 Elon의 SPCX/SpaceX가 neocloud 시장에 초점을 맞추고 SpaceX의 $ 40B GPU 파이낸싱이 매력적인 컴퓨팅 경제학의 증거라고 말합니다.",
-      "price": {
-        "latest_close": 134.27,
-        "latest_date": "2026-11-06",
-        "first_close": 160.95,
-        "first_price_date": "2026-06-12",
-        "return_pct": -16.58,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -805,72 +1225,6 @@
       }
     },
     {
-      "ticker": "LITE",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as the benchmark for SIVE's moonshot potential; no independent view on LITE is expressed.",
-      "mentions": 433,
-      "last_seen": "Nov 06, 2026, 07:24 AM",
-      "first_mention": "Oct 25, 2025, 06:17 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
-      "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-10-29T05:54:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "SIVE의 문샷 잠재력에 대한 벤치마크로만 언급되며, Lite에 대한 독립적인 견해는 표현되지 않습니다.",
-      "price": {
-        "latest_close": 538.59,
-        "latest_date": "2026-11-06",
-        "first_close": 193.8,
-        "first_price_date": "2025-10-27",
-        "return_pct": 177.91,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:57:46+00:00"
-      }
-    },
-    {
       "ticker": "INTC",
       "stance": "unclear",
       "summary_en": "Mentioned only in a historical comparison about AMD being seen as a possible next INTC; no independent stance is expressed.",
@@ -974,57 +1328,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-08T05:57:47+00:00"
-      }
-    },
-    {
-      "ticker": "COHR",
-      "stance": "neutral",
-      "summary_en": "Named alongside LITE as a dominant incumbent in the merchant UHP CPO market that AAOI is entering.",
-      "mentions": 220,
-      "last_seen": "Nov 06, 2026, 05:00 AM",
-      "first_mention": "Dec 01, 2025, 05:21 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
-      "post_url": "https://x.com/aleabitoreddit/status/2118569237128286343",
-      "company_name": "코히런트 (Coherent)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "AAOI가 진출하는 가맹점 UHP CPO 시장에서 Lite와 함께 지배적인 현직 기업으로 선정되었습니다.",
-      "price": {
-        "latest_close": 192.81,
-        "latest_date": "2026-11-06",
-        "first_close": 163.5,
-        "first_price_date": "2025-12-01",
-        "return_pct": 17.93,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:57:48+00:00"
       }
     },
     {
@@ -1507,25 +1810,6 @@
       }
     },
     {
-      "ticker": "ESMT",
-      "stance": "bullish",
-      "summary_en": "Author is strongly bullish on ESMT, citing its low valuation, high net assets, and DDR2/DDR3 supply tightening as reasons the market is wrong to sell it off.",
-      "mentions": 13,
-      "last_seen": "Nov 04, 2026, 04:20 PM",
-      "first_mention": "Aug 29, 2026, 09:20 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
-      "post_url": "https://x.com/aleabitoreddit/status/2118015527440515458",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "저자는 낮은 밸류에이션, 높은 순자산 및 DDR2/DDR3 공급 조임을 시장이 매각하는 것이 잘못된 이유로 꼽으며 ESMT에 대해 강하게 낙관적입니다."
-    },
-    {
       "ticker": "CIFR",
       "stance": "unclear",
       "summary_en": "Author highlights CIFR's 44% decline since announcing initial GOOGL/AMZN colocation deals as evidence of rampant market deleveraging.",
@@ -1696,42 +1980,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-08T05:57:54+00:00"
-      }
-    },
-    {
-      "ticker": "POET",
-      "stance": "bearish",
-      "summary_en": "Author highlights POET's steep decline, noting it trades near net cash and below book value and would need a 337.5% rally to reach the prior financing price.",
-      "mentions": 103,
-      "last_seen": "Nov 03, 2026, 08:47 AM",
-      "first_mention": "Dec 11, 2025, 10:18 PM",
-      "detail_url": "https://serenitystock.com/stocks/NCM/POET",
-      "post_url": "https://x.com/aleabitoreddit/status/2117539121434591711",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "neutral",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "저자는 시인의 가파른 하락세를 강조하면서 순 현금에 가깝고 장부가액보다 낮게 거래되며 이전 자금 조달 가격에 도달하려면 337.5% 의 랠리가 필요할 것이라고 지적합니다.",
-      "price": {
-        "latest_close": 5.07,
-        "latest_date": "2026-11-06",
-        "first_close": 7.22,
-        "first_price_date": "2025-12-11",
-        "return_pct": -29.78,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:57:55+00:00"
       }
     },
     {
@@ -7728,36 +7976,6 @@
       }
     },
     {
-      "ticker": "RDW",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 3,
-      "first_mention": "Jul 03, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/RDW",
-      "post_url": "",
-      "company_name": "Redwire Corporation",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 7.21,
-        "latest_date": "2026-11-06",
-        "first_close": 15.99,
-        "first_price_date": "2025-07-03",
-        "return_pct": -54.91,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:59:05+00:00"
-      }
-    },
-    {
       "ticker": "RDDT",
       "stance": "unclear",
       "summary_en": "",
@@ -10024,36 +10242,6 @@
       }
     },
     {
-      "ticker": "NOC",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 12,
-      "first_mention": "Oct 18, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/NOC",
-      "post_url": "",
-      "company_name": "Northrop Grumman Corporation",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 525.01,
-        "latest_date": "2026-11-06",
-        "first_close": 602.0,
-        "first_price_date": "2025-10-20",
-        "return_pct": -12.79,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:59:31+00:00"
-      }
-    },
-    {
       "ticker": "NNE",
       "stance": "neutral",
       "summary_en": "",
@@ -11627,36 +11815,6 @@
       "stance_history": []
     },
     {
-      "ticker": "LUNR",
-      "stance": "bullish",
-      "summary_en": "",
-      "mentions": 2,
-      "first_mention": "Oct 08, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NGM/LUNR",
-      "post_url": "",
-      "company_name": "Intuitive Machines, Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 10.47,
-        "latest_date": "2026-11-06",
-        "first_close": 12.48,
-        "first_price_date": "2025-10-08",
-        "return_pct": -16.11,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:59:51+00:00"
-      }
-    },
-    {
       "ticker": "LULU",
       "stance": "bearish",
       "summary_en": "",
@@ -11920,36 +12078,6 @@
         "first_close": 248.98,
         "first_price_date": "2026-03-04",
         "return_pct": 11.64,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:59:54+00:00"
-      }
-    },
-    {
-      "ticker": "LMT",
-      "stance": "bearish",
-      "summary_en": "",
-      "mentions": 9,
-      "first_mention": "Jan 04, 2026",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/LMT",
-      "post_url": "",
-      "company_name": "Lockheed Martin Corporation",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 567.08,
-        "latest_date": "2026-11-06",
-        "first_close": 511.57,
-        "first_price_date": "2026-01-05",
-        "return_pct": 10.85,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -15368,36 +15496,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-08T06:00:34+00:00"
-      }
-    },
-    {
-      "ticker": "FLY",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 32,
-      "first_mention": "Oct 08, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NGM/FLY",
-      "post_url": "",
-      "company_name": "Firefly Aerospace Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 20.76,
-        "latest_date": "2026-11-06",
-        "first_close": 31.0,
-        "first_price_date": "2025-10-08",
-        "return_pct": -33.03,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T06:00:35+00:00"
       }
     },
     {
@@ -22941,36 +23039,6 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-08T06:02:04+00:00"
       }
-    },
-    {
-      "ticker": "005930.KS",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 47,
-      "first_mention": "Dec 05, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/KSC/005930.KS",
-      "post_url": "",
-      "company_name": "Samsung Electronics Co., Ltd.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 188700.0,
-        "latest_date": "2026-11-06",
-        "first_close": 108400.0,
-        "first_price_date": "2025-12-05",
-        "return_pct": 74.08,
-        "currency": "KRW",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T06:02:05+00:00"
-      }
     }
   ],
   "history": [
@@ -23066,11 +23134,11 @@
     },
     {
       "date": "2026-11-08",
-      "stocks": 772,
-      "bullish": 195,
-      "bearish": 63,
-      "neutral": 319,
-      "unclear": 70,
+      "stocks": 773,
+      "bullish": 197,
+      "bearish": 61,
+      "neutral": 321,
+      "unclear": 69,
       "watchlist": 94
     }
   ]
