@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-08T11:50:16+00:00",
+  "last_successful_sync_utc": "2026-11-08T23:45:38+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -262,12 +262,12 @@
       "detail_url": "https://serenitystock.com/stocks/NCM/POET",
       "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bearish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T11:56:43+00:00",
@@ -280,6 +280,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 시인 거래를 강조합니다 - 순 현금으로 $ 97M, 운영 비즈니스가 0 이하로 평가되고 광학 이름에 대한 AI 버블 레이블에 도전한다는 것을 암시합니다.",
       "price": {
         "latest_close": 5.07,
         "latest_date": "2026-11-06",
@@ -290,24 +291,449 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-08T05:57:55+00:00"
-      },
-      "summary_ko": "저자는 시인 거래를 강조합니다 - 순 현금으로 $ 97M, 운영 비즈니스가 0 이하로 평가되고 광학 이름에 대한 AI 버블 레이블에 도전한다는 것을 암시합니다."
+      }
     },
     {
-      "ticker": "LITE",
+      "ticker": "ESMT",
       "stance": "bullish",
-      "summary_en": "Author points to $5B long-term agreements with LITE as evidence that AI companies with larger premiums still have durable demand over the next 3-5 years.",
-      "mentions": 434,
+      "summary_en": "Author cites ESMT among memory companies at 1-3x forward P/E with HBM hyperscaler price-floor LTAs, arguing the AI infrastructure theme is not a bubble.",
+      "mentions": 14,
       "last_seen": "Nov 08, 2026, 09:35 AM",
-      "first_mention": "Oct 25, 2025, 06:17 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
+      "first_mention": "Aug 29, 2026, 09:20 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
       "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [],
+      "summary_ko": "저자는 ESMT가 HBM 하이퍼스케일러 가격층 LTA와 함께 1-3x 포워드 P/E의 메모리 회사 중 하나라고 말하면서 AI 인프라 테마가 거품이 아니라고 주장합니다."
+    },
+    {
+      "ticker": "COHR",
+      "stance": "bullish",
+      "summary_en": "Author points to new $20B long-term agreements with COHR as evidence that AI companies with larger premiums still have durable demand over the next 3-5 years.",
+      "mentions": 221,
+      "last_seen": "Nov 08, 2026, 09:35 AM",
+      "first_mention": "Dec 01, 2025, 05:21 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
+      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
+      "company_name": "코히런트 (Coherent)",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "summary_ko": "저자는 COHR과의 새로운 $ 20B 장기 계약을 보험료가 큰 AI 회사가 향후 3 ~ 5 년 동안 여전히 지속적인 수요를 가지고 있다는 증거로 지적합니다.",
+      "price": {
+        "latest_close": 192.81,
+        "latest_date": "2026-11-06",
+        "first_close": 163.5,
+        "first_price_date": "2025-12-01",
+        "return_pct": 17.93,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:57:48+00:00"
+      }
+    },
+    {
+      "ticker": "005930.KS",
+      "stance": "bullish",
+      "summary_en": "Author cites Samsung among memory companies at 1-3x forward P/E with HBM hyperscaler price-floor LTAs, arguing the AI infrastructure theme is not a bubble.",
+      "mentions": 48,
+      "last_seen": "Nov 08, 2026, 09:35 AM",
+      "first_mention": "Dec 05, 2025, 05:14 AM",
+      "detail_url": "https://serenitystock.com/stocks/KSC/005930.KS",
+      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "summary_ko": "저자는 HBM 하이퍼스케일러 가격층 LTA와 함께 1-3x 포워드 P/E에서 메모리 회사 중 삼성을 인용하여 AI 인프라 테마가 거품이 아니라고 주장합니다.",
+      "price": {
+        "latest_close": 188700.0,
+        "latest_date": "2026-11-06",
+        "first_close": 108400.0,
+        "first_price_date": "2025-12-05",
+        "return_pct": 74.08,
+        "currency": "KRW",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T06:02:05+00:00"
+      }
+    },
+    {
+      "ticker": "VOYG",
+      "stance": "neutral",
+      "summary_en": "Author highlights Voyager ($VOYG) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 1,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Nov 08, 2026, 04:35 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/VOYG",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [],
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 보이저 ($ VOYG) 가 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 수행하기 위해 경쟁하고 있다고 강조합니다.",
+      "price": {
+        "latest_close": 23.98,
+        "latest_date": "2026-11-06",
+        "first_close": null,
+        "first_price_date": null,
+        "return_pct": null,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T23:45:43+00:00"
+      }
+    },
+    {
+      "ticker": "SPCX",
+      "stance": "neutral",
+      "summary_en": "Author highlights SpaceX (listed as $SPCX) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 42,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Dec 09, 2025, 10:48 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 SpaceX ($ SPCX) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다.",
+      "price": {
+        "latest_close": 134.27,
+        "latest_date": "2026-11-06",
+        "first_close": 160.95,
+        "first_price_date": "2026-06-12",
+        "return_pct": -16.58,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:57:43+00:00"
+      }
+    },
+    {
+      "ticker": "RDW",
+      "stance": "neutral",
+      "summary_en": "Author notes NASA announced an award to $RDW for a lunar power and communications tower, alongside awards to Honeybee Robotics.",
+      "mentions": 4,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Jul 03, 2025, 09:05 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/RDW",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [],
+      "summary_ko": "저자는 NASA가 Honeybee Robotics에 대한 상과 함께 달의 전력 및 통신 타워에 대한 $ RDW에 대한 상을 발표했다고 말합니다.",
+      "price": {
+        "latest_close": 7.21,
+        "latest_date": "2026-11-06",
+        "first_close": 15.99,
+        "first_price_date": "2025-07-03",
+        "return_pct": -54.91,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:59:05+00:00"
+      }
+    },
+    {
+      "ticker": "NOC",
+      "stance": "neutral",
+      "summary_en": "Author highlights Northrop Grumman Space ($NOC) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 13,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Oct 18, 2025, 11:27 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/NOC",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [],
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나로 Northrop Grumman Space ($ NOC) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다.",
+      "price": {
+        "latest_close": 525.01,
+        "latest_date": "2026-11-06",
+        "first_close": 602.0,
+        "first_price_date": "2025-10-20",
+        "return_pct": -12.79,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:59:31+00:00"
+      }
+    },
+    {
+      "ticker": "LUNR",
+      "stance": "neutral",
+      "summary_en": "Author highlights Lunar ($LUNR) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 3,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Oct 08, 2025, 04:35 PM",
+      "detail_url": "https://serenitystock.com/stocks/NGM/LUNR",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 달 ($ LUNR) 을 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다.",
+      "price": {
+        "latest_close": 10.47,
+        "latest_date": "2026-11-06",
+        "first_close": 12.48,
+        "first_price_date": "2025-10-08",
+        "return_pct": -16.11,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:59:51+00:00"
+      }
+    },
+    {
+      "ticker": "LMT",
+      "stance": "neutral",
+      "summary_en": "Author highlights Lockheed Martin Space ($LMT) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 10,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Jan 04, 2026, 03:40 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/LMT",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 록히드 마틴 스페이스 ($ LMT) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다.",
+      "price": {
+        "latest_close": 567.08,
+        "latest_date": "2026-11-06",
+        "first_close": 511.57,
+        "first_price_date": "2026-01-05",
+        "return_pct": 10.85,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:59:54+00:00"
+      }
+    },
+    {
+      "ticker": "FLY",
+      "stance": "neutral",
+      "summary_en": "Author highlights Firefly ($FLY) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
+      "mentions": 33,
+      "last_seen": "Nov 08, 2026, 04:35 AM",
+      "first_mention": "Oct 08, 2025, 03:51 PM",
+      "detail_url": "https://serenitystock.com/stocks/NGM/FLY",
+      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [],
+      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 Firefly ($ FLY) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다.",
+      "price": {
+        "latest_close": 20.76,
+        "latest_date": "2026-11-06",
+        "first_close": 31.0,
+        "first_price_date": "2025-10-08",
+        "return_pct": -33.03,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T06:00:35+00:00"
+      }
+    },
+    {
+      "ticker": "QCOM",
+      "stance": "bullish",
+      "summary_en": "Qualcomm's CEO said the company is supply-bound, with wafers, substrate, and assembly short because demand is very high.",
+      "mentions": 18,
+      "last_seen": "Nov 08, 2026, 03:52 PM",
+      "first_mention": "Oct 10, 2025, 10:06 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/QCOM",
+      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
       "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "unclear",
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T23:45:38+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 165.41,
+        "latest_date": "2026-11-06",
+        "first_close": 153.59,
+        "first_price_date": "2025-10-10",
+        "return_pct": 7.7,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:59:08+00:00"
+      },
+      "summary_ko": "Qualcomm의 CEO는 수요가 매우 높기 때문에 회사가 웨이퍼, 기판 및 어셈블리가 부족하여 공급이 제한적이라고 말했습니다."
+    },
+    {
+      "ticker": "META",
+      "stance": "neutral",
+      "summary_en": "Meta's president said politicians are negotiating to keep data center investment, but starting new US data centers will become more difficult.",
+      "mentions": 240,
+      "last_seen": "Nov 08, 2026, 03:52 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/META",
+      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 610.15,
+        "latest_date": "2026-11-06",
+        "first_close": 760.66,
+        "first_price_date": "2025-09-24",
+        "return_pct": -19.79,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:57:44+00:00"
+      },
+      "summary_ko": "Meta 사장은 정치인들이 데이터 센터 투자를 유지하기 위해 협상하고 있지만 새로운 미국 데이터 센터를 시작하는 것은 더욱 어려워질 것이라고 말했습니다."
+    },
+    {
+      "ticker": "LITE",
+      "stance": "bullish",
+      "summary_en": "LITE's CEO said there is a massive disconnect between strong demand books and the market's massive selloff.",
+      "mentions": 435,
+      "last_seen": "Nov 08, 2026, 03:52 PM",
+      "first_mention": "Oct 25, 2025, 06:17 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
+      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
       "mentions_delta": 1,
       "stance_history": [
         {
@@ -362,158 +788,17 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-08T05:57:46+00:00"
       },
-      "summary_ko": "저자는 Lite와의 $ 5B 장기 계약을 보험료가 큰 AI 회사가 향후 3 ~ 5 년 동안 여전히 지속적인 수요를 가지고 있다는 증거로 지적합니다."
+      "summary_ko": "Lite의 CEO는 강력한 수요 장부와 시장의 대규모 매도 사이에 엄청난 단절이 있다고 말했습니다."
     },
     {
-      "ticker": "ESMT",
-      "stance": "bullish",
-      "summary_en": "Author cites ESMT among memory companies at 1-3x forward P/E with HBM hyperscaler price-floor LTAs, arguing the AI infrastructure theme is not a bubble.",
-      "mentions": 14,
-      "last_seen": "Nov 08, 2026, 09:35 AM",
-      "first_mention": "Aug 29, 2026, 09:20 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
-      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 1,
-      "stance_history": [],
-      "summary_ko": "저자는 ESMT가 HBM 하이퍼스케일러 가격층 LTA와 함께 1-3x 포워드 P/E의 메모리 회사 중 하나라고 말하면서 AI 인프라 테마가 거품이 아니라고 주장합니다."
-    },
-    {
-      "ticker": "COHR",
-      "stance": "bullish",
-      "summary_en": "Author points to new $20B long-term agreements with COHR as evidence that AI companies with larger premiums still have durable demand over the next 3-5 years.",
-      "mentions": 221,
-      "last_seen": "Nov 08, 2026, 09:35 AM",
-      "first_mention": "Dec 01, 2025, 05:21 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
-      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
-      "company_name": "코히런트 (Coherent)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "price": {
-        "latest_close": 192.81,
-        "latest_date": "2026-11-06",
-        "first_close": 163.5,
-        "first_price_date": "2025-12-01",
-        "return_pct": 17.93,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:57:48+00:00"
-      },
-      "summary_ko": "저자는 COHR과의 새로운 $ 20B 장기 계약을 보험료가 큰 AI 회사가 향후 3 ~ 5 년 동안 여전히 지속적인 수요를 가지고 있다는 증거로 지적합니다."
-    },
-    {
-      "ticker": "005930.KS",
-      "stance": "bullish",
-      "summary_en": "Author cites Samsung among memory companies at 1-3x forward P/E with HBM hyperscaler price-floor LTAs, arguing the AI infrastructure theme is not a bubble.",
-      "mentions": 48,
-      "last_seen": "Nov 08, 2026, 09:35 AM",
-      "first_mention": "Dec 05, 2025, 05:14 AM",
-      "detail_url": "https://serenitystock.com/stocks/KSC/005930.KS",
-      "post_url": "https://x.com/aleabitoreddit/status/2119363124147191823",
-      "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "price": {
-        "latest_close": 188700.0,
-        "latest_date": "2026-11-06",
-        "first_close": 108400.0,
-        "first_price_date": "2025-12-05",
-        "return_pct": 74.08,
-        "currency": "KRW",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T06:02:05+00:00"
-      },
-      "summary_ko": "저자는 HBM 하이퍼스케일러 가격층 LTA와 함께 1-3x 포워드 P/E에서 메모리 회사 중 삼성을 인용하여 AI 인프라 테마가 거품이 아니라고 주장합니다."
-    },
-    {
-      "ticker": "VOYG",
-      "stance": "neutral",
-      "summary_en": "Author highlights Voyager ($VOYG) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
-      "mentions": 1,
-      "last_seen": "Nov 08, 2026, 04:35 AM",
-      "first_mention": "Nov 08, 2026, 04:35 AM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/VOYG",
-      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": true,
-      "previous_stance": null,
-      "mentions_delta": null,
-      "stance_history": [],
-      "price": {
-        "latest_close": 23.98,
-        "latest_date": "2026-11-06",
-        "first_close": null,
-        "first_price_date": null,
-        "return_pct": null,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T11:50:21+00:00"
-      },
-      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 보이저 ($ VOYG) 가 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 수행하기 위해 경쟁하고 있다고 강조합니다."
-    },
-    {
-      "ticker": "SPCX",
-      "stance": "neutral",
-      "summary_en": "Author highlights SpaceX (listed as $SPCX) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
-      "mentions": 42,
-      "last_seen": "Nov 08, 2026, 04:35 AM",
-      "first_mention": "Dec 09, 2025, 10:48 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
-      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "ticker": "IREN",
+      "stance": "unclear",
+      "summary_en": "IREN was only referenced as the source of a comment that LITE's CEO said they would second, with no separate IREN-specific analysis.",
+      "mentions": 393,
+      "last_seen": "Nov 08, 2026, 03:52 PM",
+      "first_mention": "Aug 31, 2025, 04:51 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
+      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
       "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
@@ -523,48 +808,69 @@
       "mentions_delta": 1,
       "stance_history": [
         {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "observed_at_utc": "2026-11-08T23:45:38+00:00",
           "from": "bullish",
           "to": "unclear"
-        },
+        }
+      ],
+      "price": {
+        "latest_close": 21.64,
+        "latest_date": "2026-11-06",
+        "first_close": 29.11,
+        "first_price_date": "2025-09-02",
+        "return_pct": -25.66,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-08T05:57:44+00:00"
+      },
+      "summary_ko": "Iren은 Lite의 CEO가 별도의 IREN별 분석 없이 두 번째로 하겠다고 말한 의견의 출처로만 언급되었습니다."
+    },
+    {
+      "ticker": "ARM",
+      "stance": "bullish",
+      "summary_en": "Arm's CEO said there is huge global demand for AI data center capacity, warning US hesitation could cede buildout while China is not slowing.",
+      "mentions": 46,
+      "last_seen": "Nov 08, 2026, 03:52 PM",
+      "first_mention": "Sep 29, 2025, 02:53 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/ARM",
+      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
         {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "observed_at_utc": "2026-11-08T23:45:38+00:00",
           "from": "unclear",
           "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "bullish",
-          "to": "neutral"
         }
       ],
       "price": {
-        "latest_close": 134.27,
+        "latest_close": 174.62,
         "latest_date": "2026-11-06",
-        "first_close": 160.95,
-        "first_price_date": "2026-06-12",
-        "return_pct": -16.58,
+        "first_close": 139.8,
+        "first_price_date": "2025-09-29",
+        "return_pct": 24.91,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:57:43+00:00"
+        "fetched_utc": "2026-11-08T06:01:37+00:00"
       },
-      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 SpaceX ($ SPCX) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
+      "summary_ko": "Arm의 CEO는 AI 데이터 센터 용량에 대한 전 세계적으로 엄청난 수요가 있다고 말하면서 중국이 둔화되지 않는 동안 미국의 망설임이 구축을 포기할 수 있다고 경고했다."
     },
     {
-      "ticker": "RDW",
+      "ticker": "APLD",
       "stance": "neutral",
-      "summary_en": "Author notes NASA announced an award to $RDW for a lunar power and communications tower, alongside awards to Honeybee Robotics.",
-      "mentions": 4,
-      "last_seen": "Nov 08, 2026, 04:35 AM",
-      "first_mention": "Jul 03, 2025, 09:05 AM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/RDW",
-      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "summary_en": "APLD's CEO said financing remains available but delivery timing is the big risk, while the demand picture is extremely robust.",
+      "mentions": 29,
+      "last_seen": "Nov 08, 2026, 03:52 PM",
+      "first_mention": "Oct 28, 2025, 08:20 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/APLD",
+      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
       "company_name": "",
       "stance_changed": false,
       "new_mention_since_previous": true,
@@ -574,149 +880,53 @@
       "mentions_delta": 1,
       "stance_history": [],
       "price": {
-        "latest_close": 7.21,
+        "latest_close": 15.55,
         "latest_date": "2026-11-06",
-        "first_close": 15.99,
-        "first_price_date": "2025-07-03",
-        "return_pct": -54.91,
+        "first_close": 34.33,
+        "first_price_date": "2025-10-28",
+        "return_pct": -54.7,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:59:05+00:00"
+        "fetched_utc": "2026-11-08T06:01:39+00:00"
       },
-      "summary_ko": "저자는 NASA가 Honeybee Robotics에 대한 상과 함께 달의 전력 및 통신 타워에 대한 $ RDW에 대한 상을 발표했다고 말합니다."
+      "summary_ko": "APLD의 CEO는 자금 조달은 여전히 가능하지만 납기는 큰 위험이며 수요 그림은 매우 견고하다고 말했습니다."
     },
     {
-      "ticker": "NOC",
-      "stance": "neutral",
-      "summary_en": "Author highlights Northrop Grumman Space ($NOC) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
-      "mentions": 13,
-      "last_seen": "Nov 08, 2026, 04:35 AM",
-      "first_mention": "Oct 18, 2025, 11:27 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/NOC",
-      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 1,
-      "stance_history": [],
-      "price": {
-        "latest_close": 525.01,
-        "latest_date": "2026-11-06",
-        "first_close": 602.0,
-        "first_price_date": "2025-10-20",
-        "return_pct": -12.79,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:59:31+00:00"
-      },
-      "summary_ko": "저자는 NASA가 선정한 회사 중 하나로 Northrop Grumman Space ($ NOC) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
-    },
-    {
-      "ticker": "LUNR",
-      "stance": "neutral",
-      "summary_en": "Author highlights Lunar ($LUNR) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
-      "mentions": 3,
-      "last_seen": "Nov 08, 2026, 04:35 AM",
-      "first_mention": "Oct 08, 2025, 04:35 PM",
-      "detail_url": "https://serenitystock.com/stocks/NGM/LUNR",
-      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
+      "ticker": "AMD",
+      "stance": "bullish",
+      "summary_en": "AMD's CEO said AI adoption is at the very beginning and that demand is higher than supply.",
+      "mentions": 127,
+      "last_seen": "Nov 08, 2026, 03:52 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMD",
+      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
       "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "bullish",
+      "previous_stance": "neutral",
       "mentions_delta": 1,
       "stance_history": [
         {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "bullish",
-          "to": "neutral"
+          "observed_at_utc": "2026-11-08T23:45:38+00:00",
+          "from": "neutral",
+          "to": "bullish"
         }
       ],
       "price": {
-        "latest_close": 10.47,
+        "latest_close": 449.04,
         "latest_date": "2026-11-06",
-        "first_close": 12.48,
-        "first_price_date": "2025-10-08",
-        "return_pct": -16.11,
+        "first_close": 160.88,
+        "first_price_date": "2025-09-24",
+        "return_pct": 179.11,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:59:51+00:00"
+        "fetched_utc": "2026-11-08T05:57:47+00:00"
       },
-      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 달 ($ LUNR) 을 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
-    },
-    {
-      "ticker": "LMT",
-      "stance": "neutral",
-      "summary_en": "Author highlights Lockheed Martin Space ($LMT) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
-      "mentions": 10,
-      "last_seen": "Nov 08, 2026, 04:35 AM",
-      "first_mention": "Jan 04, 2026, 03:40 AM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/LMT",
-      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
-      "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "bearish",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "bearish",
-          "to": "neutral"
-        }
-      ],
-      "price": {
-        "latest_close": 567.08,
-        "latest_date": "2026-11-06",
-        "first_close": 511.57,
-        "first_price_date": "2026-01-05",
-        "return_pct": 10.85,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:59:54+00:00"
-      },
-      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 록히드 마틴 스페이스 ($ LMT) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
-    },
-    {
-      "ticker": "FLY",
-      "stance": "neutral",
-      "summary_en": "Author highlights Firefly ($FLY) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
-      "mentions": 33,
-      "last_seen": "Nov 08, 2026, 04:35 AM",
-      "first_mention": "Oct 08, 2025, 03:51 PM",
-      "detail_url": "https://serenitystock.com/stocks/NGM/FLY",
-      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 1,
-      "stance_history": [],
-      "price": {
-        "latest_close": 20.76,
-        "latest_date": "2026-11-06",
-        "first_close": 31.0,
-        "first_price_date": "2025-10-08",
-        "return_pct": -33.03,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T06:00:35+00:00"
-      },
-      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 Firefly ($ FLY) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다."
+      "summary_ko": "AMD의 CEO는 AI 도입이 초기 단계이며 수요가 공급보다 높다고 말했습니다."
     },
     {
       "ticker": "GEV",
@@ -963,72 +1173,6 @@
         "first_close": 514.6,
         "first_price_date": "2025-09-29",
         "return_pct": 3.11,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:57:44+00:00"
-      }
-    },
-    {
-      "ticker": "META",
-      "stance": "neutral",
-      "summary_en": "Author notes META sees profitable AI data-center economics and is accelerating its AI DC buildout.",
-      "mentions": 239,
-      "last_seen": "Nov 07, 2026, 02:40 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/META",
-      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자 노트 메타는 수익성 있는 AI 데이터 센터 경제성을 보고 AI DC 구축을 가속화하고 있습니다.",
-      "price": {
-        "latest_close": 610.15,
-        "latest_date": "2026-11-06",
-        "first_close": 760.66,
-        "first_price_date": "2025-09-24",
-        "return_pct": -19.79,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:57:44+00:00"
-      }
-    },
-    {
-      "ticker": "IREN",
-      "stance": "bullish",
-      "summary_en": "Author cites IREN earnings as showing public neoclouds adapt well to tight financing via 90% prepayments and higher H100 recontract pricing.",
-      "mentions": 392,
-      "last_seen": "Nov 07, 2026, 02:40 PM",
-      "first_mention": "Aug 31, 2025, 04:51 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
-      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "저자는 90% 선불 결제와 더 높은 H100 재계약 가격을 통해 공공 네오클라우드가 엄격한 자금 조달에 잘 적응하고 있음을 보여주는 IREN 수입을 인용합니다.",
-      "price": {
-        "latest_close": 21.64,
-        "latest_date": "2026-11-06",
-        "first_close": 29.11,
-        "first_price_date": "2025-09-02",
-        "return_pct": -25.66,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1294,36 +1438,6 @@
         "first_close": 15.22,
         "first_price_date": "2025-12-22",
         "return_pct": 155.45,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:57:47+00:00"
-      }
-    },
-    {
-      "ticker": "AMD",
-      "stance": "neutral",
-      "summary_en": "Cited AMD's historical move from $3 to $400 as an example of assets recovering after leverage wipeouts.",
-      "mentions": 126,
-      "last_seen": "Nov 06, 2026, 07:24 AM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMD",
-      "post_url": "https://x.com/aleabitoreddit/status/2118605467459199016",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "레버리지 소탕 후 자산 회수의 예로 AMD의 과거 이동이 3달러에서 400달러로 증가했다고 언급했습니다.",
-      "price": {
-        "latest_close": 449.04,
-        "latest_date": "2026-11-06",
-        "first_close": 160.88,
-        "first_price_date": "2025-09-24",
-        "return_pct": 179.11,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -8213,36 +8327,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-08T05:59:07+00:00"
-      }
-    },
-    {
-      "ticker": "QCOM",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 17,
-      "first_mention": "Oct 10, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/QCOM",
-      "post_url": "",
-      "company_name": "QUALCOMM Incorporated",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 165.41,
-        "latest_date": "2026-11-06",
-        "first_close": 153.59,
-        "first_price_date": "2025-10-10",
-        "return_pct": 7.7,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T05:59:08+00:00"
       }
     },
     {
@@ -20677,36 +20761,6 @@
       }
     },
     {
-      "ticker": "ARM",
-      "stance": "unclear",
-      "summary_en": "",
-      "mentions": 45,
-      "first_mention": "Sep 29, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/ARM",
-      "post_url": "",
-      "company_name": "Arm Holdings plc",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 174.62,
-        "latest_date": "2026-11-06",
-        "first_close": 139.8,
-        "first_price_date": "2025-09-29",
-        "return_pct": 24.91,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T06:01:37+00:00"
-      }
-    },
-    {
       "ticker": "ARKK",
       "stance": "conditional_call",
       "summary_en": "",
@@ -20880,36 +20934,6 @@
         "first_close": 111.25,
         "first_price_date": "2026-03-24",
         "return_pct": 4.94,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-08T06:01:39+00:00"
-      }
-    },
-    {
-      "ticker": "APLD",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 28,
-      "first_mention": "Oct 28, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/APLD",
-      "post_url": "",
-      "company_name": "Applied Digital Corporation",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 15.55,
-        "latest_date": "2026-11-06",
-        "first_close": 34.33,
-        "first_price_date": "2025-10-28",
-        "return_pct": -54.7,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23135,9 +23159,9 @@
     {
       "date": "2026-11-08",
       "stocks": 773,
-      "bullish": 197,
+      "bullish": 199,
       "bearish": 61,
-      "neutral": 321,
+      "neutral": 319,
       "unclear": 69,
       "watchlist": 94
     }
