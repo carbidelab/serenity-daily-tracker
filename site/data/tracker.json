@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-09T12:06:22+00:00",
+  "last_successful_sync_utc": "2026-11-09T23:49:20+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -262,12 +262,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
       "post_url": "https://x.com/aleabitoreddit/status/2119689635869954503",
       "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -310,6 +310,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "저자는 시장이 명확한 NVDA 투자 요청 없이 젠슨 황 (Jensen Huang) 의 나이에 대한 활력에 깊은 인상을 받을 수 있다고 비꼬았습니다.",
       "price": {
         "latest_close": 186.64,
         "latest_date": "2026-11-06",
@@ -320,8 +321,129 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-09T06:19:00+00:00"
+      }
+    },
+    {
+      "ticker": "NBIS",
+      "stance": "neutral",
+      "summary_en": "Author was surprised that NBIS rallied today as part of the AI trade, referencing a 'honeypot catalyst' in quotes.",
+      "mentions": 715,
+      "last_seen": "Nov 09, 2026, 02:59 PM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2119807048204595582",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T23:49:20+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 129.49,
+        "latest_date": "2026-11-06",
+        "first_close": 52.37,
+        "first_price_date": "2025-07-21",
+        "return_pct": 147.26,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-09T06:19:07+00:00"
       },
-      "summary_ko": "저자는 시장이 명확한 NVDA 투자 요청 없이 젠슨 황 (Jensen Huang) 의 나이에 대한 활력에 깊은 인상을 받을 수 있다고 비꼬았습니다."
+      "summary_ko": "저자는 NBIS가 오늘 시세에서 '허니팟 촉매제' 를 언급하며 AI 거래의 일환으로 결집한 것에 놀랐다."
+    },
+    {
+      "ticker": "LITE",
+      "stance": "neutral",
+      "summary_en": "Author was surprised that LITE rallied today as part of the AI trade, referencing a 'honeypot catalyst' in quotes.",
+      "mentions": 436,
+      "last_seen": "Nov 09, 2026, 02:59 PM",
+      "first_mention": "Oct 25, 2025, 06:17 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
+      "post_url": "https://x.com/aleabitoreddit/status/2119807048204595582",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-10-29T05:54:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T23:49:20+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 538.59,
+        "latest_date": "2026-11-06",
+        "first_close": 193.8,
+        "first_price_date": "2025-10-27",
+        "return_pct": 177.91,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-09T06:19:04+00:00"
+      },
+      "summary_ko": "저자는 Lite가 오늘 AI 거래의 일환으로 '허니팟 촉매제' 를 인용하여 집결한 것에 놀랐습니다."
     },
     {
       "ticker": "POET",
@@ -494,15 +616,15 @@
       "stance_history": [],
       "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 보이저 ($ VOYG) 가 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 수행하기 위해 경쟁하고 있다고 강조합니다.",
       "price": {
-        "latest_close": 23.98,
-        "latest_date": "2026-11-06",
-        "first_close": null,
-        "first_price_date": null,
-        "return_pct": null,
+        "latest_close": 27.9,
+        "latest_date": "2026-11-09",
+        "first_close": 27.9,
+        "first_price_date": "2026-11-09",
+        "return_pct": 0.0,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-09T12:06:28+00:00"
+        "fetched_utc": "2026-11-09T23:49:25+00:00"
       }
     },
     {
@@ -791,77 +913,6 @@
       }
     },
     {
-      "ticker": "LITE",
-      "stance": "bullish",
-      "summary_en": "LITE's CEO said there is a massive disconnect between strong demand books and the market's massive selloff.",
-      "mentions": 435,
-      "last_seen": "Nov 08, 2026, 03:52 PM",
-      "first_mention": "Oct 25, 2025, 06:17 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
-      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-10-29T05:54:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "Lite의 CEO는 강력한 수요 장부와 시장의 대규모 매도 사이에 엄청난 단절이 있다고 말했습니다.",
-      "price": {
-        "latest_close": 538.59,
-        "latest_date": "2026-11-06",
-        "first_close": 193.8,
-        "first_price_date": "2025-10-27",
-        "return_pct": 177.91,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-09T06:19:04+00:00"
-      }
-    },
-    {
       "ticker": "IREN",
       "stance": "unclear",
       "summary_en": "IREN was only referenced as the source of a comment that LITE's CEO said they would second, with no separate IREN-specific analysis.",
@@ -1110,47 +1161,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-09T06:19:06+00:00"
-      }
-    },
-    {
-      "ticker": "NBIS",
-      "stance": "bullish",
-      "summary_en": "Author gives a contrarian bullish take on NBIS/neoclouds after the valuation crash, citing Rosenblatt's view of little risk in NBIS's primary buildout across Missouri, Pennsylvania, and South Carolina.",
-      "mentions": 714,
-      "last_seen": "Nov 07, 2026, 02:40 PM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "저자는 미주리, 펜실베이니아 및 사우스 캐롤라이나 전역의 NBIS 주요 구축에서 거의 위험하지 않은 Rosenblatt의 견해를 인용하여 평가 충돌 후 NBIS/neoclouds에 대해 반대 의견을 제시합니다.",
-      "price": {
-        "latest_close": 129.49,
-        "latest_date": "2026-11-06",
-        "first_close": 52.37,
-        "first_price_date": "2025-07-21",
-        "return_pct": 147.26,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-09T06:19:07+00:00"
       }
     },
     {
@@ -23178,9 +23188,9 @@
     {
       "date": "2026-11-09",
       "stocks": 773,
-      "bullish": 199,
+      "bullish": 197,
       "bearish": 61,
-      "neutral": 318,
+      "neutral": 320,
       "unclear": 70,
       "watchlist": 94
     }
