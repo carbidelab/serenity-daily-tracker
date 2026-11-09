@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-09T06:18:52+00:00",
+  "last_successful_sync_utc": "2026-11-09T12:06:22+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -254,19 +254,19 @@
     },
     {
       "ticker": "NVDA",
-      "stance": "bullish",
-      "summary_en": "The author voices full support for NVDA and Jensen Huang, framing him as a legendary but human figure facing personal scrutiny like other famous leaders.",
-      "mentions": 423,
-      "last_seen": "Nov 09, 2026, 03:28 AM",
+      "stance": "unclear",
+      "summary_en": "The author sarcastically suggests the market may be impressed by Jensen Huang’s vitality at his age, without a clear NVDA investment call.",
+      "mentions": 424,
+      "last_seen": "Nov 09, 2026, 07:12 AM",
       "first_mention": "Aug 25, 2025, 08:41 PM",
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2119633154629881997",
+      "post_url": "https://x.com/aleabitoreddit/status/2119689635869954503",
       "company_name": "엔비디아 (NVIDIA)",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "neutral",
+      "previous_stance": "bullish",
       "mentions_delta": 1,
       "stance_history": [
         {
@@ -303,6 +303,11 @@
           "observed_at_utc": "2026-11-09T06:18:52+00:00",
           "from": "neutral",
           "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T12:06:22+00:00",
+          "from": "bullish",
+          "to": "unclear"
         }
       ],
       "price": {
@@ -316,7 +321,7 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-09T06:19:00+00:00"
       },
-      "summary_ko": "저자는 NVDA와 젠슨 황 (Jensen Huang) 에 대한 전폭적인 지지를 표명하며, 그를 다른 유명한 지도자들처럼 개인적 면밀한 조사에 직면한 전설적이지만 인간적인 인물로 규정합니다."
+      "summary_ko": "저자는 시장이 명확한 NVDA 투자 요청 없이 젠슨 황 (Jensen Huang) 의 나이에 대한 활력에 깊은 인상을 받을 수 있다고 비꼬았습니다."
     },
     {
       "ticker": "POET",
@@ -497,7 +502,7 @@
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-09T06:19:01+00:00"
+        "fetched_utc": "2026-11-09T12:06:28+00:00"
       }
     },
     {
@@ -23173,10 +23178,10 @@
     {
       "date": "2026-11-09",
       "stocks": 773,
-      "bullish": 200,
+      "bullish": 199,
       "bearish": 61,
       "neutral": 318,
-      "unclear": 69,
+      "unclear": 70,
       "watchlist": 94
     }
   ]
