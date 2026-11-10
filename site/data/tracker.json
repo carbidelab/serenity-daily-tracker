@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-10T11:58:27+00:00",
+  "last_successful_sync_utc": "2026-11-10T23:46:34+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -204,25 +204,6 @@
       }
     },
     {
-      "ticker": "ANT",
-      "stance": "bullish",
-      "summary_en": "Author thanks $ANT for the positive $3.4B FCF for H1 2026.",
-      "mentions": 1,
-      "last_seen": "Oct 26, 2026, 04:14 PM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2114752489476309203",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "작성자는 2026년 상반기에 $ 3.4B FCF를 기록한 $ ANT에게 감사를 표합니다."
-    },
-    {
       "ticker": "AVGO",
       "stance": "unclear",
       "summary_en": "Author criticizes the idea of timelines being dominated by amplified narratives of AVGO failing, calling such dynamics unhealthy; no direct investment view.",
@@ -253,6 +234,122 @@
       }
     },
     {
+      "ticker": "SPCX",
+      "stance": "unclear",
+      "summary_en": "Mentions $SPCX only as the competitor to the company (OpenAI + Stargate) being financed; gives no direct view on SPCX.",
+      "mentions": 43,
+      "last_seen": "Nov 10, 2026, 10:50 AM",
+      "first_mention": "Dec 09, 2025, 10:48 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
+      "post_url": "https://x.com/aleabitoreddit/status/2120106741090370030",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 142.07,
+        "latest_date": "2026-11-09",
+        "first_close": 160.95,
+        "first_price_date": "2026-06-12",
+        "return_pct": -11.73,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-10T06:02:29+00:00"
+      },
+      "summary_ko": "자금 조달 중인 회사의 경쟁사 (OpenAI + Stargate) 로서만 $ SPCX를 언급하며, SPCX에 대한 직접적인 견해는 제시하지 않습니다."
+    },
+    {
+      "ticker": "SFTBY",
+      "stance": "neutral",
+      "summary_en": "Author relays SoftBank CFO's denial of turbine-order default allegations and flags the claims as damaging while questioning whether they are false.",
+      "mentions": 4,
+      "last_seen": "Nov 10, 2026, 10:50 AM",
+      "first_mention": "Jan 14, 2026, 03:46 PM",
+      "detail_url": "https://serenitystock.com/stocks/PNK/SFTBY",
+      "post_url": "https://x.com/aleabitoreddit/status/2120106741090370030",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 11.74,
+        "latest_date": "2026-11-09",
+        "first_close": 13.23,
+        "first_price_date": "2026-01-14",
+        "return_pct": -11.26,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-10T06:03:30+00:00"
+      },
+      "summary_ko": "저자는 SoftBank CFO의 터빈 주문 거부 기본 주장을 중계하고 허위인지 의문을 제기하면서 청구를 손상으로 표시합니다."
+    },
+    {
+      "ticker": "GE",
+      "stance": "neutral",
+      "summary_en": "Author cites GE CEO Scott Strazik saying there have been no procurement cancellations or counterparty financing difficulties.",
+      "mentions": 1,
+      "last_seen": "Nov 10, 2026, 10:50 AM",
+      "first_mention": "Nov 10, 2026, 10:50 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/GE",
+      "post_url": "https://x.com/aleabitoreddit/status/2120106741090370030",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "price": {
+        "latest_close": 337.91,
+        "latest_date": "2026-11-10",
+        "first_close": 337.91,
+        "first_price_date": "2026-11-10",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-10T23:46:40+00:00"
+      },
+      "summary_ko": "저자는 GE CEO 스콧 스트라직 (Scott Strazik) 을 인용하여 조달 취소나 상대방 자금 조달에 어려움이 없었다고 말합니다."
+    },
+    {
       "ticker": "SIVE.ST",
       "stance": "bullish",
       "summary_en": "The author views SIVE's capacity expansion and undisclosed economic implications as potentially enormous relative to its market cap, but flags qualification uncertainty and poor management communication.",
@@ -263,11 +360,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2120074819878449605",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T11:56:43+00:00",
@@ -280,6 +377,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 SIVE의 용량 확장과 미공개 경제 함의를 시가 총액에 비해 잠재적으로 엄청난 것으로 보고 있지만, 자격 불확실성과 부실한 경영 커뮤니케이션에 주목하고 있습니다.",
       "price": {
         "latest_close": 16.2,
         "latest_date": "2026-11-06",
@@ -290,8 +388,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-10T06:02:35+00:00"
-      },
-      "summary_ko": "저자는 SIVE의 용량 확장과 미공개 경제 함의를 시가 총액에 비해 잠재적으로 엄청난 것으로 보고 있지만, 자격 불확실성과 부실한 경영 커뮤니케이션에 주목하고 있습니다."
+      }
     },
     {
       "ticker": "MRVL",
@@ -304,11 +401,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2120074819878449605",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-30T11:52:23+00:00",
@@ -331,6 +428,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "MRVL은 Lite의 밸류에이션 오버행에 대한 인수로만 언급되며, 저자는 MRVL에 대한 직접적인 견해를 제시하지 않습니다.",
       "price": {
         "latest_close": 154.6,
         "latest_date": "2026-11-09",
@@ -341,8 +439,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-10T06:02:37+00:00"
-      },
-      "summary_ko": "MRVL은 Lite의 밸류에이션 오버행에 대한 인수로만 언급되며, 저자는 MRVL에 대한 직접적인 견해를 제시하지 않습니다."
+      }
     },
     {
       "ticker": "LITE",
@@ -354,12 +451,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
       "post_url": "https://x.com/aleabitoreddit/status/2120074819878449605",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-29T05:54:36+00:00",
@@ -412,6 +509,7 @@
           "to": "bearish"
         }
       ],
+      "summary_ko": "저자는 작업이 매우 긍정적이라고 설명되지만 MRVL 인수로 인한 평가 오버행으로 인해 Lite에서 부정적입니다.",
       "price": {
         "latest_close": 596.16,
         "latest_date": "2026-11-09",
@@ -422,8 +520,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-10T06:02:27+00:00"
-      },
-      "summary_ko": "저자는 작업이 매우 긍정적이라고 설명되지만 MRVL 인수로 인한 평가 오버행으로 인해 Lite에서 부정적입니다."
+      }
     },
     {
       "ticker": "COHR",
@@ -436,11 +533,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2120074819878449605",
       "company_name": "코히런트 (Coherent)",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -468,6 +565,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 COHR을 불확실성을 싫어하는 투자자를 위한 최고의 위험 조정 레이저 플레이어로 보고 있으며, 새로운 $ 20B LTA가 매우 상당하다고 언급했습니다.",
       "price": {
         "latest_close": 225.19,
         "latest_date": "2026-11-09",
@@ -478,8 +576,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-10T06:02:28+00:00"
-      },
-      "summary_ko": "저자는 COHR을 불확실성을 싫어하는 투자자를 위한 최고의 위험 조정 레이저 플레이어로 보고 있으며, 새로운 $ 20B LTA가 매우 상당하다고 언급했습니다."
+      }
     },
     {
       "ticker": "AAOI",
@@ -491,12 +588,12 @@
       "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
       "post_url": "https://x.com/aleabitoreddit/status/2120074819878449605",
       "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -519,6 +616,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "저자는 AAOI에 대한 극단적 인 수요 가시성과 새로운 $ 5B- $ 7B LTA가 발표 될 경우 복구 촉매제를보고 신뢰할 수있는 실행 불확실성을 표시합니다.",
       "price": {
         "latest_close": 52.1,
         "latest_date": "2026-11-09",
@@ -529,25 +627,24 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-10T06:02:35+00:00"
-      },
-      "summary_ko": "저자는 AAOI에 대한 극단적 인 수요 가시성과 새로운 $ 5B- $ 7B LTA가 발표 될 경우 복구 촉매제를보고 신뢰할 수있는 실행 불확실성을 표시합니다."
+      }
     },
     {
       "ticker": "NVDA",
-      "stance": "unclear",
-      "summary_en": "The author sarcastically suggests the market may be impressed by Jensen Huang’s vitality at his age, without a clear NVDA investment call.",
-      "mentions": 424,
-      "last_seen": "Nov 09, 2026, 07:12 AM",
+      "stance": "neutral",
+      "summary_en": "Author notes NVDA fell 25% and lost nearly $2T in valuation despite a projected 70% supply-constrained growth for FY2028.",
+      "mentions": 425,
+      "last_seen": "Nov 10, 2026, 04:53 PM",
       "first_mention": "Aug 25, 2025, 08:41 PM",
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2119689635869954503",
+      "post_url": "https://x.com/aleabitoreddit/status/2120198265346081174",
       "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -588,9 +685,13 @@
           "observed_at_utc": "2026-11-09T12:06:22+00:00",
           "from": "bullish",
           "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "unclear",
+          "to": "neutral"
         }
       ],
-      "summary_ko": "저자는 시장이 명확한 NVDA 투자 요청 없이 젠슨 황 (Jensen Huang) 의 나이에 대한 활력에 깊은 인상을 받을 수 있다고 비꼬았습니다.",
       "price": {
         "latest_close": 178.67,
         "latest_date": "2026-11-09",
@@ -601,7 +702,33 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-10T06:02:26+00:00"
-      }
+      },
+      "summary_ko": "작성자는 NVDA가 25% 하락했으며 FY2028의 70% 공급 제한 성장 예상에도 불구하고 밸류에이션에서 거의 $ 2T를 잃었다고 말합니다."
+    },
+    {
+      "ticker": "ANT",
+      "stance": "bearish",
+      "summary_en": "Author suggests it is a bad time for ANT to IPO at a $1.4T valuation and questions whether investors are still interested at that price.",
+      "mentions": 2,
+      "last_seen": "Nov 10, 2026, 04:53 PM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2120198265346081174",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        }
+      ],
+      "summary_ko": "저자는 개미가 IPO를 하기에는 $ 1.4T 밸류에이션이 좋지 않은 시기이며 투자자들이 여전히 그 가격에 관심이 있는지 의문을 제기합니다."
     },
     {
       "ticker": "NBIS",
@@ -773,57 +900,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-10T06:02:28+00:00"
-      }
-    },
-    {
-      "ticker": "SPCX",
-      "stance": "neutral",
-      "summary_en": "Author highlights SpaceX (listed as $SPCX) as one of NASA's selected companies to compete for future lunar delivery missions under a new $10B contract.",
-      "mentions": 42,
-      "last_seen": "Nov 08, 2026, 04:35 AM",
-      "first_mention": "Dec 09, 2025, 10:48 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
-      "post_url": "https://x.com/aleabitoreddit/status/2119287752730738722",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 NASA가 선정한 회사 중 하나인 SpaceX ($ SPCX) 를 강조하여 새로운 $ 10B 계약에 따라 향후 달 배달 임무를 위해 경쟁합니다.",
-      "price": {
-        "latest_close": 142.07,
-        "latest_date": "2026-11-09",
-        "first_close": 160.95,
-        "first_price_date": "2026-06-12",
-        "return_pct": -11.73,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-10T06:02:29+00:00"
       }
     },
     {
@@ -7213,36 +7289,6 @@
         "first_close": 14.69,
         "first_price_date": "2025-07-03",
         "return_pct": -9.05,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-10T06:03:30+00:00"
-      }
-    },
-    {
-      "ticker": "SFTBY",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 3,
-      "first_mention": "Jan 14, 2026",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/PNK/SFTBY",
-      "post_url": "",
-      "company_name": "SoftBank Group Corp.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 11.74,
-        "latest_date": "2026-11-09",
-        "first_close": 13.23,
-        "first_price_date": "2026-01-14",
-        "return_pct": -11.26,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23206,10 +23252,10 @@
     },
     {
       "date": "2026-11-10",
-      "stocks": 773,
-      "bullish": 196,
-      "bearish": 62,
-      "neutral": 319,
+      "stocks": 774,
+      "bullish": 195,
+      "bearish": 63,
+      "neutral": 320,
       "unclear": 71,
       "watchlist": 94
     }
