@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-11T12:04:38+00:00",
+  "last_successful_sync_utc": "2026-11-11T23:56:52+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -204,50 +204,112 @@
       }
     },
     {
-      "ticker": "AVGO",
-      "stance": "unclear",
-      "summary_en": "Author criticizes the idea of timelines being dominated by amplified narratives of AVGO failing, calling such dynamics unhealthy; no direct investment view.",
-      "mentions": 114,
-      "last_seen": "Oct 25, 2026, 10:00 PM",
-      "first_mention": "Sep 26, 2025, 03:49 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AVGO",
-      "post_url": "https://x.com/aleabitoreddit/status/2114477224208535600",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "저자는 AVGO가 실패했다는 증폭된 이야기가 타임라인을 지배한다는 생각을 비판하며, 이러한 역학이 건강에 해롭다고 주장합니다. 직접적인 투자 관점은 없습니다.",
-      "price": {
-        "latest_close": 331.98,
-        "latest_date": "2026-11-10",
-        "first_close": 334.53,
-        "first_price_date": "2025-09-26",
-        "return_pct": -0.76,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-11T06:10:50+00:00"
-      }
-    },
-    {
-      "ticker": "NBIS",
+      "ticker": "TSM",
       "stance": "bullish",
-      "summary_en": "Author cites CoreWeave's earnings as a positive read-through for NBIS and argues other Neoclouds are in a better spot amid extreme AI infrastructure demand.",
-      "mentions": 716,
-      "last_seen": "Nov 11, 2026, 05:42 AM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2120391635737649423",
+      "summary_en": "Author highlights TSMC's comments about insatiable AI demand, no slowdown, and demand exceeding supply, suggesting AI demand is not collapsing.",
+      "mentions": 192,
+      "last_seen": "Nov 11, 2026, 12:08 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/TSM",
+      "post_url": "https://x.com/aleabitoreddit/status/2120488757334044945",
       "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
       "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-06T23:47:05+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 396.48,
+        "latest_date": "2026-11-10",
+        "first_close": 280.71,
+        "first_price_date": "2025-09-24",
+        "return_pct": 41.24,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-11T06:11:02+00:00"
+      },
+      "summary_ko": "작성자는 AI 수요가 꺾이지 않고 있음을 시사하며, TSMC가 AI 수요가 포화되지 않고, 둔화되지 않으며, 수요가 공급을 초과한다고 언급한 내용을 강조합니다."
+    },
+    {
+      "ticker": "CRWV",
+      "stance": "neutral",
+      "summary_en": "Author relays CRWV's statement that demand for compute is 10x greater than supply.",
+      "mentions": 177,
+      "last_seen": "Nov 11, 2026, 12:08 PM",
+      "first_mention": "Aug 23, 2025, 11:08 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
+      "post_url": "https://x.com/aleabitoreddit/status/2120488757334044945",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 48.73,
+        "latest_date": "2026-11-10",
+        "first_close": 92.38,
+        "first_price_date": "2025-08-25",
+        "return_pct": -47.25,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-11T06:11:03+00:00"
+      },
+      "summary_ko": "작가는 컴퓨팅 수요가 공급보다 10배 더 크다는 CRWV의 주장을 전달합니다."
+    },
+    {
+      "ticker": "NBIS",
+      "stance": "bullish",
+      "summary_en": "Author is bullish on Nebius ($NBIS), arguing its stake in ClickHouse and other subsidiaries add billions in value beyond its core neocloud business.",
+      "mentions": 717,
+      "last_seen": "Nov 11, 2026, 05:52 PM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2120575364238094682",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
       "mentions_delta": 1,
       "stance_history": [
         {
@@ -282,53 +344,139 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-11T06:10:55+00:00"
       },
-      "summary_ko": "저자는 CoreWeave의 수입을 NBIS에 대한 긍정적 인 읽기 스루로 인용하고 다른 Neoclouds가 극심한 AI 인프라 수요 속에서 더 나은 위치에 있다고 주장합니다."
+      "summary_ko": "작성자는 Nebius($NBIS)에 대해 낙관적이며, ClickHouse 및 기타 자회사 지분이 핵심 네오클라우드 비즈니스를 넘어 수십억 달러의 가치를 더한다고 주장합니다."
     },
     {
-      "ticker": "CRWV",
-      "stance": "neutral",
-      "summary_en": "Author shares CoreWeave earnings read-through on strong demand, price hikes, and better financing, but flags interest-rate issues and argues other Neoclouds are in a better spot.",
-      "mentions": 176,
-      "last_seen": "Nov 11, 2026, 05:42 AM",
-      "first_mention": "Aug 23, 2025, 11:08 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
-      "post_url": "https://x.com/aleabitoreddit/status/2120391635737649423",
+      "ticker": "ANT",
+      "stance": "bullish",
+      "summary_en": "Author is hyped on $ANT with 'Let's fking go,' though they still call Anthropic overvalued while being excited by the IPO teaser.",
+      "mentions": 4,
+      "last_seen": "Nov 11, 2026, 03:05 PM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2120533451279642808",
       "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
       "previous_stance": "bearish",
-      "mentions_delta": 1,
+      "mentions_delta": 2,
       "stance_history": [
         {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "bullish",
           "to": "bearish"
         },
         {
-          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
           "from": "bearish",
+          "to": "bullish"
+        }
+      ],
+      "summary_ko": "작성자는 'Let's fking go'라는 문구와 함께 $ANT에 대해 열광하고 있지만, 여전히 Anthropic을 고평가되어 있다고 말하면서도 IPO 티저에 대해 흥분하고 있습니다."
+    },
+    {
+      "ticker": "SMTC",
+      "stance": "neutral",
+      "summary_en": "Author cites SMTC as an example, noting that 74% of its revenue was generated through distributors.",
+      "mentions": 17,
+      "last_seen": "Nov 11, 2026, 02:25 PM",
+      "first_mention": "Jan 22, 2026, 04:02 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SMTC",
+      "post_url": "https://x.com/aleabitoreddit/status/2120523420639408175",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
           "to": "neutral"
         }
       ],
       "price": {
-        "latest_close": 48.73,
+        "latest_close": 113.49,
         "latest_date": "2026-11-10",
-        "first_close": 92.38,
-        "first_price_date": "2025-08-25",
-        "return_pct": -47.25,
+        "first_close": 80.12,
+        "first_price_date": "2026-01-22",
+        "return_pct": 41.65,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-11T06:11:03+00:00"
+        "fetched_utc": "2026-11-11T06:11:10+00:00"
       },
-      "summary_ko": "저자는 강력한 수요, 가격 인상 및 더 나은 자금 조달에 대한 CoreWeave 수입을 공유하지만, 이자율 문제를 표시하고 다른 Neoclouds가 더 나은 위치에 있다고 주장합니다."
+      "summary_ko": "저자는 SMTC를 예로 들며, SMTC 매출의 74%가 유통업체를 통해 창출되었다고 언급합니다."
+    },
+    {
+      "ticker": "AVGO",
+      "stance": "neutral",
+      "summary_en": "Author uses AVGO to show WT's growing share of Broadcom revenue, from 13% in 2020 to possibly ~46% now.",
+      "mentions": 115,
+      "last_seen": "Nov 11, 2026, 02:25 PM",
+      "first_mention": "Sep 26, 2025, 03:49 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AVGO",
+      "post_url": "https://x.com/aleabitoreddit/status/2120523420639408175",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 331.98,
+        "latest_date": "2026-11-10",
+        "first_close": 334.53,
+        "first_price_date": "2025-09-26",
+        "return_pct": -0.76,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-11T06:10:50+00:00"
+      },
+      "summary_ko": "작성자는 AVGO를 사용하여 WT가 Broadcom 매출에서 차지하는 비중이 2020년 13%에서 현재 약 46%로 증가했음을 보여줍니다."
+    },
+    {
+      "ticker": "AMBA",
+      "stance": "neutral",
+      "summary_en": "Author cites AMBA as another example, noting that roughly 60-70% of its 2026 revenue went through WT.",
+      "mentions": 7,
+      "last_seen": "Nov 11, 2026, 02:25 PM",
+      "first_mention": "Jan 15, 2026, 06:54 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMBA",
+      "post_url": "https://x.com/aleabitoreddit/status/2120523420639408175",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 60.36,
+        "latest_date": "2026-11-10",
+        "first_close": 64.6,
+        "first_price_date": "2026-01-15",
+        "return_pct": -6.56,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-11T06:15:14+00:00"
+      },
+      "summary_ko": "저자는 AMBA를 또 다른 예로 들며, 2026년 매출의 약 60~70%가 WT를 통해 발생했다고 언급합니다."
     },
     {
       "ticker": "SPCX",
@@ -801,31 +949,6 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-11T06:10:54+00:00"
       }
-    },
-    {
-      "ticker": "ANT",
-      "stance": "bearish",
-      "summary_en": "Author suggests it is a bad time for ANT to IPO at a $1.4T valuation and questions whether investors are still interested at that price.",
-      "mentions": 2,
-      "last_seen": "Nov 10, 2026, 04:53 PM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2120198265346081174",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "저자는 개미가 IPO를 하기에는 $ 1.4T 밸류에이션이 좋지 않은 시기이며 투자자들이 여전히 그 가격에 관심이 있는지 의문을 제기합니다."
     },
     {
       "ticker": "POET",
@@ -1359,47 +1482,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-11T06:11:01+00:00"
-      }
-    },
-    {
-      "ticker": "TSM",
-      "stance": "neutral",
-      "summary_en": "Author reports a TSM spokesperson denied exploring 3D DRAM and says conflicting headlines create confusion and volatility.",
-      "mentions": 191,
-      "last_seen": "Nov 07, 2026, 04:01 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/TSM",
-      "post_url": "https://x.com/aleabitoreddit/status/2119097842363211968",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-06T23:47:05+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 TSM 대변인이 3D DRAM 탐색을 거부하고 상충되는 헤드라인이 혼란과 변동성을 야기한다고 보고합니다.",
-      "price": {
-        "latest_close": 396.48,
-        "latest_date": "2026-11-10",
-        "first_close": 280.71,
-        "first_price_date": "2025-09-24",
-        "return_pct": 41.24,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-11T06:11:02+00:00"
       }
     },
     {
@@ -2110,42 +2192,6 @@
         "first_close": 321.44,
         "first_price_date": "2025-08-25",
         "return_pct": -51.26,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-11T06:11:10+00:00"
-      }
-    },
-    {
-      "ticker": "SMTC",
-      "stance": "neutral",
-      "summary_en": "Author mentions Semtech as another player explicitly doing M&A to expand laser capacity.",
-      "mentions": 16,
-      "last_seen": "Nov 03, 2026, 09:31 AM",
-      "first_mention": "Jan 22, 2026, 04:02 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SMTC",
-      "post_url": "https://x.com/aleabitoreddit/status/2117550199895896490",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 Semtech가 레이저 용량을 확장하기 위해 M&A를 명시적으로 수행하는 또 다른 업체라고 언급합니다.",
-      "price": {
-        "latest_close": 113.49,
-        "latest_date": "2026-11-10",
-        "first_close": 80.12,
-        "first_price_date": "2026-01-22",
-        "return_pct": 41.65,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -21485,36 +21531,6 @@
       }
     },
     {
-      "ticker": "AMBA",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 6,
-      "first_mention": "Jan 15, 2026",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMBA",
-      "post_url": "",
-      "company_name": "Ambarella, Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 60.36,
-        "latest_date": "2026-11-10",
-        "first_close": 64.6,
-        "first_price_date": "2026-01-15",
-        "return_pct": -6.56,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-11T06:15:14+00:00"
-      }
-    },
-    {
       "ticker": "AMAT",
       "stance": "neutral",
       "summary_en": "",
@@ -23272,10 +23288,10 @@
     {
       "date": "2026-11-11",
       "stocks": 774,
-      "bullish": 196,
-      "bearish": 62,
+      "bullish": 198,
+      "bearish": 61,
       "neutral": 320,
-      "unclear": 71,
+      "unclear": 70,
       "watchlist": 94
     }
   ]
