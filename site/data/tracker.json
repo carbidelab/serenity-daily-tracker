@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-11T06:10:44+00:00",
+  "last_successful_sync_utc": "2026-11-11T12:04:38+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -232,6 +232,103 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-11T06:10:50+00:00"
       }
+    },
+    {
+      "ticker": "NBIS",
+      "stance": "bullish",
+      "summary_en": "Author cites CoreWeave's earnings as a positive read-through for NBIS and argues other Neoclouds are in a better spot amid extreme AI infrastructure demand.",
+      "mentions": 716,
+      "last_seen": "Nov 11, 2026, 05:42 AM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2120391635737649423",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T23:49:20+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 134.0,
+        "latest_date": "2026-11-10",
+        "first_close": 52.37,
+        "first_price_date": "2025-07-21",
+        "return_pct": 155.87,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-11T06:10:55+00:00"
+      },
+      "summary_ko": "저자는 CoreWeave의 수입을 NBIS에 대한 긍정적 인 읽기 스루로 인용하고 다른 Neoclouds가 극심한 AI 인프라 수요 속에서 더 나은 위치에 있다고 주장합니다."
+    },
+    {
+      "ticker": "CRWV",
+      "stance": "neutral",
+      "summary_en": "Author shares CoreWeave earnings read-through on strong demand, price hikes, and better financing, but flags interest-rate issues and argues other Neoclouds are in a better spot.",
+      "mentions": 176,
+      "last_seen": "Nov 11, 2026, 05:42 AM",
+      "first_mention": "Aug 23, 2025, 11:08 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
+      "post_url": "https://x.com/aleabitoreddit/status/2120391635737649423",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 48.73,
+        "latest_date": "2026-11-10",
+        "first_close": 92.38,
+        "first_price_date": "2025-08-25",
+        "return_pct": -47.25,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-11T06:11:03+00:00"
+      },
+      "summary_ko": "저자는 강력한 수요, 가격 인상 및 더 나은 자금 조달에 대한 CoreWeave 수입을 공유하지만, 이자율 문제를 표시하고 다른 Neoclouds가 더 나은 위치에 있다고 주장합니다."
     },
     {
       "ticker": "SPCX",
@@ -729,52 +826,6 @@
         }
       ],
       "summary_ko": "저자는 개미가 IPO를 하기에는 $ 1.4T 밸류에이션이 좋지 않은 시기이며 투자자들이 여전히 그 가격에 관심이 있는지 의문을 제기합니다."
-    },
-    {
-      "ticker": "NBIS",
-      "stance": "neutral",
-      "summary_en": "Author was surprised that NBIS rallied today as part of the AI trade, referencing a 'honeypot catalyst' in quotes.",
-      "mentions": 715,
-      "last_seen": "Nov 09, 2026, 02:59 PM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2119807048204595582",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T23:49:20+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 NBIS가 오늘 시세에서 '허니팟 촉매제' 를 언급하며 AI 거래의 일환으로 결집한 것에 놀랐다.",
-      "price": {
-        "latest_close": 134.0,
-        "latest_date": "2026-11-10",
-        "first_close": 52.37,
-        "first_price_date": "2025-07-21",
-        "return_pct": 155.87,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-11T06:10:55+00:00"
-      }
     },
     {
       "ticker": "POET",
@@ -1458,47 +1509,6 @@
         "first_close": 179.53,
         "first_price_date": "2025-07-03",
         "return_pct": 60.07,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-11T06:11:03+00:00"
-      }
-    },
-    {
-      "ticker": "CRWV",
-      "stance": "bearish",
-      "summary_en": "Author points to CRWV's high debt interest as an example of poor procurement financing unless refinanced.",
-      "mentions": 175,
-      "last_seen": "Nov 07, 2026, 02:40 PM",
-      "first_mention": "Aug 23, 2025, 11:08 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
-      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "저자는 CRWV의 높은 부채 이자를 재융자하지 않는 한 저조한 조달 자금 조달의 예로 지적합니다.",
-      "price": {
-        "latest_close": 48.73,
-        "latest_date": "2026-11-10",
-        "first_close": 92.38,
-        "first_price_date": "2025-08-25",
-        "return_pct": -47.25,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23262,8 +23272,8 @@
     {
       "date": "2026-11-11",
       "stocks": 774,
-      "bullish": 195,
-      "bearish": 63,
+      "bullish": 196,
+      "bearish": 62,
       "neutral": 320,
       "unclear": 71,
       "watchlist": 94
