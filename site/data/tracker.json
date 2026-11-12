@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-12T06:14:55+00:00",
+  "last_successful_sync_utc": "2026-11-12T12:07:42+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -204,6 +204,220 @@
       }
     },
     {
+      "ticker": "TSLA",
+      "stance": "neutral",
+      "summary_en": "Author uses TSLA as an analogy, saying removing Elon would cause the company's valuation and confidence to collapse.",
+      "mentions": 112,
+      "last_seen": "Nov 12, 2026, 08:38 AM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/TSLA",
+      "post_url": "https://x.com/aleabitoreddit/status/2120798356205093139",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 390.84,
+        "latest_date": "2026-11-11",
+        "first_close": 346.6,
+        "first_price_date": "2025-08-25",
+        "return_pct": 12.76,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T06:15:02+00:00"
+      },
+      "summary_ko": "작가는 TSLA를 비유로 들어 일론을 제거하면 회사의 가치 평가와 신뢰도가 하락할 것이라고 말합니다."
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "bullish",
+      "summary_en": "Author argues Jensen Huang is practically irreplaceable and credits his long-term foresight and ecosystem building as central to Nvidia's value.",
+      "mentions": 429,
+      "last_seen": "Nov 12, 2026, 08:38 AM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2120798356205093139",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 2,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-09T06:18:52+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T12:06:22+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T06:14:55+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-12T12:07:42+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 173.73,
+        "latest_date": "2026-11-11",
+        "first_close": 179.81,
+        "first_price_date": "2025-08-25",
+        "return_pct": -3.38,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T06:15:02+00:00"
+      },
+      "summary_ko": "저자는 젠슨 황이 사실상 대체 불가능한 인물이며, 그의 장기적인 선견지명과 생태계 구축이 엔비디아의 가치에 핵심적인 요소라고 평가합니다."
+    },
+    {
+      "ticker": "MRVL",
+      "stance": "bullish",
+      "summary_en": "Author cites investing in Marvell and MediaTek to compete with AVGO as part of turning the ASIC threat into an opportunity within Nvidia's NVLink ecosystem.",
+      "mentions": 198,
+      "last_seen": "Nov 12, 2026, 08:38 AM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MRVL",
+      "post_url": "https://x.com/aleabitoreddit/status/2120798356205093139",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-10-30T11:52:23+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-12T12:07:42+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 168.8,
+        "latest_date": "2026-11-11",
+        "first_close": 72.95,
+        "first_price_date": "2025-08-25",
+        "return_pct": 131.39,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T06:15:05+00:00"
+      },
+      "summary_ko": "저자는 Nvidia의 NVLink 생태계 내에서 ASIC 위협을 기회로 전환하는 과정의 일환으로 AVGO와 경쟁하기 위해 Marvell과 MediaTek에 투자하는 것을 언급합니다."
+    },
+    {
+      "ticker": "AVGO",
+      "stance": "neutral",
+      "summary_en": "Author frames Broadcom as the competitor that Marvell and MediaTek are being used to compete against in the ASIC/NVLink context.",
+      "mentions": 116,
+      "last_seen": "Nov 12, 2026, 08:38 AM",
+      "first_mention": "Sep 26, 2025, 03:49 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AVGO",
+      "post_url": "https://x.com/aleabitoreddit/status/2120798356205093139",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 345.22,
+        "latest_date": "2026-11-11",
+        "first_close": 334.53,
+        "first_price_date": "2025-09-26",
+        "return_pct": 3.2,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T06:15:03+00:00"
+      },
+      "summary_ko": "작가는 브로드컴을 ASIC/NVLink 분야에서 마벨과 미디어텍이 경쟁 상대로 삼고 있는 경쟁사로 묘사합니다."
+    },
+    {
       "ticker": "TSM",
       "stance": "bullish",
       "summary_en": "Author highlights TSMC's comments about insatiable AI demand, no slowdown, and demand exceeding supply, suggesting AI demand is not collapsing.",
@@ -296,123 +510,6 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "stance": "neutral",
-      "summary_en": "Author cites Tesla as a precedent for standing by Elon Musk around similar allegations.",
-      "mentions": 111,
-      "last_seen": "Nov 11, 2026, 11:20 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/TSLA",
-      "post_url": "https://x.com/aleabitoreddit/status/2120658071274013137",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "price": {
-        "latest_close": 390.84,
-        "latest_date": "2026-11-11",
-        "first_close": 346.6,
-        "first_price_date": "2025-08-25",
-        "return_pct": 12.76,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-12T06:15:02+00:00"
-      },
-      "summary_ko": "저자는 테슬라를 일론 머스크(Elon Musk)에 대한 유사한 혐의와 관련하여 그를 지지하는 선례로 인용합니다."
-    },
-    {
-      "ticker": "NVDA",
-      "stance": "unclear",
-      "summary_en": "Author hopes Nvidia's board stands by Jensen and warns the valuation could crash if he is removed as CEO.",
-      "mentions": 427,
-      "last_seen": "Nov 11, 2026, 11:20 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2120658071274013137",
-      "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 2,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-09T06:18:52+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T12:06:22+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-12T06:14:55+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "price": {
-        "latest_close": 173.73,
-        "latest_date": "2026-11-11",
-        "first_close": 179.81,
-        "first_price_date": "2025-08-25",
-        "return_pct": -3.38,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-12T06:15:02+00:00"
-      },
-      "summary_ko": "작성자는 엔비디아 이사회가 젠슨을 지지하기를 바라며, 그가 CEO에서 물러날 경우 기업 가치가 폭락할 수 있다고 경고합니다."
-    },
-    {
       "ticker": "AMD",
       "stance": "bullish",
       "summary_en": "Author expects capital to rotate toward AMD and other competitors if Nvidia's valuation crashes.",
@@ -423,11 +520,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2120658071274013137",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-08T23:45:38+00:00",
@@ -435,6 +532,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 엔비디아의 기업 가치가 하락할 경우 자금이 AMD 및 기타 경쟁사로 이동할 것으로 예상합니다.",
       "price": {
         "latest_close": 552.9,
         "latest_date": "2026-11-11",
@@ -445,8 +543,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-12T06:15:02+00:00"
-      },
-      "summary_ko": "저자는 엔비디아의 기업 가치가 하락할 경우 자금이 AMD 및 기타 경쟁사로 이동할 것으로 예상합니다."
+      }
     },
     {
       "ticker": "NBIS",
@@ -559,42 +656,6 @@
         "first_close": 80.12,
         "first_price_date": "2026-01-22",
         "return_pct": 56.29,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-12T06:15:03+00:00"
-      }
-    },
-    {
-      "ticker": "AVGO",
-      "stance": "neutral",
-      "summary_en": "Author uses AVGO to show WT's growing share of Broadcom revenue, from 13% in 2020 to possibly ~46% now.",
-      "mentions": 115,
-      "last_seen": "Nov 11, 2026, 02:25 PM",
-      "first_mention": "Sep 26, 2025, 03:49 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AVGO",
-      "post_url": "https://x.com/aleabitoreddit/status/2120523420639408175",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-11T23:56:52+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "작성자는 AVGO를 사용하여 WT가 Broadcom 매출에서 차지하는 비중이 2020년 13%에서 현재 약 46%로 증가했음을 보여줍니다.",
-      "price": {
-        "latest_close": 345.22,
-        "latest_date": "2026-11-11",
-        "first_close": 334.53,
-        "first_price_date": "2025-09-26",
-        "return_pct": 3.2,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -782,57 +843,6 @@
         "first_close": 4.18,
         "first_price_date": "2025-12-23",
         "return_pct": 275.84,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-12T06:15:05+00:00"
-      }
-    },
-    {
-      "ticker": "MRVL",
-      "stance": "unclear",
-      "summary_en": "MRVL is mentioned only as the acquisition behind LITE's valuation overhang; the author gives no direct view on MRVL.",
-      "mentions": 197,
-      "last_seen": "Nov 10, 2026, 08:43 AM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MRVL",
-      "post_url": "https://x.com/aleabitoreddit/status/2120074819878449605",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-10-30T11:52:23+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "MRVL은 Lite의 밸류에이션 오버행에 대한 인수로만 언급되며, 저자는 MRVL에 대한 직접적인 견해를 제시하지 않습니다.",
-      "price": {
-        "latest_close": 168.8,
-        "latest_date": "2026-11-11",
-        "first_close": 72.95,
-        "first_price_date": "2025-08-25",
-        "return_pct": 131.39,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23302,10 +23312,10 @@
     {
       "date": "2026-11-12",
       "stocks": 774,
-      "bullish": 198,
+      "bullish": 200,
       "bearish": 61,
       "neutral": 319,
-      "unclear": 71,
+      "unclear": 69,
       "watchlist": 94
     }
   ]
