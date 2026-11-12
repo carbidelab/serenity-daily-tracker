@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-12T12:07:42+00:00",
+  "last_successful_sync_utc": "2026-11-12T23:53:52+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -204,57 +204,21 @@
       }
     },
     {
-      "ticker": "TSLA",
-      "stance": "neutral",
-      "summary_en": "Author uses TSLA as an analogy, saying removing Elon would cause the company's valuation and confidence to collapse.",
-      "mentions": 112,
-      "last_seen": "Nov 12, 2026, 08:38 AM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/TSLA",
-      "post_url": "https://x.com/aleabitoreddit/status/2120798356205093139",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "price": {
-        "latest_close": 390.84,
-        "latest_date": "2026-11-11",
-        "first_close": 346.6,
-        "first_price_date": "2025-08-25",
-        "return_pct": 12.76,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-12T06:15:02+00:00"
-      },
-      "summary_ko": "작가는 TSLA를 비유로 들어 일론을 제거하면 회사의 가치 평가와 신뢰도가 하락할 것이라고 말합니다."
-    },
-    {
       "ticker": "NVDA",
-      "stance": "bullish",
-      "summary_en": "Author argues Jensen Huang is practically irreplaceable and credits his long-term foresight and ecosystem building as central to Nvidia's value.",
-      "mentions": 429,
-      "last_seen": "Nov 12, 2026, 08:38 AM",
+      "stance": "bearish",
+      "summary_en": "The author questions why NVDA's future and American semiconductors are being decided by board members with experience at Taco Bell and the NFL, implying criticism of board competence.",
+      "mentions": 435,
+      "last_seen": "Nov 12, 2026, 09:33 PM",
       "first_mention": "Aug 25, 2025, 08:41 PM",
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2120798356205093139",
+      "post_url": "https://x.com/aleabitoreddit/status/2120993521289326858",
       "company_name": "엔비디아 (NVIDIA)",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 2,
+      "previous_stance": "bullish",
+      "mentions_delta": 6,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -310,6 +274,11 @@
           "observed_at_utc": "2026-11-12T12:07:42+00:00",
           "from": "unclear",
           "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "bullish",
+          "to": "bearish"
         }
       ],
       "price": {
@@ -323,7 +292,43 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-12T06:15:02+00:00"
       },
-      "summary_ko": "저자는 젠슨 황이 사실상 대체 불가능한 인물이며, 그의 장기적인 선견지명과 생태계 구축이 엔비디아의 가치에 핵심적인 요소라고 평가합니다."
+      "summary_ko": "저자는 타코벨(Taco Bell)과 NFL에서 경력을 쌓은 이사들이 NVDA의 미래와 미국 반도체를 결정하는 이유를 의문시하며, 이사회의 역량에 대한 비판을 암시합니다."
+    },
+    {
+      "ticker": "TSLA",
+      "stance": "neutral",
+      "summary_en": "Author uses TSLA as an analogy, saying removing Elon would cause the company's valuation and confidence to collapse.",
+      "mentions": 112,
+      "last_seen": "Nov 12, 2026, 08:38 AM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/TSLA",
+      "post_url": "https://x.com/aleabitoreddit/status/2120798356205093139",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "작가는 TSLA를 비유로 들어 일론을 제거하면 회사의 가치 평가와 신뢰도가 하락할 것이라고 말합니다.",
+      "price": {
+        "latest_close": 390.84,
+        "latest_date": "2026-11-11",
+        "first_close": 346.6,
+        "first_price_date": "2025-08-25",
+        "return_pct": 12.76,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T06:15:02+00:00"
+      }
     },
     {
       "ticker": "MRVL",
@@ -335,12 +340,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/MRVL",
       "post_url": "https://x.com/aleabitoreddit/status/2120798356205093139",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-30T11:52:23+00:00",
@@ -368,6 +373,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 Nvidia의 NVLink 생태계 내에서 ASIC 위협을 기회로 전환하는 과정의 일환으로 AVGO와 경쟁하기 위해 Marvell과 MediaTek에 투자하는 것을 언급합니다.",
       "price": {
         "latest_close": 168.8,
         "latest_date": "2026-11-11",
@@ -378,8 +384,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-12T06:15:05+00:00"
-      },
-      "summary_ko": "저자는 Nvidia의 NVLink 생태계 내에서 ASIC 위협을 기회로 전환하는 과정의 일환으로 AVGO와 경쟁하기 위해 Marvell과 MediaTek에 투자하는 것을 언급합니다."
+      }
     },
     {
       "ticker": "AVGO",
@@ -392,11 +397,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2120798356205093139",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-11T23:56:52+00:00",
@@ -404,6 +409,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "작가는 브로드컴을 ASIC/NVLink 분야에서 마벨과 미디어텍이 경쟁 상대로 삼고 있는 경쟁사로 묘사합니다.",
       "price": {
         "latest_close": 345.22,
         "latest_date": "2026-11-11",
@@ -414,8 +420,206 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-12T06:15:03+00:00"
+      }
+    },
+    {
+      "ticker": "UBER",
+      "stance": "unclear",
+      "summary_en": "Mentioned only as a company involved with Avride's autonomous vehicle fleet; no investment view is expressed.",
+      "mentions": 25,
+      "last_seen": "Nov 12, 2026, 01:09 PM",
+      "first_mention": "Nov 26, 2025, 12:25 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/UBER",
+      "post_url": "https://x.com/aleabitoreddit/status/2120866647930187882",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 70.68,
+        "latest_date": "2026-11-11",
+        "first_close": 85.66,
+        "first_price_date": "2025-11-26",
+        "return_pct": -17.49,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T06:15:37+00:00"
       },
-      "summary_ko": "작가는 브로드컴을 ASIC/NVLink 분야에서 마벨과 미디어텍이 경쟁 상대로 삼고 있는 경쟁사로 묘사합니다."
+      "summary_ko": "Avride의 자율주행 차량 차고와 관련된 회사로만 언급되었으며, 투자 의견은 제시되지 않았습니다."
+    },
+    {
+      "ticker": "NBIS",
+      "stance": "bullish",
+      "summary_en": "Author is operationally bullish on Nebius after strong Q3 growth and prepayment-funded capex, while flagging near-term 2026 guidance cuts and third-party execution risk.",
+      "mentions": 718,
+      "last_seen": "Nov 12, 2026, 01:09 PM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2120866647930187882",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T23:49:20+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 154.69,
+        "latest_date": "2026-11-11",
+        "first_close": 52.37,
+        "first_price_date": "2025-07-21",
+        "return_pct": 195.38,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T06:15:02+00:00"
+      },
+      "summary_ko": "작성자는 강력한 3분기 성장과 선지급 자금으로 조달된 자본적 지출을 바탕으로 Nebius에 대해 운영적으로 낙관적인 입장을 취하고 있지만, 2026년 단기 가이던스 하향 조정과 제3자 실행 위험에 대해 우려를 표명하고 있습니다."
+    },
+    {
+      "ticker": "MSFT",
+      "stance": "unclear",
+      "summary_en": "Mentioned only as a capacity-delivery timing issue affecting Nebius's 2026 guidance; no view on Microsoft stock.",
+      "mentions": 173,
+      "last_seen": "Nov 12, 2026, 01:09 PM",
+      "first_mention": "Sep 27, 2025, 10:53 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MSFT",
+      "post_url": "https://x.com/aleabitoreddit/status/2120866647930187882",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 521.13,
+        "latest_date": "2026-11-11",
+        "first_close": 514.6,
+        "first_price_date": "2025-09-29",
+        "return_pct": 1.27,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T06:15:10+00:00"
+      },
+      "summary_ko": "Nebius의 2026년 가이던스에 영향을 미치는 용량 제공 시기 문제로만 언급되었으며, Microsoft 주식에 대한 의견은 없습니다."
+    },
+    {
+      "ticker": "IBM",
+      "stance": "unclear",
+      "summary_en": "Mentioned only as a post-training partner for Tavily; no investment view on IBM is expressed.",
+      "mentions": 1,
+      "last_seen": "Nov 12, 2026, 01:09 PM",
+      "first_mention": "Nov 12, 2026, 01:09 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/IBM",
+      "post_url": "https://x.com/aleabitoreddit/status/2120866647930187882",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "price": {
+        "latest_close": 244.67,
+        "latest_date": "2026-11-12",
+        "first_close": 244.67,
+        "first_price_date": "2026-11-12",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T23:53:56+00:00"
+      },
+      "summary_ko": "Tavily의 훈련 후 파트너로만 언급되었습니다. IBM에 대한 투자 의견은 제시되지 않았습니다."
+    },
+    {
+      "ticker": "BE",
+      "stance": "unclear",
+      "summary_en": "Mentioned only as a fuel-cell capacity supplier in the context of a third-party execution miss; no investment view.",
+      "mentions": 20,
+      "last_seen": "Nov 12, 2026, 01:09 PM",
+      "first_mention": "Oct 04, 2025, 01:22 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/BE",
+      "post_url": "https://x.com/aleabitoreddit/status/2120866647930187882",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-05T23:52:53+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 209.47,
+        "latest_date": "2026-11-11",
+        "first_close": 86.97,
+        "first_price_date": "2025-10-06",
+        "return_pct": 140.85,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-12T06:15:13+00:00"
+      },
+      "summary_ko": "제3자 실행 미스(miss)와 관련하여 연료전지 용량 공급업체로만 언급되었으며, 투자 전망은 없습니다."
     },
     {
       "ticker": "TSM",
@@ -539,57 +743,6 @@
         "first_close": 160.88,
         "first_price_date": "2025-09-24",
         "return_pct": 243.67,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-12T06:15:02+00:00"
-      }
-    },
-    {
-      "ticker": "NBIS",
-      "stance": "bullish",
-      "summary_en": "Author is bullish on Nebius ($NBIS), arguing its stake in ClickHouse and other subsidiaries add billions in value beyond its core neocloud business.",
-      "mentions": 717,
-      "last_seen": "Nov 11, 2026, 05:52 PM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2120575364238094682",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T23:49:20+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-11T12:04:38+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "작성자는 Nebius($NBIS)에 대해 낙관적이며, ClickHouse 및 기타 자회사 지분이 핵심 네오클라우드 비즈니스를 넘어 수십억 달러의 가치를 더한다고 주장합니다.",
-      "price": {
-        "latest_close": 154.69,
-        "latest_date": "2026-11-11",
-        "first_close": 52.37,
-        "first_price_date": "2025-07-21",
-        "return_pct": 195.38,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1572,42 +1725,6 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "stance": "neutral",
-      "summary_en": "Author notes MSFT sees profitable AI data-center economics and is accelerating its AI DC buildout.",
-      "mentions": 172,
-      "last_seen": "Nov 07, 2026, 02:40 PM",
-      "first_mention": "Sep 27, 2025, 10:53 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MSFT",
-      "post_url": "https://x.com/aleabitoreddit/status/2119077473107472729",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자 주 MSFT는 수익성 있는 AI 데이터 센터 경제성을 보고 AI DC 구축을 가속화하고 있습니다.",
-      "price": {
-        "latest_close": 521.13,
-        "latest_date": "2026-11-11",
-        "first_close": 514.6,
-        "first_price_date": "2025-09-29",
-        "return_pct": 1.27,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-12T06:15:10+00:00"
-      }
-    },
-    {
       "ticker": "GOOGL",
       "stance": "neutral",
       "summary_en": "Author cites GOOGL as a compute customer for SpaceX, supporting the view that AI compute economics are attractive.",
@@ -1901,42 +2018,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-12T06:15:12+00:00"
-      }
-    },
-    {
-      "ticker": "BE",
-      "stance": "neutral",
-      "summary_en": "Google announced it will use BE fuel cells for the new Wyoming data center, stated as a factual project update.",
-      "mentions": 19,
-      "last_seen": "Nov 05, 2026, 07:18 PM",
-      "first_mention": "Oct 04, 2025, 01:22 AM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/BE",
-      "post_url": "https://x.com/aleabitoreddit/status/2118422637320007721",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-05T23:52:53+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "Google은 실제 프로젝트 업데이트로 명시된 새로운 와이오밍 데이터 센터에 BE 연료 전지를 사용할 것이라고 발표했습니다.",
-      "price": {
-        "latest_close": 209.47,
-        "latest_date": "2026-11-11",
-        "first_close": 86.97,
-        "first_price_date": "2025-10-06",
-        "return_pct": 140.85,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-12T06:15:13+00:00"
       }
     },
     {
@@ -4764,36 +4845,6 @@
         "first_close": 207.4,
         "first_price_date": "2026-05-12",
         "return_pct": -8.92,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-12T06:15:37+00:00"
-      }
-    },
-    {
-      "ticker": "UBER",
-      "stance": "bearish",
-      "summary_en": "",
-      "mentions": 24,
-      "first_mention": "Nov 26, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/UBER",
-      "post_url": "",
-      "company_name": "Uber Technologies, Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 70.68,
-        "latest_date": "2026-11-11",
-        "first_close": 85.66,
-        "first_price_date": "2025-11-26",
-        "return_pct": -17.49,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23311,11 +23362,11 @@
     },
     {
       "date": "2026-11-12",
-      "stocks": 774,
-      "bullish": 200,
+      "stocks": 775,
+      "bullish": 199,
       "bearish": 61,
-      "neutral": 319,
-      "unclear": 69,
+      "neutral": 317,
+      "unclear": 73,
       "watchlist": 94
     }
   ]
