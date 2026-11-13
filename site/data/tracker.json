@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-13T06:11:03+00:00",
+  "last_successful_sync_utc": "2026-11-13T12:04:28+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -204,21 +204,51 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "stance": "bearish",
-      "summary_en": "The author questions why NVDA's future and American semiconductors are being decided by board members with experience at Taco Bell and the NFL, implying criticism of board competence.",
-      "mentions": 435,
-      "last_seen": "Nov 12, 2026, 09:33 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2120993521289326858",
-      "company_name": "엔비디아 (NVIDIA)",
+      "ticker": "SHOP",
+      "stance": "unclear",
+      "summary_en": "The post attributes the dramatic statement that the real NVDA is dead to the SHOP CEO, without offering any view on Shopify itself.",
+      "mentions": 1,
+      "last_seen": "Nov 13, 2026, 10:03 AM",
+      "first_mention": "Nov 13, 2026, 10:03 AM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/SHOP",
+      "post_url": "https://x.com/aleabitoreddit/status/2121182068558446730",
+      "company_name": "",
       "stance_changed": false,
       "new_mention_since_previous": false,
       "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "price": {
+        "latest_close": 146.78,
+        "latest_date": "2026-11-12",
+        "first_close": null,
+        "first_price_date": null,
+        "return_pct": null,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-13T12:04:32+00:00"
+      },
+      "summary_ko": "이 게시물은 Shopify 자체에 대한 어떠한 견해도 제시하지 않은 채, 실제 NVDA가 사라졌다는 극적인 주장을 SHOP CEO에게 돌리고 있습니다."
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "bearish",
+      "summary_en": "The author claims the 'real' NVDA ended today, saying what remains is a counterfeit imitation run by caretakers rather than pioneers.",
+      "mentions": 437,
+      "last_seen": "Nov 13, 2026, 10:03 AM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2121182068558446730",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0,
+      "mentions_delta": 2,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -281,7 +311,6 @@
           "to": "bearish"
         }
       ],
-      "summary_ko": "저자는 타코벨(Taco Bell)과 NFL에서 경력을 쌓은 이사들이 NVDA의 미래와 미국 반도체를 결정하는 이유를 의문시하며, 이사회의 역량에 대한 비판을 암시합니다.",
       "price": {
         "latest_close": 166.19,
         "latest_date": "2026-11-12",
@@ -292,7 +321,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-13T06:11:09+00:00"
-      }
+      },
+      "summary_ko": "저자는 '진짜' NVDA가 오늘 끝났으며, 남은 것은 개척자가 아닌 관리자들이 운영하는 가짜 모방품이라고 주장합니다."
     },
     {
       "ticker": "TSLA",
@@ -23371,11 +23401,11 @@
     },
     {
       "date": "2026-11-13",
-      "stocks": 775,
+      "stocks": 776,
       "bullish": 199,
       "bearish": 61,
       "neutral": 317,
-      "unclear": 73,
+      "unclear": 74,
       "watchlist": 94
     }
   ]
