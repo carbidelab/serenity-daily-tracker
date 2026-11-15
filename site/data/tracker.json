@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-15T06:00:25+00:00",
+  "last_successful_sync_utc": "2026-11-15T11:52:16+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -205,20 +205,20 @@
     },
     {
       "ticker": "NVDA",
-      "stance": "neutral",
-      "summary_en": "The author shares that Altimeter and Atreides sent a letter to NVIDIA's board.",
-      "mentions": 442,
-      "last_seen": "Nov 14, 2026, 12:16 AM",
+      "stance": "unclear",
+      "summary_en": "The author criticizes Western media coverage of Nvidia and Jensen Huang, saying it has reached a point that gives Chinese people more pride in CCP state media.",
+      "mentions": 443,
+      "last_seen": "Nov 15, 2026, 06:27 AM",
       "first_mention": "Aug 25, 2025, 08:41 PM",
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2121396827484524803",
+      "post_url": "https://x.com/aleabitoreddit/status/2121852636261724398",
       "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -289,9 +289,13 @@
           "observed_at_utc": "2026-11-14T05:58:50+00:00",
           "from": "unclear",
           "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-15T11:52:16+00:00",
+          "from": "neutral",
+          "to": "unclear"
         }
       ],
-      "summary_ko": "작성자는 Altimeter와 Atreides가 NVIDIA 이사회에 서한을 보냈다고 전합니다.",
       "price": {
         "latest_close": 162.85,
         "latest_date": "2026-11-13",
@@ -302,7 +306,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-15T06:00:30+00:00"
-      }
+      },
+      "summary_ko": "저자는 엔비디아와 젠슨 황에 대한 서구 언론의 보도가 중국인들에게 중국 공산당(CCP) 국영 언론에 대한 자부심을 더 높여주는 지경에 이르렀다고 비판한다."
     },
     {
       "ticker": "MRVL",
@@ -23473,8 +23478,8 @@
       "stocks": 776,
       "bullish": 198,
       "bearish": 59,
-      "neutral": 319,
-      "unclear": 75,
+      "neutral": 318,
+      "unclear": 76,
       "watchlist": 94
     }
   ]
