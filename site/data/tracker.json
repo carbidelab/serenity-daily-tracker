@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-15T23:54:44+00:00",
+  "last_successful_sync_utc": "2026-11-16T23:52:45+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -114,36 +114,6 @@
       }
     },
     {
-      "ticker": "TE",
-      "stance": "watchlist",
-      "summary_en": "Mentions TE at $2.5 as one of the 'Leopold trades' in a new higher-beta 'It’s All Over' portfolio being tracked, not a recommendation.",
-      "mentions": 29,
-      "last_seen": "Oct 27, 2026, 02:51 PM",
-      "first_mention": "Oct 19, 2025, 11:52 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/TE",
-      "post_url": "https://x.com/aleabitoreddit/status/2115094150626644115",
-      "company_name": "TE",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "추천이 아닌 새로운 상위 베타 'It's All Over' 포트폴리오에서 'Leopold 거래' 중 하나로 $ 2.5에 TE를 언급합니다.",
-      "price": {
-        "latest_close": 1.91,
-        "latest_date": "2026-11-13",
-        "first_close": 4.76,
-        "first_price_date": "2025-10-20",
-        "return_pct": -59.87,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-16T06:34:48+00:00"
-      }
-    },
-    {
       "ticker": "SHAZ",
       "stance": "watchlist",
       "summary_en": "Mentions SHAZ at $25 as one of the 'Leopold trades' in a new higher-beta 'It’s All Over' portfolio being tracked, not a recommendation.",
@@ -204,57 +174,134 @@
       }
     },
     {
-      "ticker": "SOI.PA",
+      "ticker": "AMD",
+      "stance": "neutral",
+      "summary_en": "Author cites AMD's MI450 boards using 632% more of a component as evidence of rising content per system amid tight MLCC supply, without giving a direct AMD stock stance.",
+      "mentions": 131,
+      "last_seen": "Nov 16, 2026, 12:31 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMD",
+      "post_url": "https://x.com/aleabitoreddit/status/2122306534772519308",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T23:45:38+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 534.06,
+        "latest_date": "2026-11-13",
+        "first_close": 160.88,
+        "first_price_date": "2025-09-24",
+        "return_pct": 231.96,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T06:34:52+00:00"
+      },
+      "summary_ko": "작성자는 AMD의 MI450 보드가 632% 더 많은 부품을 사용한다는 점을 들어 MLCC 공급이 부족한 상황에서 시스템당 부품 수가 증가하고 있음을 증명하지만, AMD 주식에 대한 직접적인 입장은 밝히지 않습니다."
+    },
+    {
+      "ticker": "009150.KS",
       "stance": "unclear",
-      "summary_en": "Author cites ~$400m FY2028 Photonics-SOI revenue forecast as an example of a cheap critical material that can trigger large economic impact for competitors lacking supply.",
-      "mentions": 165,
-      "last_seen": "Nov 15, 2026, 10:47 AM",
-      "first_mention": "Mar 01, 2026, 08:37 PM",
-      "detail_url": "https://serenitystock.com/stocks/PAR/SOI.PA",
-      "post_url": "https://x.com/aleabitoreddit/status/2121918080293196209",
+      "summary_en": "Author names Samsung Electro-Mechanics as part of an MLCC supplier group being sold off despite very tight lead times, without a direct buy/sell call on the stock.",
+      "mentions": 7,
+      "last_seen": "Nov 16, 2026, 12:31 PM",
+      "first_mention": "Dec 31, 2025, 06:52 AM",
+      "detail_url": "https://serenitystock.com/stocks/KSC/009150.KS",
+      "post_url": "https://x.com/aleabitoreddit/status/2122306534772519308",
       "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "bullish",
+      "previous_stance": "neutral",
       "mentions_delta": 1,
       "stance_history": [
         {
-          "observed_at_utc": "2026-11-15T23:54:44+00:00",
-          "from": "bullish",
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "neutral",
           "to": "unclear"
         }
       ],
       "price": {
-        "latest_close": 102.8,
+        "latest_close": 780000.0,
+        "latest_date": "2026-11-16",
+        "first_close": 270000.0,
+        "first_price_date": "2026-01-02",
+        "return_pct": 188.89,
+        "currency": "KRW",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T06:38:02+00:00"
+      },
+      "summary_ko": "작성자는 매우 짧은 리드 타임에도 불구하고 주식에 대한 직접적인 매수/매도 권한 없이 매각되는 MLCC 공급업체 그룹의 일원으로 삼성전기를 지목합니다."
+    },
+    {
+      "ticker": "TE",
+      "stance": "bearish",
+      "summary_en": "Author sarcastically flags $TE's $100M ATM as nuking valuations despite enthusiastic market reaction.",
+      "mentions": 30,
+      "last_seen": "Nov 16, 2026, 08:37 PM",
+      "first_mention": "Oct 19, 2025, 11:52 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/TE",
+      "post_url": "https://x.com/aleabitoreddit/status/2122428876748206564",
+      "company_name": "TE",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "watchlist",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "watchlist",
+          "to": "bearish"
+        }
+      ],
+      "price": {
+        "latest_close": 1.91,
         "latest_date": "2026-11-13",
-        "first_close": 43.06,
-        "first_price_date": "2026-03-02",
-        "return_pct": 138.74,
+        "first_close": 4.76,
+        "first_price_date": "2025-10-20",
+        "return_pct": -59.87,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-16T06:34:49+00:00"
+        "fetched_utc": "2026-11-16T06:34:48+00:00"
       },
-      "summary_ko": "저자는 공급이 부족한 경쟁사에게 큰 경제적 영향을 미칠 수 있는 저렴한 핵심 소재의 예로 2028 회계연도 포토닉스-SOI 매출액 전망치인 약 4억 달러를 인용합니다."
+      "summary_ko": "작가는 열광적인 시장 반응에도 불구하고 $TE의 1억 달러 ATM이 기업 가치를 폭락시킬 것이라고 비꼬며 지적합니다."
     },
     {
       "ticker": "NVDA",
-      "stance": "bullish",
-      "summary_en": "Author expresses a positive comeback narrative for NVDA, framing Jensen Huang’s return as a 'redemption arc.'",
-      "mentions": 446,
-      "last_seen": "Nov 15, 2026, 07:19 PM",
+      "stance": "bearish",
+      "summary_en": "Author cites Jensen leaving $NVDA as a certainty that raises concerns over Nvidia's ecosystem.",
+      "mentions": 448,
+      "last_seen": "Nov 16, 2026, 08:37 PM",
       "first_mention": "Aug 25, 2025, 08:41 PM",
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2122046823934407066",
+      "post_url": "https://x.com/aleabitoreddit/status/2122428876748206564",
       "company_name": "엔비디아 (NVIDIA)",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 3,
+      "previous_stance": "bullish",
+      "mentions_delta": 2,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -335,6 +382,11 @@
           "observed_at_utc": "2026-11-15T23:54:44+00:00",
           "from": "unclear",
           "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
         }
       ],
       "price": {
@@ -348,7 +400,393 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-16T06:34:49+00:00"
       },
-      "summary_ko": "작가는 NVDA의 긍정적인 재기 서사를 표현하며, 젠슨 황의 복귀를 '구원의 서사'로 규정합니다."
+      "summary_ko": "저자는 젠슨이 $NVDA를 떠나는 것을 엔비디아의 생태계에 대한 우려를 불러일으키는 확실한 일로 언급합니다."
+    },
+    {
+      "ticker": "NBIS",
+      "stance": "bullish",
+      "summary_en": "Author highlights $NBIS as a neocloud adjusting by getting 100% capex or 90% GPU prepayments from counterparties.",
+      "mentions": 719,
+      "last_seen": "Nov 16, 2026, 08:37 PM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2122428876748206564",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T23:49:20+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 115.88,
+        "latest_date": "2026-11-13",
+        "first_close": 52.37,
+        "first_price_date": "2025-07-21",
+        "return_pct": 121.27,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T06:34:52+00:00"
+      },
+      "summary_ko": "작성자는 $NBIS를 거래 상대방으로부터 100%의 설비투자(Capex) 또는 90%의 GPU 선불금을 받아 조정하는 네오클라우드로 주목합니다."
+    },
+    {
+      "ticker": "LITE",
+      "stance": "bullish",
+      "summary_en": "Author cites $LITE starting negotiations for 2030 capacity amid sold-out mid-high range lasers for NPO/CPO.",
+      "mentions": 440,
+      "last_seen": "Nov 16, 2026, 08:37 PM",
+      "first_mention": "Oct 25, 2025, 06:17 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
+      "post_url": "https://x.com/aleabitoreddit/status/2122428876748206564",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-10-29T05:54:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T23:49:20+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-10T11:58:27+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 596.62,
+        "latest_date": "2026-11-13",
+        "first_close": 193.8,
+        "first_price_date": "2025-10-27",
+        "return_pct": 207.85,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T06:34:51+00:00"
+      },
+      "summary_ko": "작성자는 NPO/CPO용 중고가대 레이저가 매진된 가운데 $LITE가 2030년 생산능력에 대한 협상을 시작했다고 언급합니다."
+    },
+    {
+      "ticker": "IREN",
+      "stance": "bullish",
+      "summary_en": "Author highlights $IREN as a neocloud adjusting by getting 100% capex or 90% GPU prepayments from counterparties.",
+      "mentions": 394,
+      "last_seen": "Nov 16, 2026, 08:37 PM",
+      "first_mention": "Aug 31, 2025, 04:51 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
+      "post_url": "https://x.com/aleabitoreddit/status/2122428876748206564",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T23:45:38+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 18.17,
+        "latest_date": "2026-11-13",
+        "first_close": 29.11,
+        "first_price_date": "2025-09-02",
+        "return_pct": -37.58,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T06:34:58+00:00"
+      },
+      "summary_ko": "작성자는 $IREN을 거래 상대방으로부터 100%의 자본적 지출 또는 90%의 GPU 선지급금을 받아 조정하는 네오클라우드로 주목합니다."
+    },
+    {
+      "ticker": "ANT",
+      "stance": "bearish",
+      "summary_en": "Author argues $ANT's sky-high $700-$800B ARR projections are hype likely to be revised down.",
+      "mentions": 5,
+      "last_seen": "Nov 16, 2026, 08:37 PM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2122428876748206564",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        }
+      ],
+      "summary_ko": "작가는 $ANT의 천문학적인 $7,000억~$8,000억 ARR 전망치는 과장된 것으로 하향 조정될 가능성이 높다고 주장합니다."
+    },
+    {
+      "ticker": "PANW",
+      "stance": "unclear",
+      "summary_en": "Author says Palo Alto Networks' CEO cannot replace Jensen without affecting Taiwanese factory speed; no standalone investment view on Palo Alto Networks is given.",
+      "mentions": 1,
+      "last_seen": "Nov 16, 2026, 07:01 PM",
+      "first_mention": "Nov 16, 2026, 07:01 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/PANW",
+      "post_url": "https://x.com/aleabitoreddit/status/2122404712800723209",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "price": {
+        "latest_close": 316.09,
+        "latest_date": "2026-11-16",
+        "first_close": 316.09,
+        "first_price_date": "2026-11-16",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T23:52:50+00:00"
+      },
+      "summary_ko": "저자는 Palo Alto Networks의 CEO가 대만 공장의 속도에 영향을 미치지 않고 젠슨을 대체할 수 없다고 말하며, Palo Alto Networks에 대한 독립적인 투자 전망은 제시하지 않습니다."
+    },
+    {
+      "ticker": "MCD",
+      "stance": "unclear",
+      "summary_en": "Mentioned only as a comparison in the author's argument that NVDA is different; no standalone investment view on McDonald's is expressed.",
+      "mentions": 1,
+      "last_seen": "Nov 16, 2026, 07:01 PM",
+      "first_mention": "Nov 16, 2026, 07:01 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/MCD",
+      "post_url": "https://x.com/aleabitoreddit/status/2122404712800723209",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "price": {
+        "latest_close": 274.67,
+        "latest_date": "2026-11-16",
+        "first_close": 274.67,
+        "first_price_date": "2026-11-16",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T23:52:51+00:00"
+      },
+      "summary_ko": "NVDA가 다르다는 저자의 주장에서 비교를 위해 언급된 것일 뿐, 맥도날드에 대한 독립적인 투자 의견은 제시되지 않았습니다."
+    },
+    {
+      "ticker": "ARM",
+      "stance": "unclear",
+      "summary_en": "Author says ARM's CEO cannot replace Jensen without hurting Taiwanese factory speed; no direct investment stance on ARM is stated.",
+      "mentions": 47,
+      "last_seen": "Nov 16, 2026, 07:01 PM",
+      "first_mention": "Sep 29, 2025, 02:53 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/ARM",
+      "post_url": "https://x.com/aleabitoreddit/status/2122404712800723209",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T23:45:38+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 190.53,
+        "latest_date": "2026-11-13",
+        "first_close": 139.8,
+        "first_price_date": "2025-09-29",
+        "return_pct": 36.29,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T06:34:59+00:00"
+      },
+      "summary_ko": "저자는 ARM의 CEO가 대만 공장의 속도를 저해하지 않고는 젠슨을 대체할 수 없다고 말하며, ARM에 대한 직접 투자 입장은 명시하지 않았습니다."
+    },
+    {
+      "ticker": "AAPL",
+      "stance": "unclear",
+      "summary_en": "Mentioned only as a comparison in the author's argument that NVDA is a different kind of company; no standalone view on Apple is given.",
+      "mentions": 60,
+      "last_seen": "Nov 16, 2026, 07:01 PM",
+      "first_mention": "Oct 01, 2025, 12:49 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AAPL",
+      "post_url": "https://x.com/aleabitoreddit/status/2122404712800723209",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 356.27,
+        "latest_date": "2026-11-13",
+        "first_close": 255.45,
+        "first_price_date": "2025-10-01",
+        "return_pct": 39.47,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T06:37:56+00:00"
+      },
+      "summary_ko": "NVDA가 다른 유형의 회사라는 저자의 주장에서 비교 대상으로만 언급되었으며, Apple에 대한 별도의 견해는 제시되지 않았습니다."
+    },
+    {
+      "ticker": "SOI.PA",
+      "stance": "unclear",
+      "summary_en": "Author cites ~$400m FY2028 Photonics-SOI revenue forecast as an example of a cheap critical material that can trigger large economic impact for competitors lacking supply.",
+      "mentions": 165,
+      "last_seen": "Nov 15, 2026, 10:47 AM",
+      "first_mention": "Mar 01, 2026, 08:37 PM",
+      "detail_url": "https://serenitystock.com/stocks/PAR/SOI.PA",
+      "post_url": "https://x.com/aleabitoreddit/status/2121918080293196209",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-15T23:54:44+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        }
+      ],
+      "summary_ko": "저자는 공급이 부족한 경쟁사에게 큰 경제적 영향을 미칠 수 있는 저렴한 핵심 소재의 예로 2028 회계연도 포토닉스-SOI 매출액 전망치인 약 4억 달러를 인용합니다.",
+      "price": {
+        "latest_close": 102.8,
+        "latest_date": "2026-11-13",
+        "first_close": 43.06,
+        "first_price_date": "2026-03-02",
+        "return_pct": 138.74,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-16T06:34:49+00:00"
+      }
     },
     {
       "ticker": "MRVL",
@@ -601,92 +1039,6 @@
       }
     },
     {
-      "ticker": "LITE",
-      "stance": "bullish",
-      "summary_en": "Author argues that supply-constrained demand involving LITE can persist even amid possible AI capex slowdowns.",
-      "mentions": 439,
-      "last_seen": "Nov 13, 2026, 08:25 PM",
-      "first_mention": "Oct 25, 2025, 06:17 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
-      "post_url": "https://x.com/aleabitoreddit/status/2121338681571328368",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-10-29T05:54:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T23:49:20+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-10T11:58:27+00:00",
-          "from": "neutral",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "저자는 AI 자본지출(Capex)이 둔화될 가능성이 있는 상황에서도 LITE와 관련된 공급 제약적 수요가 지속될 수 있다고 주장합니다.",
-      "price": {
-        "latest_close": 596.62,
-        "latest_date": "2026-11-13",
-        "first_close": 193.8,
-        "first_price_date": "2025-10-27",
-        "return_pct": 207.85,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-16T06:34:51+00:00"
-      }
-    },
-    {
       "ticker": "META",
       "stance": "unclear",
       "summary_en": "Mentioned only as an example of politicians' ignorance, questioning how META makes money.",
@@ -825,47 +1177,6 @@
       }
     },
     {
-      "ticker": "AMD",
-      "stance": "neutral",
-      "summary_en": "The author notes reports that CSP executives have considered $AMD following Jensen Huang’s departure, after earlier avoiding it over retaliation fears.",
-      "mentions": 130,
-      "last_seen": "Nov 13, 2026, 03:36 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMD",
-      "post_url": "https://x.com/aleabitoreddit/status/2121265837000782035",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-08T23:45:38+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "작성자는 CSP 경영진이 보복 우려로 인해 이전에 $AMD를 외면한 후, 젠슨 황의 퇴임 이후 이를 고려했다는 보도를 언급합니다.",
-      "price": {
-        "latest_close": 534.06,
-        "latest_date": "2026-11-13",
-        "first_close": 160.88,
-        "first_price_date": "2025-09-24",
-        "return_pct": 231.96,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-16T06:34:52+00:00"
-      }
-    },
-    {
       "ticker": "TSLA",
       "stance": "neutral",
       "summary_en": "Author uses TSLA as an analogy, saying removing Elon would cause the company's valuation and confidence to collapse.",
@@ -931,57 +1242,6 @@
         "first_close": 85.66,
         "first_price_date": "2025-11-26",
         "return_pct": -18.64,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-16T06:34:52+00:00"
-      }
-    },
-    {
-      "ticker": "NBIS",
-      "stance": "bullish",
-      "summary_en": "Author is operationally bullish on Nebius after strong Q3 growth and prepayment-funded capex, while flagging near-term 2026 guidance cuts and third-party execution risk.",
-      "mentions": 718,
-      "last_seen": "Nov 12, 2026, 01:09 PM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2120866647930187882",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T23:49:20+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-11T12:04:38+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "작성자는 강력한 3분기 성장과 선지급 자금으로 조달된 자본적 지출을 바탕으로 Nebius에 대해 운영적으로 낙관적인 입장을 취하고 있지만, 2026년 단기 가이던스 하향 조정과 제3자 실행 위험에 대해 우려를 표명하고 있습니다.",
-      "price": {
-        "latest_close": 115.88,
-        "latest_date": "2026-11-13",
-        "first_close": 52.37,
-        "first_price_date": "2025-07-21",
-        "return_pct": 121.27,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1191,36 +1451,6 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-16T06:34:54+00:00"
       }
-    },
-    {
-      "ticker": "ANT",
-      "stance": "bullish",
-      "summary_en": "Author is hyped on $ANT with 'Let's fking go,' though they still call Anthropic overvalued while being excited by the IPO teaser.",
-      "mentions": 4,
-      "last_seen": "Nov 11, 2026, 03:05 PM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2120533451279642808",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-11T23:56:52+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "작성자는 'Let's fking go'라는 문구와 함께 $ANT에 대해 열광하고 있지만, 여전히 Anthropic을 고평가되어 있다고 말하면서도 IPO 티저에 대해 흥분하고 있습니다."
     },
     {
       "ticker": "SMTC",
@@ -1782,78 +2012,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-16T06:34:58+00:00"
-      }
-    },
-    {
-      "ticker": "IREN",
-      "stance": "unclear",
-      "summary_en": "IREN was only referenced as the source of a comment that LITE's CEO said they would second, with no separate IREN-specific analysis.",
-      "mentions": 393,
-      "last_seen": "Nov 08, 2026, 03:52 PM",
-      "first_mention": "Aug 31, 2025, 04:51 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
-      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-08T23:45:38+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "Iren은 Lite의 CEO가 별도의 IREN별 분석 없이 두 번째로 하겠다고 말한 의견의 출처로만 언급되었습니다.",
-      "price": {
-        "latest_close": 18.17,
-        "latest_date": "2026-11-13",
-        "first_close": 29.11,
-        "first_price_date": "2025-09-02",
-        "return_pct": -37.58,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-16T06:34:58+00:00"
-      }
-    },
-    {
-      "ticker": "ARM",
-      "stance": "bullish",
-      "summary_en": "Arm's CEO said there is huge global demand for AI data center capacity, warning US hesitation could cede buildout while China is not slowing.",
-      "mentions": 46,
-      "last_seen": "Nov 08, 2026, 03:52 PM",
-      "first_mention": "Sep 29, 2025, 02:53 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/ARM",
-      "post_url": "https://x.com/aleabitoreddit/status/2119458038260318634",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-08T23:45:38+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "Arm의 CEO는 AI 데이터 센터 용량에 대한 전 세계적으로 엄청난 수요가 있다고 말하면서 중국이 둔화되지 않는 동안 미국의 망설임이 구축을 포기할 수 있다고 경고했다.",
-      "price": {
-        "latest_close": 190.53,
-        "latest_date": "2026-11-13",
-        "first_close": 139.8,
-        "first_price_date": "2025-09-29",
-        "return_pct": 36.29,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-16T06:34:59+00:00"
       }
     },
     {
@@ -22610,36 +22768,6 @@
       }
     },
     {
-      "ticker": "AAPL",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 59,
-      "first_mention": "Oct 01, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AAPL",
-      "post_url": "",
-      "company_name": "Apple Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 356.27,
-        "latest_date": "2026-11-13",
-        "first_close": 255.45,
-        "first_price_date": "2025-10-01",
-        "return_pct": 39.47,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-16T06:37:56+00:00"
-      }
-    },
-    {
       "ticker": "AAON",
       "stance": "unclear",
       "summary_en": "",
@@ -23270,36 +23398,6 @@
       }
     },
     {
-      "ticker": "009150.KS",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 6,
-      "first_mention": "Dec 31, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/KSC/009150.KS",
-      "post_url": "",
-      "company_name": "Samsung Electro-Mechanics Co., Ltd.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 780000.0,
-        "latest_date": "2026-11-16",
-        "first_close": 270000.0,
-        "first_price_date": "2026-01-02",
-        "return_pct": 188.89,
-        "currency": "KRW",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-16T06:38:02+00:00"
-      }
-    },
-    {
       "ticker": "006400.KS",
       "stance": "bullish",
       "summary_en": "",
@@ -23492,6 +23590,15 @@
       "neutral": 318,
       "unclear": 76,
       "watchlist": 94
+    },
+    {
+      "date": "2026-11-16",
+      "stocks": 778,
+      "bullish": 196,
+      "bearish": 62,
+      "neutral": 316,
+      "unclear": 80,
+      "watchlist": 93
     }
   ]
 }
