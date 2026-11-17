@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-17T06:11:36+00:00",
+  "last_successful_sync_utc": "2026-11-17T11:59:37+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -144,6 +144,194 @@
       }
     },
     {
+      "ticker": "AAPL",
+      "stance": "neutral",
+      "summary_en": "Author reports Apple has abandoned cheap memory supply from CMXT/China and approached Samsung for DRAM LTAs, without giving a clear bullish or bearish view on AAPL.",
+      "mentions": 61,
+      "last_seen": "Nov 17, 2026, 09:52 AM",
+      "first_mention": "Oct 01, 2025, 12:49 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AAPL",
+      "post_url": "https://x.com/aleabitoreddit/status/2122628849657954454",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 352.78,
+        "latest_date": "2026-11-16",
+        "first_close": 255.45,
+        "first_price_date": "2025-10-01",
+        "return_pct": 38.1,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-17T06:11:46+00:00"
+      },
+      "summary_ko": "작성자는 Apple이 CMXT/중국으로부터의 저렴한 메모리 공급을 중단하고 DRAM LTA를 위해 삼성에 접근했으며, AAPL에 대한 명확한 강세 또는 약세 전망을 제시하지 않았다고 보고합니다."
+    },
+    {
+      "ticker": "005930.KS",
+      "stance": "bullish",
+      "summary_en": "Author says Apple approached Samsung Electronics for DRAM LTAs starting H1 2027 and calls the memory demand visibility positive.",
+      "mentions": 50,
+      "last_seen": "Nov 17, 2026, 09:52 AM",
+      "first_mention": "Dec 05, 2025, 05:14 AM",
+      "detail_url": "https://serenitystock.com/stocks/KSC/005930.KS",
+      "post_url": "https://x.com/aleabitoreddit/status/2122628849657954454",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 190900.0,
+        "latest_date": "2026-11-17",
+        "first_close": 108400.0,
+        "first_price_date": "2025-12-05",
+        "return_pct": 76.11,
+        "currency": "KRW",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-17T06:11:47+00:00"
+      },
+      "summary_ko": "작성자는 애플이 2027년 상반기부터 DRAM LTA를 위해 삼성전자에 접근했으며, 메모리 수요 전망이 긍정적이라고 밝혔습니다."
+    },
+    {
+      "ticker": "SPCX",
+      "stance": "neutral",
+      "summary_en": "Author notes that $SPCX changing passive index rules affects the dynamics for mega-US IPOs.",
+      "mentions": 44,
+      "last_seen": "Nov 17, 2026, 09:32 AM",
+      "first_mention": "Dec 09, 2025, 10:48 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
+      "post_url": "https://x.com/aleabitoreddit/status/2122623882993795127",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 137.36,
+        "latest_date": "2026-11-16",
+        "first_close": 160.95,
+        "first_price_date": "2026-06-12",
+        "return_pct": -14.66,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-17T06:11:51+00:00"
+      },
+      "summary_ko": "작성자는 $SPCX의 패시브 인덱스 규칙 변경이 대규모 미국 IPO의 역학 관계에 영향을 미친다고 언급합니다."
+    },
+    {
+      "ticker": "ANT",
+      "stance": "unclear",
+      "summary_en": "Author mentions investing in the $ANT IPO in the context of Minimax's IPO chart.",
+      "mentions": 6,
+      "last_seen": "Nov 17, 2026, 09:32 AM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2122623882993795127",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        }
+      ],
+      "summary_ko": "작성자는 Minimax의 IPO 차트와 관련하여 $ANT IPO에 투자하는 것을 언급합니다."
+    },
+    {
       "ticker": "GOOGL",
       "stance": "neutral",
       "summary_en": "Author cites Google Threat Intelligence Group warning that fully autonomous vulnerability exploitation has arrived and notes Google's view that cyber defense must become autonomous using Gemini and other models.",
@@ -154,11 +342,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2122519172664209692",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-05T23:52:53+00:00",
@@ -171,6 +359,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "저자는 Google Threat Intelligence Group의 경고를 인용하여 완전 자율 취약점 공격이 현실화되었음을 언급하고, Gemini 및 기타 모델을 사용하여 사이버 방어가 자율화되어야 한다는 Google의 견해를 언급합니다.",
       "price": {
         "latest_close": 283.72,
         "latest_date": "2026-11-16",
@@ -181,8 +370,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:41+00:00"
-      },
-      "summary_ko": "저자는 Google Threat Intelligence Group의 경고를 인용하여 완전 자율 취약점 공격이 현실화되었음을 언급하고, Gemini 및 기타 모델을 사용하여 사이버 방어가 자율화되어야 한다는 Google의 견해를 언급합니다."
+      }
     },
     {
       "ticker": "AMZN",
@@ -195,11 +383,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2122519172664209692",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -207,6 +395,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "저자는 아마존 CEO 앤디 재시(Andy Jassy)의 추정치를 인용하며 AI 토큰의 20%가 사이버 보안에 사용될 수 있다고 언급합니다.",
       "price": {
         "latest_close": 257.75,
         "latest_date": "2026-11-16",
@@ -217,8 +406,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:41+00:00"
-      },
-      "summary_ko": "저자는 아마존 CEO 앤디 재시(Andy Jassy)의 추정치를 인용하며 AI 토큰의 20%가 사이버 보안에 사용될 수 있다고 언급합니다."
+      }
     },
     {
       "ticker": "AMD",
@@ -307,12 +495,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
       "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -330,6 +518,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "이 게시물은 Leopold의 Situational Awareness 13F 신고서에 SNDK 콜 옵션이 1억 8,270만 달러로 기재되어 있으며, 9월 30일 기준 보고된 가치와 콜 옵션 가치는 프리미엄이 아닌 기초 주식의 시장 가치로 기재되어 있다고 전합니다.",
       "price": {
         "latest_close": 809.11,
         "latest_date": "2026-11-16",
@@ -340,8 +529,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:42+00:00"
-      },
-      "summary_ko": "이 게시물은 Leopold의 Situational Awareness 13F 신고서에 SNDK 콜 옵션이 1억 8,270만 달러로 기재되어 있으며, 9월 30일 기준 보고된 가치와 콜 옵션 가치는 프리미엄이 아닌 기초 주식의 시장 가치로 기재되어 있다고 전합니다."
+      }
     },
     {
       "ticker": "SHAZ",
@@ -353,12 +541,12 @@
       "detail_url": "https://serenitystock.com/stocks/NCM/SHAZ",
       "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "watchlist",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-17T06:11:36+00:00",
@@ -366,6 +554,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "이 게시물은 Leopold의 Situational Awareness 13F 신고서에 9월 30일 기준 SHAZ 주식 4억 4,070만 달러가 신고되어 있다고 전합니다.",
       "price": {
         "latest_close": 20.13,
         "latest_date": "2026-11-16",
@@ -376,8 +565,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:42+00:00"
-      },
-      "summary_ko": "이 게시물은 Leopold의 Situational Awareness 13F 신고서에 9월 30일 기준 SHAZ 주식 4억 4,070만 달러가 신고되어 있다고 전합니다."
+      }
     },
     {
       "ticker": "NBIS",
@@ -390,11 +578,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -417,6 +605,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작가는 Leopold의 13F 신고서에 NBIS 콜 옵션이 $332.6M에 달한다고 언급하며, Leopold가 시장의 디레버리징을 견뎌낼 충분한 시간이 있기를 바라면서도 Nebius와 같은 종목에 대해 장기적으로 강세 전망을 유지하고 있다고 말합니다.",
       "price": {
         "latest_close": 107.13,
         "latest_date": "2026-11-16",
@@ -427,8 +616,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:43+00:00"
-      },
-      "summary_ko": "작가는 Leopold의 13F 신고서에 NBIS 콜 옵션이 $332.6M에 달한다고 언급하며, Leopold가 시장의 디레버리징을 견뎌낼 충분한 시간이 있기를 바라면서도 Nebius와 같은 종목에 대해 장기적으로 강세 전망을 유지하고 있다고 말합니다."
+      }
     },
     {
       "ticker": "IREN",
@@ -440,12 +628,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
       "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-08T23:45:38+00:00",
@@ -463,6 +651,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "이 게시물은 IREN에 대한 구체적인 개인적 입장을 밝히지 않은 채, Leopold의 13F 신고서에 IREN과 Neoclouds/Colo 플레이어에 대한 추가적인 노출이 있음을 언급합니다.",
       "price": {
         "latest_close": 16.39,
         "latest_date": "2026-11-16",
@@ -473,8 +662,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:43+00:00"
-      },
-      "summary_ko": "이 게시물은 IREN에 대한 구체적인 개인적 입장을 밝히지 않은 채, Leopold의 13F 신고서에 IREN과 Neoclouds/Colo 플레이어에 대한 추가적인 노출이 있음을 언급합니다."
+      }
     },
     {
       "ticker": "DRAM",
@@ -486,12 +674,12 @@
       "detail_url": "https://serenitystock.com/stocks/BTS/DRAM",
       "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-17T06:11:36+00:00",
@@ -499,6 +687,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "이 게시물은 Leopold의 상황 인식 13F 신고서에 DRAM ETF 콜 옵션이 $140.3M에 달하며, 콜 옵션 가치가 프리미엄이 아닌 기초 주식의 시장 가치로 기재되어 있다고 보고합니다.",
       "price": {
         "latest_close": 39.27,
         "latest_date": "2026-11-16",
@@ -509,8 +698,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:43+00:00"
-      },
-      "summary_ko": "이 게시물은 Leopold의 상황 인식 13F 신고서에 DRAM ETF 콜 옵션이 $140.3M에 달하며, 콜 옵션 가치가 프리미엄이 아닌 기초 주식의 시장 가치로 기재되어 있다고 보고합니다."
+      }
     },
     {
       "ticker": "BE",
@@ -522,12 +710,12 @@
       "detail_url": "https://serenitystock.com/stocks/NYQ/BE",
       "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-05T23:52:53+00:00",
@@ -545,6 +733,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "이 게시물은 Leopold의 Situational Awareness 13F 신고서에 BE 콜옵션이 3억 8,920만 달러로 기재되어 있으며, 9월 30일 기준 보고된 가치와 콜옵션 가치는 프리미엄이 아닌 기초 주식의 시장 가치로 기재되어 있다고 전합니다.",
       "price": {
         "latest_close": 177.28,
         "latest_date": "2026-11-16",
@@ -555,8 +744,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:43+00:00"
-      },
-      "summary_ko": "이 게시물은 Leopold의 Situational Awareness 13F 신고서에 BE 콜옵션이 3억 8,920만 달러로 기재되어 있으며, 9월 30일 기준 보고된 가치와 콜옵션 가치는 프리미엄이 아닌 기초 주식의 시장 가치로 기재되어 있다고 전합니다."
+      }
     },
     {
       "ticker": "TE",
@@ -797,41 +985,6 @@
       }
     },
     {
-      "ticker": "ANT",
-      "stance": "bearish",
-      "summary_en": "Author argues $ANT's sky-high $700-$800B ARR projections are hype likely to be revised down.",
-      "mentions": 5,
-      "last_seen": "Nov 16, 2026, 08:37 PM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2122428876748206564",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-11T23:56:52+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "작가는 $ANT의 천문학적인 $7,000억~$8,000억 ARR 전망치는 과장된 것으로 하향 조정될 가능성이 높다고 주장합니다."
-    },
-    {
       "ticker": "PANW",
       "stance": "unclear",
       "summary_en": "Author says Palo Alto Networks' CEO cannot replace Jensen without affecting Taiwanese factory speed; no standalone investment view on Palo Alto Networks is given.",
@@ -930,42 +1083,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:45+00:00"
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as a comparison in the author's argument that NVDA is a different kind of company; no standalone view on Apple is given.",
-      "mentions": 60,
-      "last_seen": "Nov 16, 2026, 07:01 PM",
-      "first_mention": "Oct 01, 2025, 12:49 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AAPL",
-      "post_url": "https://x.com/aleabitoreddit/status/2122404712800723209",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "NVDA가 다른 유형의 회사라는 저자의 주장에서 비교 대상으로만 언급되었으며, Apple에 대한 별도의 견해는 제시되지 않았습니다.",
-      "price": {
-        "latest_close": 352.78,
-        "latest_date": "2026-11-16",
-        "first_close": 255.45,
-        "first_price_date": "2025-10-01",
-        "return_pct": 38.1,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-17T06:11:46+00:00"
       }
     },
     {
@@ -1096,47 +1213,6 @@
         "first_price_date": "2025-12-01",
         "return_pct": -17.72,
         "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-17T06:11:47+00:00"
-      }
-    },
-    {
-      "ticker": "005930.KS",
-      "stance": "neutral",
-      "summary_en": "Author outlines Samsung Electronics' vertical integration moves in photonics and thermal, including reported Modine talks and patent purchases.",
-      "mentions": 49,
-      "last_seen": "Nov 13, 2026, 12:39 PM",
-      "first_mention": "Dec 05, 2025, 05:14 AM",
-      "detail_url": "https://serenitystock.com/stocks/KSC/005930.KS",
-      "post_url": "https://x.com/aleabitoreddit/status/2121221289440665737",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 모딘과의 협상 및 특허 구매에 대한 보도를 포함하여 삼성전자의 포토닉스 및 열 분야에서의 수직적 통합 움직임을 개괄적으로 설명합니다.",
-      "price": {
-        "latest_close": 190900.0,
-        "latest_date": "2026-11-17",
-        "first_close": 108400.0,
-        "first_price_date": "2025-12-05",
-        "return_pct": 76.11,
-        "currency": "KRW",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:47+00:00"
@@ -1646,62 +1722,6 @@
         "first_close": 64.6,
         "first_price_date": "2026-01-15",
         "return_pct": -14.81,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-17T06:11:51+00:00"
-      }
-    },
-    {
-      "ticker": "SPCX",
-      "stance": "unclear",
-      "summary_en": "Mentions $SPCX only as the competitor to the company (OpenAI + Stargate) being financed; gives no direct view on SPCX.",
-      "mentions": 43,
-      "last_seen": "Nov 10, 2026, 10:50 AM",
-      "first_mention": "Dec 09, 2025, 10:48 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
-      "post_url": "https://x.com/aleabitoreddit/status/2120106741090370030",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "자금 조달 중인 회사의 경쟁사 (OpenAI + Stargate) 로서만 $ SPCX를 언급하며, SPCX에 대한 직접적인 견해는 제시하지 않습니다.",
-      "price": {
-        "latest_close": 137.36,
-        "latest_date": "2026-11-16",
-        "first_close": 160.95,
-        "first_price_date": "2026-06-12",
-        "return_pct": -14.66,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23630,10 +23650,10 @@
     {
       "date": "2026-11-17",
       "stocks": 778,
-      "bullish": 193,
-      "bearish": 62,
-      "neutral": 321,
-      "unclear": 79,
+      "bullish": 194,
+      "bearish": 61,
+      "neutral": 322,
+      "unclear": 78,
       "watchlist": 92
     }
   ]
