@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-17T11:59:37+00:00",
+  "last_successful_sync_utc": "2026-11-17T23:58:12+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -144,6 +144,42 @@
       }
     },
     {
+      "ticker": "AMZN",
+      "stance": "neutral",
+      "summary_en": "Mentioned as a hyperscaler opposing the Trump administration's plan to block Chinese AI data-center equipment imports.",
+      "mentions": 184,
+      "last_seen": "Nov 17, 2026, 11:59 AM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
+      "post_url": "https://x.com/aleabitoreddit/status/2122660925488718046",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 257.75,
+        "latest_date": "2026-11-16",
+        "first_close": 220.21,
+        "first_price_date": "2025-09-24",
+        "return_pct": 17.05,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-17T06:11:41+00:00"
+      },
+      "summary_ko": "중국 AI 데이터 센터 장비 수입을 차단하려는 트럼프 행정부의 계획에 반대하는 하이퍼스케일러로 언급되었습니다."
+    },
+    {
       "ticker": "AAPL",
       "stance": "neutral",
       "summary_en": "Author reports Apple has abandoned cheap memory supply from CMXT/China and approached Samsung for DRAM LTAs, without giving a clear bullish or bearish view on AAPL.",
@@ -153,12 +189,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/AAPL",
       "post_url": "https://x.com/aleabitoreddit/status/2122628849657954454",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-16T23:52:45+00:00",
@@ -171,6 +207,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "작성자는 Apple이 CMXT/중국으로부터의 저렴한 메모리 공급을 중단하고 DRAM LTA를 위해 삼성에 접근했으며, AAPL에 대한 명확한 강세 또는 약세 전망을 제시하지 않았다고 보고합니다.",
       "price": {
         "latest_close": 352.78,
         "latest_date": "2026-11-16",
@@ -181,8 +218,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:46+00:00"
-      },
-      "summary_ko": "작성자는 Apple이 CMXT/중국으로부터의 저렴한 메모리 공급을 중단하고 DRAM LTA를 위해 삼성에 접근했으며, AAPL에 대한 명확한 강세 또는 약세 전망을 제시하지 않았다고 보고합니다."
+      }
     },
     {
       "ticker": "005930.KS",
@@ -194,12 +230,12 @@
       "detail_url": "https://serenitystock.com/stocks/KSC/005930.KS",
       "post_url": "https://x.com/aleabitoreddit/status/2122628849657954454",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-08T11:50:16+00:00",
@@ -217,6 +253,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작성자는 애플이 2027년 상반기부터 DRAM LTA를 위해 삼성전자에 접근했으며, 메모리 수요 전망이 긍정적이라고 밝혔습니다.",
       "price": {
         "latest_close": 190900.0,
         "latest_date": "2026-11-17",
@@ -227,8 +264,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:47+00:00"
-      },
-      "summary_ko": "작성자는 애플이 2027년 상반기부터 DRAM LTA를 위해 삼성전자에 접근했으며, 메모리 수요 전망이 긍정적이라고 밝혔습니다."
+      }
     },
     {
       "ticker": "SPCX",
@@ -240,12 +276,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
       "post_url": "https://x.com/aleabitoreddit/status/2122623882993795127",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -278,6 +314,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "작성자는 $SPCX의 패시브 인덱스 규칙 변경이 대규모 미국 IPO의 역학 관계에 영향을 미친다고 언급합니다.",
       "price": {
         "latest_close": 137.36,
         "latest_date": "2026-11-16",
@@ -288,8 +325,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-17T06:11:51+00:00"
-      },
-      "summary_ko": "작성자는 $SPCX의 패시브 인덱스 규칙 변경이 대규모 미국 IPO의 역학 관계에 영향을 미친다고 언급합니다."
+      }
     },
     {
       "ticker": "ANT",
@@ -301,12 +337,12 @@
       "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
       "post_url": "https://x.com/aleabitoreddit/status/2122623882993795127",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bearish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-10T23:46:34+00:00",
@@ -330,6 +366,127 @@
         }
       ],
       "summary_ko": "작성자는 Minimax의 IPO 차트와 관련하여 $ANT IPO에 투자하는 것을 언급합니다."
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "bullish",
+      "summary_en": "Post praises Jensen as best suited to lead Nvidia and America’s AI future, but the claim about his first public statement since leaving NVDA is contradictory and may be sarcastic.",
+      "mentions": 449,
+      "last_seen": "Nov 17, 2026, 08:39 PM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2122791681405997440",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-09T06:18:52+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T12:06:22+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T06:14:55+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-12T12:07:42+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-14T05:58:50+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-15T11:52:16+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-15T23:54:44+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T23:58:12+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 156.14,
+        "latest_date": "2026-11-16",
+        "first_close": 179.81,
+        "first_price_date": "2025-08-25",
+        "return_pct": -13.16,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-17T06:11:44+00:00"
+      },
+      "summary_ko": "포스트는 젠슨을 엔비디아와 미국의 AI 미래를 이끌기에 가장 적합한 인물로 칭송하지만, 그가 엔비디아를 떠난 이후 처음으로 한 공개 발언에 대한 주장은 모순적이며 비꼬는 듯한 느낌을 준다."
     },
     {
       "ticker": "GOOGL",
@@ -366,42 +523,6 @@
         "first_close": 179.53,
         "first_price_date": "2025-07-03",
         "return_pct": 58.03,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-17T06:11:41+00:00"
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "stance": "neutral",
-      "summary_en": "Author cites Amazon CEO Andy Jassy's estimate that 20% of AI tokens could go toward cybersecurity.",
-      "mentions": 183,
-      "last_seen": "Nov 17, 2026, 02:36 AM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
-      "post_url": "https://x.com/aleabitoreddit/status/2122519172664209692",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 아마존 CEO 앤디 재시(Andy Jassy)의 추정치를 인용하며 AI 토큰의 20%가 사이버 보안에 사용될 수 있다고 언급합니다.",
-      "price": {
-        "latest_close": 257.75,
-        "latest_date": "2026-11-16",
-        "first_close": 220.21,
-        "first_price_date": "2025-09-24",
-        "return_pct": 17.05,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -776,122 +897,6 @@
         "first_close": 4.76,
         "first_price_date": "2025-10-20",
         "return_pct": -68.7,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-17T06:11:44+00:00"
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "stance": "bearish",
-      "summary_en": "Author cites Jensen leaving $NVDA as a certainty that raises concerns over Nvidia's ecosystem.",
-      "mentions": 448,
-      "last_seen": "Nov 16, 2026, 08:37 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2122428876748206564",
-      "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-09T06:18:52+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T12:06:22+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-12T06:14:55+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-12T12:07:42+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-12T23:53:52+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bearish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-14T05:58:50+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-15T11:52:16+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-15T23:54:44+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "저자는 젠슨이 $NVDA를 떠나는 것을 엔비디아의 생태계에 대한 우려를 불러일으키는 확실한 일로 언급합니다.",
-      "price": {
-        "latest_close": 156.14,
-        "latest_date": "2026-11-16",
-        "first_close": 179.81,
-        "first_price_date": "2025-08-25",
-        "return_pct": -13.16,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23650,8 +23655,8 @@
     {
       "date": "2026-11-17",
       "stocks": 778,
-      "bullish": 194,
-      "bearish": 61,
+      "bullish": 195,
+      "bearish": 60,
       "neutral": 322,
       "unclear": 78,
       "watchlist": 92
