@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-18T12:09:29+00:00",
+  "last_successful_sync_utc": "2026-11-18T23:58:49+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -144,21 +144,540 @@
       }
     },
     {
-      "ticker": "AMZN",
+      "ticker": "GOOGL",
       "stance": "neutral",
-      "summary_en": "Mentioned as a hyperscaler opposing the Trump administration's plan to block Chinese AI data-center equipment imports.",
-      "mentions": 184,
-      "last_seen": "Nov 17, 2026, 11:59 AM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
-      "post_url": "https://x.com/aleabitoreddit/status/2122660925488718046",
+      "summary_en": "Author notes that Google released benchmarks for Gemini 4 Neon ahead of the ANT IPO.",
+      "mentions": 229,
+      "last_seen": "Nov 18, 2026, 09:54 PM",
+      "first_mention": "Jul 03, 2025, 09:57 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
+      "post_url": "https://x.com/aleabitoreddit/status/2123173088598938033",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0,
+      "mentions_delta": 2,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-05T23:52:53+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 280.2,
+        "latest_date": "2026-11-17",
+        "first_close": 179.53,
+        "first_price_date": "2025-07-03",
+        "return_pct": 56.07,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:08+00:00"
+      },
+      "summary_ko": "작가는 Google이 ANT IPO에 앞서 Gemini 4 Neon의 벤치마크를 공개했다고 언급합니다."
+    },
+    {
+      "ticker": "ANT",
+      "stance": "neutral",
+      "summary_en": "Author mentions an ANT IPO in the context of Google's Gemini 4 Neon benchmark release.",
+      "mentions": 8,
+      "last_seen": "Nov 18, 2026, 09:54 PM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2123173088598938033",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 2,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "작가는 Google의 Gemini 4 Neon 벤치마크 출시와 관련하여 ANT IPO를 언급합니다."
+    },
+    {
+      "ticker": "SNDK",
+      "stance": "bullish",
+      "summary_en": "Author believes Leopold's early SNDK idea was directionally right.",
+      "mentions": 155,
+      "last_seen": "Nov 18, 2026, 07:34 PM",
+      "first_mention": "Nov 14, 2025, 05:03 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
+      "post_url": "https://x.com/aleabitoreddit/status/2123137705597120613",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T06:11:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 797.24,
+        "latest_date": "2026-11-17",
+        "first_close": 254.16,
+        "first_price_date": "2025-11-14",
+        "return_pct": 213.68,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:09+00:00"
+      },
+      "summary_ko": "저자는 레오폴드의 초기 SNDK 아이디어가 방향성 측면에서 옳았다고 생각합니다."
+    },
+    {
+      "ticker": "BE",
+      "stance": "bullish",
+      "summary_en": "Author believes Leopold's early BE idea was directionally right.",
+      "mentions": 22,
+      "last_seen": "Nov 18, 2026, 07:34 PM",
+      "first_mention": "Oct 04, 2025, 01:22 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/BE",
+      "post_url": "https://x.com/aleabitoreddit/status/2123137705597120613",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-05T23:52:53+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-17T06:11:36+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 173.46,
+        "latest_date": "2026-11-17",
+        "first_close": 86.97,
+        "first_price_date": "2025-10-06",
+        "return_pct": 99.45,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:10+00:00"
+      },
+      "summary_ko": "저자는 레오폴드의 초기 BE 아이디어가 방향성 측면에서 옳았다고 생각합니다."
+    },
+    {
+      "ticker": "SOI.PA",
+      "stance": "bullish",
+      "summary_en": "Author is bullish on Soitec ($SOI), arguing Citi's earlier skepticism about Photonics-SOI growth was wrong after long-term customer capacity commitments rose from $25M to $1.2B in eight months.",
+      "mentions": 166,
+      "last_seen": "Nov 18, 2026, 06:51 PM",
+      "first_mention": "Mar 01, 2026, 08:37 PM",
+      "detail_url": "https://serenitystock.com/stocks/PAR/SOI.PA",
+      "post_url": "https://x.com/aleabitoreddit/status/2123126925908742463",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-15T23:54:44+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 99.4,
+        "latest_date": "2026-11-16",
+        "first_close": 43.06,
+        "first_price_date": "2026-03-02",
+        "return_pct": 130.84,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:12+00:00"
+      },
+      "summary_ko": "작성자는 Soitec($SOI)에 대해 낙관적인 입장을 취하며, 8개월 만에 장기 고객 용량 약정이 2,500만 달러에서 12억 달러로 증가한 후 Citi가 이전에 보였던 Photonics-SOI 성장세에 대한 회의적인 시각이 틀렸다고 주장합니다."
+    },
+    {
+      "ticker": "WULF",
+      "stance": "neutral",
+      "summary_en": "TeraWulf is listed with an Anthropic counterparty deal of ~$19B.",
+      "mentions": 86,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Sep 27, 2025, 07:11 PM",
+      "detail_url": "https://serenitystock.com/stocks/NCM/WULF",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 11.67,
+        "latest_date": "2026-11-17",
+        "first_close": 11.6,
+        "first_price_date": "2025-09-29",
+        "return_pct": 0.6,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:31+00:00"
+      },
+      "summary_ko": "TeraWulf는 Anthropic과의 거래 금액이 약 190억 달러로 등재되어 있습니다."
+    },
+    {
+      "ticker": "RIOT",
+      "stance": "neutral",
+      "summary_en": "Riot is listed with an Anthropic counterparty deal of ~$28B plus $9.1B.",
+      "mentions": 20,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Sep 28, 2025, 03:25 AM",
+      "detail_url": "https://serenitystock.com/stocks/NCM/RIOT",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 17.05,
+        "latest_date": "2026-11-17",
+        "first_close": 19.78,
+        "first_price_date": "2025-09-29",
+        "return_pct": -13.8,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:18:14+00:00"
+      },
+      "summary_ko": "Riot은 Anthropic과의 거래 금액이 약 $280억 + $91억으로 등재되어 있습니다."
+    },
+    {
+      "ticker": "MU",
+      "stance": "neutral",
+      "summary_en": "Micron is listed with an undisclosed supply agreement among Anthropic's identifiable counterparty deals.",
+      "mentions": 211,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Sep 25, 2025, 04:25 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MU",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "마이크론 (Micron)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 2,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 712.42,
+        "latest_date": "2026-11-17",
+        "first_close": 156.83,
+        "first_price_date": "2025-09-25",
+        "return_pct": 354.26,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:07+00:00"
+      },
+      "summary_ko": "마이크론은 Anthropic의 식별 가능한 상대방 거래 중 비공개 공급 계약을 체결한 것으로 등재되어 있습니다."
+    },
+    {
+      "ticker": "MSFT",
+      "stance": "neutral",
+      "summary_en": "Microsoft is listed with $47.2B-$49.2B in Anthropic purchase agreements.",
+      "mentions": 174,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Sep 27, 2025, 10:53 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MSFT",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 506.24,
+        "latest_date": "2026-11-17",
+        "first_close": 514.6,
+        "first_price_date": "2025-09-29",
+        "return_pct": -1.62,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:14+00:00"
+      },
+      "summary_ko": "Microsoft는 Anthropic 구매 계약에 472억~492억 달러로 등재되어 있습니다."
+    },
+    {
+      "ticker": "IREN",
+      "stance": "neutral",
+      "summary_en": "IREN is listed as a likely Anthropic counterparty with an undisclosed deal value.",
+      "mentions": 396,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Aug 31, 2025, 04:51 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T23:45:38+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T06:11:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 15.805,
+        "latest_date": "2026-11-17",
+        "first_close": 29.11,
+        "first_price_date": "2025-09-02",
+        "return_pct": -45.71,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:10+00:00"
+      },
+      "summary_ko": "IREN은 비공개 거래 가액으로 Anthropic의 유력한 거래 상대방으로 등재되어 있습니다."
+    },
+    {
+      "ticker": "CRWV",
+      "stance": "neutral",
+      "summary_en": "CoreWeave is listed with an undisclosed Anthropic counterparty deal.",
+      "mentions": 178,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Aug 23, 2025, 11:08 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 49.89,
+        "latest_date": "2026-11-17",
+        "first_close": 92.38,
+        "first_price_date": "2025-08-25",
+        "return_pct": -45.99,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:15+00:00"
+      },
+      "summary_ko": "CoreWeave는 비공개 Anthropic 거래 상대방 거래로 상장되어 있습니다."
+    },
+    {
+      "ticker": "AVGO",
+      "stance": "neutral",
+      "summary_en": "AVGO is listed with financing partners in $161.2B of Google TPU leases as part of Anthropic's eventual purchase agreements.",
+      "mentions": 118,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Sep 26, 2025, 03:49 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AVGO",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 341.6,
+        "latest_date": "2026-11-17",
+        "first_close": 334.53,
+        "first_price_date": "2025-09-26",
+        "return_pct": 2.11,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:13+00:00"
+      },
+      "summary_ko": "AVGO는 Anthropic의 최종 구매 계약의 일환으로 Google TPU 리스 1,612억 달러에 대한 자금 지원 파트너로 등재되어 있습니다."
+    },
+    {
+      "ticker": "AMZN",
+      "stance": "neutral",
+      "summary_en": "Amazon is listed with at least $110B in Anthropic purchase agreements.",
+      "mentions": 185,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -166,7 +685,6 @@
           "to": "neutral"
         }
       ],
-      "summary_ko": "중국 AI 데이터 센터 장비 수입을 차단하려는 트럼프 행정부의 계획에 반대하는 하이퍼스케일러로 언급되었습니다.",
       "price": {
         "latest_close": 257.89,
         "latest_date": "2026-11-17",
@@ -177,24 +695,96 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:06+00:00"
-      }
+      },
+      "summary_ko": "Amazon은 Anthropic과의 구매 계약에서 최소 1,100억 달러를 기록했습니다."
+    },
+    {
+      "ticker": "AMD",
+      "stance": "neutral",
+      "summary_en": "AMD is listed with over $20B potential if Anthropic takes the full initial tranche of Helios capacity.",
+      "mentions": 132,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMD",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T23:45:38+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 503.41,
+        "latest_date": "2026-11-17",
+        "first_close": 160.88,
+        "first_price_date": "2025-09-24",
+        "return_pct": 212.91,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:09+00:00"
+      },
+      "summary_ko": "Anthropic이 Helios 용량의 전체 초기 트랜치를 인수할 경우, AMD는 200억 달러 이상의 잠재력을 가진 것으로 평가됩니다."
+    },
+    {
+      "ticker": "AKAM",
+      "stance": "neutral",
+      "summary_en": "Akamai, written as 'Akami', is listed with ~$11.6B in Anthropic counterparty deals for CPU cloud.",
+      "mentions": 3,
+      "last_seen": "Nov 18, 2026, 06:08 PM",
+      "first_mention": "Jan 01, 2026, 12:50 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AKAM",
+      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 84.64,
+        "latest_date": "2026-11-17",
+        "first_close": 85.1,
+        "first_price_date": "2026-01-02",
+        "return_pct": -0.54,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:20:14+00:00"
+      },
+      "summary_ko": "'아카미'로 표기되는 아카마이는 CPU 클라우드 부문에서 Anthropic과의 거래액이 약 116억 달러에 달하는 것으로 나타났습니다."
     },
     {
       "ticker": "NVDA",
-      "stance": "bullish",
-      "summary_en": "Author reads NVIDIA's earnings as bullish: demand far exceeds supply, revenue growth guidance was raised, GPU rental pricing and utilization are strong, and CPO/networking progress points to industry acceleration.",
-      "mentions": 450,
-      "last_seen": "Nov 17, 2026, 11:34 PM",
+      "stance": "unclear",
+      "summary_en": "Author shares a Semafor report that a faction of NVDA's board wants Jensen Huang to return as CEO and hopes the market reaction after record earnings pressures the board.",
+      "mentions": 453,
+      "last_seen": "Nov 18, 2026, 05:04 PM",
       "first_mention": "Aug 25, 2025, 08:41 PM",
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2122835908596846950",
+      "post_url": "https://x.com/aleabitoreddit/status/2123100162616951229",
       "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
+      "previous_stance": "bullish",
+      "mentions_delta": 3,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -285,9 +875,13 @@
           "observed_at_utc": "2026-11-17T23:58:12+00:00",
           "from": "bearish",
           "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
         }
       ],
-      "summary_ko": "작성자는 NVIDIA의 실적을 낙관적으로 해석합니다. 수요가 공급을 훨씬 초과하고, 매출 성장 가이던스가 상향 조정되었으며, GPU 대여 가격과 활용도가 높고, CPO/네트워킹 분야의 진전이 업계의 가속화를 시사하기 때문입니다.",
       "price": {
         "latest_close": 155.46,
         "latest_date": "2026-11-17",
@@ -298,65 +892,178 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:06+00:00"
-      }
+      },
+      "summary_ko": "작성자는 Semafor의 보도를 공유하며, NVDA 이사회의 한 파벌이 젠슨 황(Jensen Huang)을 CEO로 복귀시키기를 원하고 있으며, 사상 최고 실적 발표 후 시장 반응이 이사회를 압박하기를 바라고 있다고 전합니다."
     },
     {
-      "ticker": "MU",
-      "stance": "bullish",
-      "summary_en": "Author frames the major Q/Q increase in multi-year memory supply procurement as good news for Micron longs.",
-      "mentions": 209,
-      "last_seen": "Nov 17, 2026, 11:34 PM",
-      "first_mention": "Sep 25, 2025, 04:25 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MU",
-      "post_url": "https://x.com/aleabitoreddit/status/2122835908596846950",
-      "company_name": "마이크론 (Micron)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
+      "ticker": "000660.KS",
+      "stance": "unclear",
+      "summary_en": "Author recalls NVDA's large memory procurement disclosure as having been good news for memory names like SK Hynix.",
+      "mentions": 125,
+      "last_seen": "Nov 18, 2026, 03:48 PM",
+      "first_mention": "Nov 04, 2025, 06:04 PM",
+      "detail_url": "https://serenitystock.com/stocks/KSC/000660.KS",
+      "post_url": "https://x.com/aleabitoreddit/status/2123080934362845437",
+      "company_name": "SK하이닉스",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
       "stance_history": [
         {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 1152000.0,
+        "latest_date": "2026-11-18",
+        "first_close": 586000.0,
+        "first_price_date": "2025-11-04",
+        "return_pct": 96.59,
+        "currency": "KRW",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:19+00:00"
+      },
+      "summary_ko": "작성자는 NVDA의 대규모 메모리 조달 공개가 SK하이닉스와 같은 메모리 기업에 호재였다고 회상합니다."
+    },
+    {
+      "ticker": "MRVL",
+      "stance": "neutral",
+      "summary_en": "Marvell is mentioned as one of the players moving into next-gen photonics via M&A.",
+      "mentions": 200,
+      "last_seen": "Nov 18, 2026, 02:53 PM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MRVL",
+      "post_url": "https://x.com/aleabitoreddit/status/2123067177905643769",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-10-30T11:52:23+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
           "from": "bullish",
           "to": "neutral"
         },
         {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-12T12:07:42+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
           "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 148.74,
+        "latest_date": "2026-11-17",
+        "first_close": 72.95,
+        "first_price_date": "2025-08-25",
+        "return_pct": 103.89,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:12+00:00"
+      },
+      "summary_ko": "마벨은 M&A를 통해 차세대 포토닉스로 전환하는 기업 중 하나로 언급됩니다."
+    },
+    {
+      "ticker": "COHR",
+      "stance": "bullish",
+      "summary_en": "Author highlights COHR receiving customer prepayments for capacity expansion as a favorable contrast on financing risk.",
+      "mentions": 224,
+      "last_seen": "Nov 18, 2026, 02:53 PM",
+      "first_mention": "Dec 01, 2025, 05:21 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
+      "post_url": "https://x.com/aleabitoreddit/status/2123067177905643769",
+      "company_name": "코히런트 (Coherent)",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
           "from": "neutral",
           "to": "bullish"
         }
       ],
-      "summary_ko": "작성자는 다년간의 메모리 공급 조달에서 전분기 대비 큰 폭의 증가를 마이크론 매수 포지션에 대한 호재로 평가합니다.",
       "price": {
-        "latest_close": 712.42,
+        "latest_close": 210.86,
         "latest_date": "2026-11-17",
-        "first_close": 156.83,
-        "first_price_date": "2025-09-25",
-        "return_pct": 354.26,
+        "first_close": 163.5,
+        "first_price_date": "2025-12-01",
+        "return_pct": 28.97,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:07+00:00"
-      }
+        "fetched_utc": "2026-11-18T06:17:13+00:00"
+      },
+      "summary_ko": "작성자는 COHR이 설비 증설을 위해 고객으로부터 선급금을 받는 것이 재무 위험에 있어 유리한 대조를 이룬다고 강조한다."
     },
     {
       "ticker": "AAOI",
       "stance": "bearish",
-      "summary_en": "Author says AAOI management lost credibility by launching another $550M ATM and serial dilution, though he still finds the CPO/transceiver operations compelling.",
-      "mentions": 411,
-      "last_seen": "Nov 17, 2026, 10:08 PM",
+      "summary_en": "Author cites AAOI dropping off a $550M financing as an example of financing risk in AI infrastructure.",
+      "mentions": 412,
+      "last_seen": "Nov 18, 2026, 02:53 PM",
       "first_mention": "Dec 11, 2025, 10:10 PM",
       "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
-      "post_url": "https://x.com/aleabitoreddit/status/2122814062329471182",
+      "post_url": "https://x.com/aleabitoreddit/status/2123067177905643769",
       "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
       "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0,
+      "mentions_delta": 1,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -384,7 +1091,6 @@
           "to": "bearish"
         }
       ],
-      "summary_ko": "작성자는 AAOI 경영진이 또 다른 5억 5천만 달러 규모의 ATM(자동화된 거래 메커니즘)과 연속적인 가치 희석을 시행함으로써 신뢰를 잃었다고 말하지만, 여전히 CPO/트랜시버 사업은 매력적이라고 평가합니다.",
       "price": {
         "latest_close": 45.22,
         "latest_date": "2026-11-17",
@@ -395,7 +1101,59 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:07+00:00"
-      }
+      },
+      "summary_ko": "저자는 AAOI가 5억 5천만 달러 규모의 자금 조달을 중단한 것을 AI 인프라의 자금 조달 위험 사례로 꼽습니다."
+    },
+    {
+      "ticker": "005930.KS",
+      "stance": "neutral",
+      "summary_en": "Samsung is mentioned as one of the players moving into next-gen photonics via M&A.",
+      "mentions": 51,
+      "last_seen": "Nov 18, 2026, 02:53 PM",
+      "first_mention": "Dec 05, 2025, 05:14 AM",
+      "detail_url": "https://serenitystock.com/stocks/KSC/005930.KS",
+      "post_url": "https://x.com/aleabitoreddit/status/2123067177905643769",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 193800.0,
+        "latest_date": "2026-11-18",
+        "first_close": 108400.0,
+        "first_price_date": "2025-12-05",
+        "return_pct": 78.78,
+        "currency": "KRW",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-18T06:17:08+00:00"
+      },
+      "summary_ko": "삼성은 M&A를 통해 차세대 포토닉스 분야로 진출하는 기업 중 하나로 언급됩니다."
     },
     {
       "ticker": "AAPL",
@@ -436,52 +1194,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:07+00:00"
-      }
-    },
-    {
-      "ticker": "005930.KS",
-      "stance": "bullish",
-      "summary_en": "Author says Apple approached Samsung Electronics for DRAM LTAs starting H1 2027 and calls the memory demand visibility positive.",
-      "mentions": 50,
-      "last_seen": "Nov 17, 2026, 09:52 AM",
-      "first_mention": "Dec 05, 2025, 05:14 AM",
-      "detail_url": "https://serenitystock.com/stocks/KSC/005930.KS",
-      "post_url": "https://x.com/aleabitoreddit/status/2122628849657954454",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-17T11:59:37+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "작성자는 애플이 2027년 상반기부터 DRAM LTA를 위해 삼성전자에 접근했으며, 메모리 수요 전망이 긍정적이라고 밝혔습니다.",
-      "price": {
-        "latest_close": 193800.0,
-        "latest_date": "2026-11-18",
-        "first_close": 108400.0,
-        "first_price_date": "2025-12-05",
-        "return_pct": 78.78,
-        "currency": "KRW",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:08+00:00"
       }
     },
     {
@@ -546,128 +1258,6 @@
       }
     },
     {
-      "ticker": "ANT",
-      "stance": "unclear",
-      "summary_en": "Author mentions investing in the $ANT IPO in the context of Minimax's IPO chart.",
-      "mentions": 6,
-      "last_seen": "Nov 17, 2026, 09:32 AM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2122623882993795127",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-11T23:56:52+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T11:59:37+00:00",
-          "from": "bearish",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "작성자는 Minimax의 IPO 차트와 관련하여 $ANT IPO에 투자하는 것을 언급합니다."
-    },
-    {
-      "ticker": "GOOGL",
-      "stance": "neutral",
-      "summary_en": "Author cites Google Threat Intelligence Group warning that fully autonomous vulnerability exploitation has arrived and notes Google's view that cyber defense must become autonomous using Gemini and other models.",
-      "mentions": 227,
-      "last_seen": "Nov 17, 2026, 02:36 AM",
-      "first_mention": "Jul 03, 2025, 09:57 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
-      "post_url": "https://x.com/aleabitoreddit/status/2122519172664209692",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-05T23:52:53+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "저자는 Google Threat Intelligence Group의 경고를 인용하여 완전 자율 취약점 공격이 현실화되었음을 언급하고, Gemini 및 기타 모델을 사용하여 사이버 방어가 자율화되어야 한다는 Google의 견해를 언급합니다.",
-      "price": {
-        "latest_close": 280.2,
-        "latest_date": "2026-11-17",
-        "first_close": 179.53,
-        "first_price_date": "2025-07-03",
-        "return_pct": 56.07,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:08+00:00"
-      }
-    },
-    {
-      "ticker": "AMD",
-      "stance": "neutral",
-      "summary_en": "Author cites AMD's MI450 boards using 632% more of a component as evidence of rising content per system amid tight MLCC supply, without giving a direct AMD stock stance.",
-      "mentions": 131,
-      "last_seen": "Nov 16, 2026, 12:31 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMD",
-      "post_url": "https://x.com/aleabitoreddit/status/2122306534772519308",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-08T23:45:38+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "작성자는 AMD의 MI450 보드가 632% 더 많은 부품을 사용한다는 점을 들어 MLCC 공급이 부족한 상황에서 시스템당 부품 수가 증가하고 있음을 증명하지만, AMD 주식에 대한 직접적인 입장은 밝히지 않습니다.",
-      "price": {
-        "latest_close": 503.41,
-        "latest_date": "2026-11-17",
-        "first_close": 160.88,
-        "first_price_date": "2025-09-24",
-        "return_pct": 212.91,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:09+00:00"
-      }
-    },
-    {
       "ticker": "009150.KS",
       "stance": "unclear",
       "summary_en": "Author names Samsung Electro-Mechanics as part of an MLCC supplier group being sold off despite very tight lead times, without a direct buy/sell call on the stock.",
@@ -698,52 +1288,6 @@
         "first_price_date": "2026-01-02",
         "return_pct": 199.44,
         "currency": "KRW",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:09+00:00"
-      }
-    },
-    {
-      "ticker": "SNDK",
-      "stance": "neutral",
-      "summary_en": "The post reports Leopold’s Situational Awareness 13F filing shows $182.7M in SNDK calls, with reported values as of September 30 and call values described as market value of underlying shares, not premiums.",
-      "mentions": 154,
-      "last_seen": "Nov 16, 2026, 10:22 PM",
-      "first_mention": "Nov 14, 2025, 05:03 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
-      "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T06:11:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "이 게시물은 Leopold의 Situational Awareness 13F 신고서에 SNDK 콜 옵션이 1억 8,270만 달러로 기재되어 있으며, 9월 30일 기준 보고된 가치와 콜 옵션 가치는 프리미엄이 아닌 기초 주식의 시장 가치로 기재되어 있다고 전합니다.",
-      "price": {
-        "latest_close": 797.24,
-        "latest_date": "2026-11-17",
-        "first_close": 254.16,
-        "first_price_date": "2025-11-14",
-        "return_pct": 213.68,
-        "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:09+00:00"
@@ -837,52 +1381,6 @@
       }
     },
     {
-      "ticker": "IREN",
-      "stance": "neutral",
-      "summary_en": "The post notes additional exposure to IREN plus Neoclouds/Colo players in Leopold’s 13F filing, without stating a specific personal stance on IREN.",
-      "mentions": 395,
-      "last_seen": "Nov 16, 2026, 10:22 PM",
-      "first_mention": "Aug 31, 2025, 04:51 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
-      "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-08T23:45:38+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T06:11:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "이 게시물은 IREN에 대한 구체적인 개인적 입장을 밝히지 않은 채, Leopold의 13F 신고서에 IREN과 Neoclouds/Colo 플레이어에 대한 추가적인 노출이 있음을 언급합니다.",
-      "price": {
-        "latest_close": 15.805,
-        "latest_date": "2026-11-17",
-        "first_close": 29.11,
-        "first_price_date": "2025-09-02",
-        "return_pct": -45.71,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:10+00:00"
-      }
-    },
-    {
       "ticker": "DRAM",
       "stance": "neutral",
       "summary_en": "The post reports Leopold’s Situational Awareness 13F filing shows $140.3M in DRAM ETF calls, with call values described as market value of underlying shares, not premiums.",
@@ -912,52 +1410,6 @@
         "first_close": 29.16,
         "first_price_date": "2026-04-06",
         "return_pct": 33.5,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:10+00:00"
-      }
-    },
-    {
-      "ticker": "BE",
-      "stance": "neutral",
-      "summary_en": "The post reports Leopold’s Situational Awareness 13F filing shows $389.2M in BE calls, with reported values as of September 30 and call values described as market value of underlying shares, not premiums.",
-      "mentions": 21,
-      "last_seen": "Nov 16, 2026, 10:22 PM",
-      "first_mention": "Oct 04, 2025, 01:22 AM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/BE",
-      "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-05T23:52:53+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-12T23:53:52+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-17T06:11:36+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "이 게시물은 Leopold의 Situational Awareness 13F 신고서에 BE 콜옵션이 3억 8,920만 달러로 기재되어 있으며, 9월 30일 기준 보고된 가치와 콜옵션 가치는 프리미엄이 아닌 기초 주식의 시장 가치로 기재되어 있다고 전합니다.",
-      "price": {
-        "latest_close": 173.46,
-        "latest_date": "2026-11-17",
-        "first_close": 86.97,
-        "first_price_date": "2025-10-06",
-        "return_pct": 99.45,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1188,103 +1640,6 @@
       }
     },
     {
-      "ticker": "SOI.PA",
-      "stance": "unclear",
-      "summary_en": "Author cites ~$400m FY2028 Photonics-SOI revenue forecast as an example of a cheap critical material that can trigger large economic impact for competitors lacking supply.",
-      "mentions": 165,
-      "last_seen": "Nov 15, 2026, 10:47 AM",
-      "first_mention": "Mar 01, 2026, 08:37 PM",
-      "detail_url": "https://serenitystock.com/stocks/PAR/SOI.PA",
-      "post_url": "https://x.com/aleabitoreddit/status/2121918080293196209",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-15T23:54:44+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "저자는 공급이 부족한 경쟁사에게 큰 경제적 영향을 미칠 수 있는 저렴한 핵심 소재의 예로 2028 회계연도 포토닉스-SOI 매출액 전망치인 약 4억 달러를 인용합니다.",
-      "price": {
-        "latest_close": 99.4,
-        "latest_date": "2026-11-16",
-        "first_close": 43.06,
-        "first_price_date": "2026-03-02",
-        "return_pct": 130.84,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:12+00:00"
-      }
-    },
-    {
-      "ticker": "MRVL",
-      "stance": "neutral",
-      "summary_en": "MRVL is mentioned only in the context of an acquisition announcement with LITE, with no direct sentiment expressed.",
-      "mentions": 199,
-      "last_seen": "Nov 13, 2026, 12:39 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MRVL",
-      "post_url": "https://x.com/aleabitoreddit/status/2121221289440665737",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-10-30T11:52:23+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-12T12:07:42+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "MRVL은 LITE와의 인수 발표와 관련하여 언급되었을 뿐, 직접적인 여론은 표현되지 않았습니다.",
-      "price": {
-        "latest_close": 148.74,
-        "latest_date": "2026-11-17",
-        "first_close": 72.95,
-        "first_price_date": "2025-08-25",
-        "return_pct": 103.89,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:12+00:00"
-      }
-    },
-    {
       "ticker": "MOD",
       "stance": "neutral",
       "summary_en": "Samsung Electronics is reportedly in talks to buy Modine, a supplier of thermal/cooling infrastructure for AI data centers.",
@@ -1318,47 +1673,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:12+00:00"
-      }
-    },
-    {
-      "ticker": "AVGO",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as a competitor in the author’s note that NVDA may struggle to maintain competitive advantages; no independent AVGO view is expressed.",
-      "mentions": 117,
-      "last_seen": "Nov 13, 2026, 11:27 AM",
-      "first_mention": "Sep 26, 2025, 03:49 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AVGO",
-      "post_url": "https://x.com/aleabitoreddit/status/2121203324167037436",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-11T23:56:52+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "NVDA가 경쟁 우위를 유지하는 데 어려움을 겪을 수 있다는 저자의 의견에 경쟁사로만 언급되었으며, AVGO에 대한 독립적인 견해는 제시되지 않았습니다.",
-      "price": {
-        "latest_close": 341.6,
-        "latest_date": "2026-11-17",
-        "first_close": 334.53,
-        "first_price_date": "2025-09-26",
-        "return_pct": 2.11,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:13+00:00"
       }
     },
     {
@@ -1426,62 +1740,6 @@
         "first_close": 760.66,
         "first_price_date": "2025-09-24",
         "return_pct": -18.64,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:13+00:00"
-      }
-    },
-    {
-      "ticker": "COHR",
-      "stance": "bullish",
-      "summary_en": "The author says suppliers like $COHR that supply everyone with long-term visibility are more isolated.",
-      "mentions": 223,
-      "last_seen": "Nov 13, 2026, 03:36 PM",
-      "first_mention": "Dec 01, 2025, 05:21 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
-      "post_url": "https://x.com/aleabitoreddit/status/2121265837000782035",
-      "company_name": "코히런트 (Coherent)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "작가는 $COHR과 같이 모든 고객에게 장기적인 가시성을 제공하는 공급업체는 더 고립되어 있다고 말합니다.",
-      "price": {
-        "latest_close": 210.86,
-        "latest_date": "2026-11-17",
-        "first_close": 163.5,
-        "first_price_date": "2025-12-01",
-        "return_pct": 28.97,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1561,47 +1819,6 @@
       }
     },
     {
-      "ticker": "MSFT",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as a capacity-delivery timing issue affecting Nebius's 2026 guidance; no view on Microsoft stock.",
-      "mentions": 173,
-      "last_seen": "Nov 12, 2026, 01:09 PM",
-      "first_mention": "Sep 27, 2025, 10:53 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MSFT",
-      "post_url": "https://x.com/aleabitoreddit/status/2120866647930187882",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-12T23:53:52+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "Nebius의 2026년 가이던스에 영향을 미치는 용량 제공 시기 문제로만 언급되었으며, Microsoft 주식에 대한 의견은 없습니다.",
-      "price": {
-        "latest_close": 506.24,
-        "latest_date": "2026-11-17",
-        "first_close": 514.6,
-        "first_price_date": "2025-09-29",
-        "return_pct": -1.62,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:14+00:00"
-      }
-    },
-    {
       "ticker": "IBM",
       "stance": "unclear",
       "summary_en": "Mentioned only as a post-training partner for Tavily; no investment view on IBM is expressed.",
@@ -1671,52 +1888,6 @@
         "first_close": 280.71,
         "first_price_date": "2025-09-24",
         "return_pct": 28.14,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:15+00:00"
-      }
-    },
-    {
-      "ticker": "CRWV",
-      "stance": "neutral",
-      "summary_en": "Author relays CRWV's statement that demand for compute is 10x greater than supply.",
-      "mentions": 177,
-      "last_seen": "Nov 11, 2026, 12:08 PM",
-      "first_mention": "Aug 23, 2025, 11:08 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
-      "post_url": "https://x.com/aleabitoreddit/status/2120488757334044945",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-11T12:04:38+00:00",
-          "from": "bearish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "작가는 컴퓨팅 수요가 공급보다 10배 더 크다는 CRWV의 주장을 전달합니다.",
-      "price": {
-        "latest_close": 49.89,
-        "latest_date": "2026-11-17",
-        "first_close": 92.38,
-        "first_price_date": "2025-08-25",
-        "return_pct": -45.99,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -2239,36 +2410,6 @@
         "first_price_date": "2026-02-09",
         "return_pct": -2.7,
         "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:19+00:00"
-      }
-    },
-    {
-      "ticker": "000660.KS",
-      "stance": "bullish",
-      "summary_en": "Post refers to $SKHY (SK Hynix) in AI-trade volatility; author cites South Korea's three-month waiver of 140% margin-loan collateral maintenance to reduce forced selling and calls such mechanics bullish for near-term equity stability.",
-      "mentions": 124,
-      "last_seen": "Nov 06, 2026, 12:33 PM",
-      "first_mention": "Nov 04, 2025, 06:04 PM",
-      "detail_url": "https://serenitystock.com/stocks/KSC/000660.KS",
-      "post_url": "https://x.com/aleabitoreddit/status/2118683089383874576",
-      "company_name": "SK하이닉스",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "POST는 AI 거래 변동성의 $ SKHY (SK 하이닉스) 를 나타냅니다. 저자는 강제 매도를 줄이기 위해 한국의 3개월간 140% 마진 대출 담보 유지 보수를 포기하고 그러한 메커니즘을 단기 지분 안정성을 위해 낙관적이라고 말합니다.",
-      "price": {
-        "latest_close": 1152000.0,
-        "latest_date": "2026-11-18",
-        "first_close": 586000.0,
-        "first_price_date": "2025-11-04",
-        "return_pct": 96.59,
-        "currency": "KRW",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:19+00:00"
@@ -3622,36 +3763,6 @@
         "first_close": 1.98,
         "first_price_date": "2025-10-10",
         "return_pct": -80.81,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:17:31+00:00"
-      }
-    },
-    {
-      "ticker": "WULF",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 85,
-      "first_mention": "Sep 27, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NCM/WULF",
-      "post_url": "",
-      "company_name": "TeraWulf Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 11.67,
-        "latest_date": "2026-11-17",
-        "first_close": 11.6,
-        "first_price_date": "2025-09-29",
-        "return_pct": 0.6,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -8507,36 +8618,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:18:13+00:00"
-      }
-    },
-    {
-      "ticker": "RIOT",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 19,
-      "first_mention": "Sep 28, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NCM/RIOT",
-      "post_url": "",
-      "company_name": "Riot Platforms, Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 17.05,
-        "latest_date": "2026-11-17",
-        "first_close": 19.78,
-        "first_price_date": "2025-09-29",
-        "return_pct": -13.8,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:18:14+00:00"
       }
     },
     {
@@ -22288,36 +22369,6 @@
       }
     },
     {
-      "ticker": "AKAM",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 2,
-      "first_mention": "Jan 01, 2026",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AKAM",
-      "post_url": "",
-      "company_name": "Akamai Technologies, Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 84.64,
-        "latest_date": "2026-11-17",
-        "first_close": 85.1,
-        "first_price_date": "2026-01-02",
-        "return_pct": -0.54,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-18T06:20:14+00:00"
-      }
-    },
-    {
       "ticker": "AIXG",
       "stance": "neutral",
       "summary_en": "",
@@ -23669,10 +23720,10 @@
     {
       "date": "2026-11-18",
       "stocks": 778,
-      "bullish": 195,
+      "bullish": 194,
       "bearish": 61,
-      "neutral": 322,
-      "unclear": 77,
+      "neutral": 325,
+      "unclear": 75,
       "watchlist": 92
     }
   ]
