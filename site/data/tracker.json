@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-18T06:17:01+00:00",
+  "last_successful_sync_utc": "2026-11-18T12:09:29+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -190,11 +190,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2122835908596846950",
       "company_name": "엔비디아 (NVIDIA)",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -287,6 +287,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작성자는 NVIDIA의 실적을 낙관적으로 해석합니다. 수요가 공급을 훨씬 초과하고, 매출 성장 가이던스가 상향 조정되었으며, GPU 대여 가격과 활용도가 높고, CPO/네트워킹 분야의 진전이 업계의 가속화를 시사하기 때문입니다.",
       "price": {
         "latest_close": 155.46,
         "latest_date": "2026-11-17",
@@ -297,8 +298,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:06+00:00"
-      },
-      "summary_ko": "작성자는 NVIDIA의 실적을 낙관적으로 해석합니다. 수요가 공급을 훨씬 초과하고, 매출 성장 가이던스가 상향 조정되었으며, GPU 대여 가격과 활용도가 높고, CPO/네트워킹 분야의 진전이 업계의 가속화를 시사하기 때문입니다."
+      }
     },
     {
       "ticker": "MU",
@@ -311,11 +311,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2122835908596846950",
       "company_name": "마이크론 (Micron)",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-04T23:51:55+00:00",
@@ -328,6 +328,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작성자는 다년간의 메모리 공급 조달에서 전분기 대비 큰 폭의 증가를 마이크론 매수 포지션에 대한 호재로 평가합니다.",
       "price": {
         "latest_close": 712.42,
         "latest_date": "2026-11-17",
@@ -338,8 +339,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:07+00:00"
-      },
-      "summary_ko": "작성자는 다년간의 메모리 공급 조달에서 전분기 대비 큰 폭의 증가를 마이크론 매수 포지션에 대한 호재로 평가합니다."
+      }
     },
     {
       "ticker": "AAOI",
@@ -351,12 +351,12 @@
       "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
       "post_url": "https://x.com/aleabitoreddit/status/2122814062329471182",
       "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -384,6 +384,7 @@
           "to": "bearish"
         }
       ],
+      "summary_ko": "작성자는 AAOI 경영진이 또 다른 5억 5천만 달러 규모의 ATM(자동화된 거래 메커니즘)과 연속적인 가치 희석을 시행함으로써 신뢰를 잃었다고 말하지만, 여전히 CPO/트랜시버 사업은 매력적이라고 평가합니다.",
       "price": {
         "latest_close": 45.22,
         "latest_date": "2026-11-17",
@@ -394,8 +395,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-18T06:17:07+00:00"
-      },
-      "summary_ko": "작성자는 AAOI 경영진이 또 다른 5억 5천만 달러 규모의 ATM(자동화된 거래 메커니즘)과 연속적인 가치 희석을 시행함으로써 신뢰를 잃었다고 말하지만, 여전히 CPO/트랜시버 사업은 매력적이라고 평가합니다."
+      }
     },
     {
       "ticker": "AAPL",
