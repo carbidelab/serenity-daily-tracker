@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-19T12:10:28+00:00",
+  "last_successful_sync_utc": "2026-11-19T23:54:50+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -154,11 +154,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2123335230870392843",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-15T23:54:44+00:00",
@@ -171,6 +171,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작성자는 포토닉스-SOI 매출 증가, 12억 달러 규모의 계약, 그리고 회사의 전환점으로 작용하는 광학/코패키지드 광학을 근거로 Soitec($SOI)에 대해 낙관적인 전망을 제시합니다.",
       "price": {
         "latest_close": 95.94,
         "latest_date": "2026-11-17",
@@ -181,8 +182,170 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-19T06:13:35+00:00"
+      }
+    },
+    {
+      "ticker": "META",
+      "stance": "neutral",
+      "summary_en": "Author compares $META's valuation with $ANT, saying $ANT is worth hundreds of billions more.",
+      "mentions": 242,
+      "last_seen": "Nov 19, 2026, 06:47 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/META",
+      "post_url": "https://x.com/aleabitoreddit/status/2123488317425820130",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-19T23:54:50+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 616.38,
+        "latest_date": "2026-11-18",
+        "first_close": 760.66,
+        "first_price_date": "2025-09-24",
+        "return_pct": -18.97,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-19T06:13:44+00:00"
       },
-      "summary_ko": "작성자는 포토닉스-SOI 매출 증가, 12억 달러 규모의 계약, 그리고 회사의 전환점으로 작용하는 광학/코패키지드 광학을 근거로 Soitec($SOI)에 대해 낙관적인 전망을 제시합니다."
+      "summary_ko": "작성자는 $META의 가치 평가를 $ANT와 비교하며 $ANT의 가치가 수천억 달러 더 높다고 말합니다."
+    },
+    {
+      "ticker": "ANT",
+      "stance": "unclear",
+      "summary_en": "Author notes $ANT's $1.74T valuation and rhetorically asks whether anyone ended up investing.",
+      "mentions": 9,
+      "last_seen": "Nov 19, 2026, 06:47 PM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2123488317425820130",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-19T23:54:50+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 97.17,
+        "latest_date": "2026-11-19",
+        "first_close": 97.17,
+        "first_price_date": "2026-11-19",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-19T23:54:54+00:00"
+      },
+      "summary_ko": "작성자는 $ANT의 기업 가치가 1.74조 달러에 달한다는 점을 언급하며, 결국 투자한 사람이 있는지 수사적으로 질문합니다."
+    },
+    {
+      "ticker": "COHR",
+      "stance": "bullish",
+      "summary_en": "Author is bullish on Coherent, citing its new $2B buyback as a confidence signal and saying its valuation looks low after recent $20B LTAs, within an undervalued optical industry.",
+      "mentions": 225,
+      "last_seen": "Nov 19, 2026, 01:02 PM",
+      "first_mention": "Dec 01, 2025, 05:21 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
+      "post_url": "https://x.com/aleabitoreddit/status/2123401652782923980",
+      "company_name": "코히런트 (Coherent)",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 212.84,
+        "latest_date": "2026-11-18",
+        "first_close": 163.5,
+        "first_price_date": "2025-12-01",
+        "return_pct": 30.18,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-19T06:13:39+00:00"
+      },
+      "summary_ko": "작성자는 Coherent에 대해 낙관적인 전망을 내놓으며, 최근 200억 달러 규모의 장기 계약(LTA) 이후 저평가된 광학 산업 내에서 Coherent의 기업 가치가 낮아 보이는 점과 20억 달러 규모의 신규 자사주 매입을 자신감의 신호로 꼽았습니다."
     },
     {
       "ticker": "GOOGL",
@@ -212,6 +375,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "작성자는 $GOOGL이 IPO에 앞서 Gemini 4 Neon의 벤치마크를 공개했다고 전합니다.",
       "price": {
         "latest_close": 282.44,
         "latest_date": "2026-11-18",
@@ -222,53 +386,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-19T06:13:34+00:00"
-      },
-      "summary_ko": "작성자는 $GOOGL이 IPO에 앞서 Gemini 4 Neon의 벤치마크를 공개했다고 전합니다."
-    },
-    {
-      "ticker": "ANT",
-      "stance": "neutral",
-      "summary_en": "The post only mentions $ANT in the context of an upcoming IPO.",
-      "mentions": 8,
-      "last_seen": "Nov 18, 2026, 09:54 PM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2123173088598938033",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-11T23:56:52+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T11:59:37+00:00",
-          "from": "bearish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "이 게시물은 곧 있을 IPO와 관련하여 $ANT를 언급할 뿐입니다."
+      }
     },
     {
       "ticker": "SNDK",
@@ -993,62 +1111,6 @@
       }
     },
     {
-      "ticker": "COHR",
-      "stance": "bullish",
-      "summary_en": "Author highlights COHR receiving customer prepayments for capacity expansion as a favorable contrast on financing risk.",
-      "mentions": 224,
-      "last_seen": "Nov 18, 2026, 02:53 PM",
-      "first_mention": "Dec 01, 2025, 05:21 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
-      "post_url": "https://x.com/aleabitoreddit/status/2123067177905643769",
-      "company_name": "코히런트 (Coherent)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "작성자는 COHR이 설비 증설을 위해 고객으로부터 선급금을 받는 것이 재무 위험에 있어 유리한 대조를 이룬다고 강조한다.",
-      "price": {
-        "latest_close": 212.84,
-        "latest_date": "2026-11-18",
-        "first_close": 163.5,
-        "first_price_date": "2025-12-01",
-        "return_pct": 30.18,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-19T06:13:39+00:00"
-      }
-    },
-    {
       "ticker": "AAOI",
       "stance": "bearish",
       "summary_en": "Author cites AAOI dropping off a $550M financing as an example of financing risk in AI infrastructure.",
@@ -1703,47 +1765,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-19T06:13:43+00:00"
-      }
-    },
-    {
-      "ticker": "META",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as an example of politicians' ignorance, questioning how META makes money.",
-      "mentions": 241,
-      "last_seen": "Nov 13, 2026, 05:53 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/META",
-      "post_url": "https://x.com/aleabitoreddit/status/2121300436011590104",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "정치인들의 무지를 보여주는 예시로만 언급되었으며, META가 어떻게 수익을 창출하는지에 대한 의문을 제기했습니다.",
-      "price": {
-        "latest_close": 616.38,
-        "latest_date": "2026-11-18",
-        "first_close": 760.66,
-        "first_price_date": "2025-09-24",
-        "return_pct": -18.97,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-19T06:13:44+00:00"
       }
     },
     {
