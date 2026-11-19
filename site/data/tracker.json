@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-19T06:13:29+00:00",
+  "last_successful_sync_utc": "2026-11-19T12:10:28+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -144,9 +144,50 @@
       }
     },
     {
+      "ticker": "SOI.PA",
+      "stance": "bullish",
+      "summary_en": "Author is bullish on Soitec ($SOI), citing accelerating photonics-SOI revenue, $1.2B in agreements, and optical/co-packaged optics as an inflection for the company.",
+      "mentions": 167,
+      "last_seen": "Nov 19, 2026, 08:39 AM",
+      "first_mention": "Mar 01, 2026, 08:37 PM",
+      "detail_url": "https://serenitystock.com/stocks/PAR/SOI.PA",
+      "post_url": "https://x.com/aleabitoreddit/status/2123335230870392843",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-15T23:54:44+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 95.94,
+        "latest_date": "2026-11-17",
+        "first_close": 43.06,
+        "first_price_date": "2026-03-02",
+        "return_pct": 122.81,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-19T06:13:35+00:00"
+      },
+      "summary_ko": "작성자는 포토닉스-SOI 매출 증가, 12억 달러 규모의 계약, 그리고 회사의 전환점으로 작용하는 광학/코패키지드 광학을 근거로 Soitec($SOI)에 대해 낙관적인 전망을 제시합니다."
+    },
+    {
       "ticker": "GOOGL",
       "stance": "neutral",
-      "summary_en": "Author notes that Google released benchmarks for Gemini 4 Neon ahead of the ANT IPO.",
+      "summary_en": "The author reports that $GOOGL released benchmarks for Gemini 4 Neon, with the timing noted ahead of an IPO.",
       "mentions": 229,
       "last_seen": "Nov 18, 2026, 09:54 PM",
       "first_mention": "Jul 03, 2025, 09:57 AM",
@@ -171,7 +212,6 @@
           "to": "neutral"
         }
       ],
-      "summary_ko": "작가는 Google이 ANT IPO에 앞서 Gemini 4 Neon의 벤치마크를 공개했다고 언급합니다.",
       "price": {
         "latest_close": 282.44,
         "latest_date": "2026-11-18",
@@ -182,12 +222,13 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-19T06:13:34+00:00"
-      }
+      },
+      "summary_ko": "작성자는 $GOOGL이 IPO에 앞서 Gemini 4 Neon의 벤치마크를 공개했다고 전합니다."
     },
     {
       "ticker": "ANT",
       "stance": "neutral",
-      "summary_en": "Author mentions an ANT IPO in the context of Google's Gemini 4 Neon benchmark release.",
+      "summary_en": "The post only mentions $ANT in the context of an upcoming IPO.",
       "mentions": 8,
       "last_seen": "Nov 18, 2026, 09:54 PM",
       "first_mention": "Oct 26, 2026, 04:14 PM",
@@ -227,7 +268,7 @@
           "to": "neutral"
         }
       ],
-      "summary_ko": "작가는 Google의 Gemini 4 Neon 벤치마크 출시와 관련하여 ANT IPO를 언급합니다."
+      "summary_ko": "이 게시물은 곧 있을 IPO와 관련하여 $ANT를 언급할 뿐입니다."
     },
     {
       "ticker": "SNDK",
@@ -325,47 +366,6 @@
         "first_close": 86.97,
         "first_price_date": "2025-10-06",
         "return_pct": 96.6,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-19T06:13:35+00:00"
-      }
-    },
-    {
-      "ticker": "SOI.PA",
-      "stance": "bullish",
-      "summary_en": "Author is bullish on Soitec ($SOI), arguing Citi's earlier skepticism about Photonics-SOI growth was wrong after long-term customer capacity commitments rose from $25M to $1.2B in eight months.",
-      "mentions": 166,
-      "last_seen": "Nov 18, 2026, 06:51 PM",
-      "first_mention": "Mar 01, 2026, 08:37 PM",
-      "detail_url": "https://serenitystock.com/stocks/PAR/SOI.PA",
-      "post_url": "https://x.com/aleabitoreddit/status/2123126925908742463",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-15T23:54:44+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "작성자는 Soitec($SOI)에 대해 낙관적인 입장을 취하며, 8개월 만에 장기 고객 용량 약정이 2,500만 달러에서 12억 달러로 증가한 후 Citi가 이전에 보였던 Photonics-SOI 성장세에 대한 회의적인 시각이 틀렸다고 주장합니다.",
-      "price": {
-        "latest_close": 95.94,
-        "latest_date": "2026-11-17",
-        "first_close": 43.06,
-        "first_price_date": "2026-03-02",
-        "return_pct": 122.81,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
