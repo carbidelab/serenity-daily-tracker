@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-20T12:08:26+00:00",
+  "last_successful_sync_utc": "2026-11-20T23:57:18+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -144,14 +144,247 @@
       }
     },
     {
-      "ticker": "SNDK",
-      "stance": "bullish",
-      "summary_en": "Author argues the SNDK selloff reflects a market misread of Chinese eSSD cuts, viewing the order cuts as deferred procurement from GPU shortages rather than structural demand weakening.",
-      "mentions": 156,
-      "last_seen": "Nov 20, 2026, 04:23 AM",
-      "first_mention": "Nov 14, 2025, 05:03 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
-      "post_url": "https://x.com/aleabitoreddit/status/2123633356969775107",
+      "ticker": "P",
+      "stance": "neutral",
+      "summary_en": "Author says $P earnings were interesting, especially Everpure CEO comments on on-prem AI factories and NAND demand, but not actionable for investment.",
+      "mentions": 3,
+      "last_seen": "Nov 20, 2026, 12:56 PM",
+      "first_mention": "Feb 15, 2026, 07:02 AM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/P",
+      "post_url": "https://x.com/aleabitoreddit/status/2123762482280055255",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-20T23:57:18+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 100.74,
+        "latest_date": "2026-11-18",
+        "first_close": 72.69,
+        "first_price_date": "2026-02-17",
+        "return_pct": 38.59,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:18:41+00:00"
+      },
+      "summary_ko": "작성자는 $P의 실적이 흥미로웠으며, 특히 에버퓨어(Everpure) CEO의 온프레미스 AI 팩토리 및 NAND 수요에 대한 언급이 흥미로웠지만, 투자에 실질적인 도움이 되지는 않는다고 말합니다."
+    },
+    {
+      "ticker": "ANT",
+      "stance": "bearish",
+      "summary_en": "Author says a broad shift to open weight models and on-prem AI factories would be heavily bearish for $ANT as a frontier lab over the long term.",
+      "mentions": 11,
+      "last_seen": "Nov 20, 2026, 12:56 PM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2123762482280055255",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-19T23:54:50+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-20T23:57:18+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        }
+      ],
+      "price": {
+        "latest_close": 97.17,
+        "latest_date": "2026-11-19",
+        "first_close": 97.17,
+        "first_price_date": "2026-11-19",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:17:14+00:00"
+      },
+      "summary_ko": "작성자는 장기적으로 프론티어 랩으로서 $ANT에 대해 오픈 웨이트 모델과 온프레미스 AI 팩토리로의 광범위한 전환이 크게 하락할 것이라고 말합니다."
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "bearish",
+      "summary_en": "Author highlights NVDA dropping over 12% on a report that the SEC is probing potential accounting issues, calling the $5T+ company's crash wild and noting collateral damage.",
+      "mentions": 456,
+      "last_seen": "Nov 20, 2026, 08:39 PM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2123878986686333308",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 2,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-09T06:18:52+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T12:06:22+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T06:14:55+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-12T12:07:42+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-14T05:58:50+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-15T11:52:16+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-15T23:54:44+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T23:58:12+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-20T06:17:05+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        }
+      ],
+      "price": {
+        "latest_close": 145.98,
+        "latest_date": "2026-11-19",
+        "first_close": 179.81,
+        "first_price_date": "2025-08-25",
+        "return_pct": -18.81,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:17:14+00:00"
+      },
+      "summary_ko": "작성자는 SEC가 잠재적인 회계 문제를 조사하고 있다는 보고에 따라 NVDA가 12% 이상 하락한 것을 강조하며, 시가총액 5조 달러 이상의 이 기업의 주가 폭락을 '격렬한' 것으로 표현하고 부수적인 피해를 언급합니다."
+    },
+    {
+      "ticker": "SPCX",
+      "stance": "unclear",
+      "summary_en": "The author cites prior coverage of PCB bottlenecks affecting $SPCX Starlink supply chains.",
+      "mentions": 46,
+      "last_seen": "Nov 20, 2026, 06:50 PM",
+      "first_mention": "Dec 09, 2025, 10:48 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
+      "post_url": "https://x.com/aleabitoreddit/status/2123851594811011470",
       "company_name": "",
       "stance_changed": false,
       "new_mention_since_previous": true,
@@ -159,76 +392,6 @@
       "new_since_previous": false,
       "previous_stance": null,
       "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T06:11:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "price": {
-        "latest_close": 94.395,
-        "latest_date": "2026-11-19",
-        "first_close": 31.77,
-        "first_price_date": "2025-11-14",
-        "return_pct": 197.12,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:17:15+00:00"
-      },
-      "summary_ko": "작가는 SNDK 매도가 중국 eSSD 감축을 시장이 잘못 해석한 것을 반영한다고 주장하며, 주문 감축을 구조적 수요 약화가 아닌 GPU 부족으로 인한 조달 지연으로 보고 있습니다."
-    },
-    {
-      "ticker": "ESMT",
-      "stance": "bullish",
-      "summary_en": "Author is impressed by ESMT's valuation, emphasizing its low adjusted EV versus roughly $300M quarterly net income and strong cash generation.",
-      "mentions": 15,
-      "last_seen": "Nov 20, 2026, 02:03 AM",
-      "first_mention": "Aug 29, 2026, 09:20 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
-      "post_url": "https://x.com/aleabitoreddit/status/2123598186065559858",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "작성자는 ESMT의 가치 평가에 깊은 인상을 받았으며, 약 3억 달러의 분기 순이익 및 강력한 현금 창출력에 비해 조정된 기업 가치(EV)가 낮다는 점을 강조합니다."
-    },
-    {
-      "ticker": "SPCX",
-      "stance": "unclear",
-      "summary_en": "Cited Elon Musk's SPCX and its Mesh acquisition as an example of optics industry activity.",
-      "mentions": 45,
-      "last_seen": "Nov 20, 2026, 01:26 AM",
-      "first_mention": "Dec 09, 2025, 10:48 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
-      "post_url": "https://x.com/aleabitoreddit/status/2123588783753048553",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -266,7 +429,6 @@
           "to": "unclear"
         }
       ],
-      "summary_ko": "일론 머스크의 SPCX와 Mesh 인수를 광학 산업 활동의 한 예로 들었습니다.",
       "price": {
         "latest_close": 143.5,
         "latest_date": "2026-11-18",
@@ -277,7 +439,287 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:12+00:00"
+      },
+      "summary_ko": "작성자는 $SPCX Starlink 공급망에 영향을 미치는 PCB 병목 현상에 대한 이전 보도를 인용합니다."
+    },
+    {
+      "ticker": "AMZN",
+      "stance": "neutral",
+      "summary_en": "The author notes Amazon planned ahead by taking stakes in Gold Circuit Electronics to secure PCB supply amid industry-wide shortages.",
+      "mentions": 186,
+      "last_seen": "Nov 20, 2026, 06:50 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
+      "post_url": "https://x.com/aleabitoreddit/status/2123851594811011470",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 257.37,
+        "latest_date": "2026-11-19",
+        "first_close": 220.21,
+        "first_price_date": "2025-09-24",
+        "return_pct": 16.87,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:17:18+00:00"
+      },
+      "summary_ko": "작성자는 업계 전반의 부족 사태 속에서 PCB 공급을 확보하기 위해 Amazon이 미리 Gold Circuit Electronics의 지분을 인수할 계획을 세웠다고 언급합니다."
+    },
+    {
+      "ticker": "CRWV",
+      "stance": "unclear",
+      "summary_en": "The author juxtaposes political proposals to ban new datacenters with a question about CRWV, without stating a clear directional view on the stock.",
+      "mentions": 179,
+      "last_seen": "Nov 20, 2026, 06:10 PM",
+      "first_mention": "Aug 23, 2025, 11:08 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
+      "post_url": "https://x.com/aleabitoreddit/status/2123841418577973727",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "neutral",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-20T23:57:18+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 47.83,
+        "latest_date": "2026-11-18",
+        "first_close": 92.38,
+        "first_price_date": "2025-08-25",
+        "return_pct": -48.22,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:17:17+00:00"
+      },
+      "summary_ko": "작가는 새로운 데이터센터를 금지하려는 정치적 제안과 CRWV에 대한 의문을 나란히 제시하면서도 해당 주식에 대한 명확한 방향성 있는 견해를 밝히지 않습니다."
+    },
+    {
+      "ticker": "SNDK",
+      "stance": "bullish",
+      "summary_en": "Author argues the SNDK selloff reflects a market misread of Chinese eSSD cuts, viewing the order cuts as deferred procurement from GPU shortages rather than structural demand weakening.",
+      "mentions": 156,
+      "last_seen": "Nov 20, 2026, 04:23 AM",
+      "first_mention": "Nov 14, 2025, 05:03 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
+      "post_url": "https://x.com/aleabitoreddit/status/2123633356969775107",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T06:11:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "summary_ko": "작가는 SNDK 매도가 중국 eSSD 감축을 시장이 잘못 해석한 것을 반영한다고 주장하며, 주문 감축을 구조적 수요 약화가 아닌 GPU 부족으로 인한 조달 지연으로 보고 있습니다.",
+      "price": {
+        "latest_close": 94.395,
+        "latest_date": "2026-11-19",
+        "first_close": 31.77,
+        "first_price_date": "2025-11-14",
+        "return_pct": 197.12,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:17:15+00:00"
       }
+    },
+    {
+      "ticker": "WMT",
+      "stance": "bearish",
+      "summary_en": "Sarcastically questions whether Walmart, a 'towel reseller,' deserves the premium given to AI/rocket companies amid bubble-like consumer staples valuations.",
+      "mentions": 12,
+      "last_seen": "Nov 20, 2026, 03:48 PM",
+      "first_mention": "Nov 19, 2025, 12:09 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/WMT",
+      "post_url": "https://x.com/aleabitoreddit/status/2123805601411277149",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 126.04,
+        "latest_date": "2026-11-19",
+        "first_close": 100.61,
+        "first_price_date": "2025-11-19",
+        "return_pct": 25.28,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:17:41+00:00"
+      },
+      "summary_ko": "필수 소비재의 거품 같은 가치 평가 속에서 '수건 리셀러'인 월마트가 AI/우주항공 기업에 주어지는 프리미엄을 받을 자격이 있는지 비꼬는 듯한 질문을 던집니다."
+    },
+    {
+      "ticker": "NBIS",
+      "stance": "bearish",
+      "summary_en": "Notes that NBIS, alongside other non-AI growth equities, has fallen sharply.",
+      "mentions": 721,
+      "last_seen": "Nov 20, 2026, 03:48 PM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2123805601411277149",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T23:49:20+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-20T23:57:18+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        }
+      ],
+      "price": {
+        "latest_close": 106.96,
+        "latest_date": "2026-11-18",
+        "first_close": 52.37,
+        "first_price_date": "2025-07-21",
+        "return_pct": 104.24,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:17:20+00:00"
+      },
+      "summary_ko": "NBIS는 다른 비 AI 성장주와 함께 급락했습니다."
+    },
+    {
+      "ticker": "HOOD",
+      "stance": "bearish",
+      "summary_en": "Notes that HOOD, as part of non-AI growth equities, has fallen sharply.",
+      "mentions": 138,
+      "last_seen": "Nov 20, 2026, 03:48 PM",
+      "first_mention": "Jul 02, 2025, 05:28 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/HOOD",
+      "post_url": "https://x.com/aleabitoreddit/status/2123805601411277149",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-20T23:57:18+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        }
+      ],
+      "price": {
+        "latest_close": 69.17,
+        "latest_date": "2026-11-18",
+        "first_close": 97.98,
+        "first_price_date": "2025-07-02",
+        "return_pct": -29.4,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:17:34+00:00"
+      },
+      "summary_ko": "비 AI 성장주 중 하나인 HOOD가 급락했음을 주목합니다."
+    },
+    {
+      "ticker": "ESMT",
+      "stance": "bullish",
+      "summary_en": "Author is impressed by ESMT's valuation, emphasizing its low adjusted EV versus roughly $300M quarterly net income and strong cash generation.",
+      "mentions": 15,
+      "last_seen": "Nov 20, 2026, 02:03 AM",
+      "first_mention": "Aug 29, 2026, 09:20 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ESMT",
+      "post_url": "https://x.com/aleabitoreddit/status/2123598186065559858",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [],
+      "summary_ko": "작성자는 ESMT의 가치 평가에 깊은 인상을 받았으며, 약 3억 달러의 분기 순이익 및 강력한 현금 창출력에 비해 조정된 기업 가치(EV)가 낮다는 점을 강조합니다."
     },
     {
       "ticker": "SOI.PA",
@@ -610,198 +1052,6 @@
         "first_price_date": "2025-11-04",
         "return_pct": 87.88,
         "currency": "KRW",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:17:14+00:00"
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "stance": "bearish",
-      "summary_en": "Author argues NVDA could face senior talent departures and loss of confidence in future growth because Jensen Huang was seen as the core moat and key architectural decision-maker.",
-      "mentions": 454,
-      "last_seen": "Nov 19, 2026, 11:55 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2123565807653552458",
-      "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-09T06:18:52+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T12:06:22+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-12T06:14:55+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-12T12:07:42+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-12T23:53:52+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bearish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-14T05:58:50+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-15T11:52:16+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-15T23:54:44+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T23:58:12+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-20T06:17:05+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "저자는 젠슨 황이 핵심 경쟁력과 주요 아키텍처 의사 결정자로 여겨졌기 때문에 NVDA가 고위 인재의 이탈과 향후 성장 동력에 대한 신뢰 상실에 직면할 수 있다고 주장합니다.",
-      "price": {
-        "latest_close": 145.98,
-        "latest_date": "2026-11-19",
-        "first_close": 179.81,
-        "first_price_date": "2025-08-25",
-        "return_pct": -18.81,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:17:14+00:00"
-      }
-    },
-    {
-      "ticker": "ANT",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as a competitor in AI agent offerings that Apple is developing.",
-      "mentions": 10,
-      "last_seen": "Nov 19, 2026, 10:28 PM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2123543880780132572",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-11T23:56:52+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T11:59:37+00:00",
-          "from": "bearish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-19T23:54:50+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "Apple이 개발 중인 AI 에이전트 제품에서 경쟁사로만 언급되었습니다.",
-      "price": {
-        "latest_close": 97.17,
-        "latest_date": "2026-11-19",
-        "first_close": 97.17,
-        "first_price_date": "2026-11-19",
-        "return_pct": 0.0,
-        "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:14+00:00"
@@ -1185,52 +1435,6 @@
       }
     },
     {
-      "ticker": "CRWV",
-      "stance": "neutral",
-      "summary_en": "CoreWeave is listed with an undisclosed Anthropic counterparty deal.",
-      "mentions": 178,
-      "last_seen": "Nov 18, 2026, 06:08 PM",
-      "first_mention": "Aug 23, 2025, 11:08 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
-      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-11T12:04:38+00:00",
-          "from": "bearish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "CoreWeave는 비공개 Anthropic 거래 상대방 거래로 상장되어 있습니다.",
-      "price": {
-        "latest_close": 47.83,
-        "latest_date": "2026-11-18",
-        "first_close": 92.38,
-        "first_price_date": "2025-08-25",
-        "return_pct": -48.22,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:17:17+00:00"
-      }
-    },
-    {
       "ticker": "AVGO",
       "stance": "neutral",
       "summary_en": "AVGO is listed with financing partners in $161.2B of Google TPU leases as part of Anthropic's eventual purchase agreements.",
@@ -1270,42 +1474,6 @@
         "first_close": 334.53,
         "first_price_date": "2025-09-26",
         "return_pct": 3.62,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:17:18+00:00"
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "stance": "neutral",
-      "summary_en": "Amazon is listed with at least $110B in Anthropic purchase agreements.",
-      "mentions": 185,
-      "last_seen": "Nov 18, 2026, 06:08 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
-      "post_url": "https://x.com/aleabitoreddit/status/2123116246183088517",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "Amazon은 Anthropic과의 구매 계약에서 최소 1,100억 달러를 기록했습니다.",
-      "price": {
-        "latest_close": 257.37,
-        "latest_date": "2026-11-19",
-        "first_close": 220.21,
-        "first_price_date": "2025-09-24",
-        "return_pct": 16.87,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -1505,57 +1673,6 @@
         "first_close": 79.96,
         "first_price_date": "2026-07-06",
         "return_pct": -72.5,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:17:20+00:00"
-      }
-    },
-    {
-      "ticker": "NBIS",
-      "stance": "bullish",
-      "summary_en": "The author notes Leopold’s 13F filing shows $332.6M in NBIS calls and says they remain long term bullish on names like Nebius, while hoping Leopold has enough time to survive market deleveraging.",
-      "mentions": 720,
-      "last_seen": "Nov 16, 2026, 10:22 PM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2122455173356536151",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T23:49:20+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-11T12:04:38+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "작가는 Leopold의 13F 신고서에 NBIS 콜 옵션이 $332.6M에 달한다고 언급하며, Leopold가 시장의 디레버리징을 견뎌낼 충분한 시간이 있기를 바라면서도 Nebius와 같은 종목에 대해 장기적으로 강세 전망을 유지하고 있다고 말합니다.",
-      "price": {
-        "latest_close": 106.96,
-        "latest_date": "2026-11-18",
-        "first_close": 52.37,
-        "first_price_date": "2025-07-21",
-        "return_pct": 104.24,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -3151,36 +3268,6 @@
       }
     },
     {
-      "ticker": "HOOD",
-      "stance": "unclear",
-      "summary_en": "Mentioned only as the source of short-interest data; no investment stance is expressed.",
-      "mentions": 137,
-      "last_seen": "Nov 02, 2026, 11:43 AM",
-      "first_mention": "Jul 02, 2025, 05:28 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/HOOD",
-      "post_url": "https://x.com/aleabitoreddit/status/2117220957622255727",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "공익 데이터의 출처로만 언급되며 투자 입장은 표명되지 않습니다.",
-      "price": {
-        "latest_close": 69.17,
-        "latest_date": "2026-11-18",
-        "first_close": 97.98,
-        "first_price_date": "2025-07-02",
-        "return_pct": -29.4,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:17:34+00:00"
-      }
-    },
-    {
       "ticker": "AEVA",
       "stance": "neutral",
       "summary_en": "Short float rose from 11% to 25.64%+ from September to October, per the cited short-interest data.",
@@ -3919,36 +4006,6 @@
         "first_close": 0.05,
         "first_price_date": "2026-01-30",
         "return_pct": -95.0,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:17:41+00:00"
-      }
-    },
-    {
-      "ticker": "WMT",
-      "stance": "bearish",
-      "summary_en": "",
-      "mentions": 11,
-      "first_mention": "Nov 19, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NMS/WMT",
-      "post_url": "",
-      "company_name": "Walmart Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 126.04,
-        "latest_date": "2026-11-19",
-        "first_close": 100.61,
-        "first_price_date": "2025-11-19",
-        "return_pct": 25.28,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -9963,36 +10020,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:18:40+00:00"
-      }
-    },
-    {
-      "ticker": "P",
-      "stance": "bullish",
-      "summary_en": "",
-      "mentions": 2,
-      "first_mention": "Feb 15, 2026",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/P",
-      "post_url": "",
-      "company_name": "Everpure, Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 100.74,
-        "latest_date": "2026-11-18",
-        "first_close": 72.69,
-        "first_price_date": "2026-02-17",
-        "return_pct": 38.59,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:18:41+00:00"
       }
     },
     {
@@ -23774,10 +23801,10 @@
     {
       "date": "2026-11-20",
       "stocks": 778,
-      "bullish": 194,
-      "bearish": 62,
+      "bullish": 192,
+      "bearish": 65,
       "neutral": 325,
-      "unclear": 74,
+      "unclear": 73,
       "watchlist": 92
     }
   ]
