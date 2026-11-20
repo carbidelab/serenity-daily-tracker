@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-20T06:17:05+00:00",
+  "last_successful_sync_utc": "2026-11-20T12:08:26+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -144,6 +144,57 @@
       }
     },
     {
+      "ticker": "SNDK",
+      "stance": "bullish",
+      "summary_en": "Author argues the SNDK selloff reflects a market misread of Chinese eSSD cuts, viewing the order cuts as deferred procurement from GPU shortages rather than structural demand weakening.",
+      "mentions": 156,
+      "last_seen": "Nov 20, 2026, 04:23 AM",
+      "first_mention": "Nov 14, 2025, 05:03 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
+      "post_url": "https://x.com/aleabitoreddit/status/2123633356969775107",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T06:11:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 94.395,
+        "latest_date": "2026-11-19",
+        "first_close": 31.77,
+        "first_price_date": "2025-11-14",
+        "return_pct": 197.12,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-20T06:17:15+00:00"
+      },
+      "summary_ko": "작가는 SNDK 매도가 중국 eSSD 감축을 시장이 잘못 해석한 것을 반영한다고 주장하며, 주문 감축을 구조적 수요 약화가 아닌 GPU 부족으로 인한 조달 지연으로 보고 있습니다."
+    },
+    {
       "ticker": "ESMT",
       "stance": "bullish",
       "summary_en": "Author is impressed by ESMT's valuation, emphasizing its low adjusted EV versus roughly $300M quarterly net income and strong cash generation.",
@@ -154,11 +205,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2123598186065559858",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [],
       "summary_ko": "작성자는 ESMT의 가치 평가에 깊은 인상을 받았으며, 약 3억 달러의 분기 순이익 및 강력한 현금 창출력에 비해 조정된 기업 가치(EV)가 낮다는 점을 강조합니다."
     },
@@ -172,12 +223,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
       "post_url": "https://x.com/aleabitoreddit/status/2123588783753048553",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -215,6 +266,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "일론 머스크의 SPCX와 Mesh 인수를 광학 산업 활동의 한 예로 들었습니다.",
       "price": {
         "latest_close": 143.5,
         "latest_date": "2026-11-18",
@@ -225,8 +277,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:12+00:00"
-      },
-      "summary_ko": "일론 머스크의 SPCX와 Mesh 인수를 광학 산업 활동의 한 예로 들었습니다."
+      }
     },
     {
       "ticker": "SOI.PA",
@@ -239,11 +290,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2123588783753048553",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-15T23:54:44+00:00",
@@ -256,6 +307,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "공급 조달 가속화의 증거로, 분기별 매출 2,500만 달러에서 한 분기에만 12억 달러 규모의 계약을 체결한 SOI를 예로 들었습니다.",
       "price": {
         "latest_close": 97.54,
         "latest_date": "2026-11-18",
@@ -266,8 +318,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:12+00:00"
-      },
-      "summary_ko": "공급 조달 가속화의 증거로, 분기별 매출 2,500만 달러에서 한 분기에만 12억 달러 규모의 계약을 체결한 SOI를 예로 들었습니다."
+      }
     },
     {
       "ticker": "MRVL",
@@ -280,11 +331,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2123588783753048553",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-30T11:52:23+00:00",
@@ -317,6 +368,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "MRVL의 광학 메모리 풀링이 메모리 제약이 있는 추론에서 HBM4 요구 사항을 최대 30%까지 줄일 수 있다고 언급했습니다.",
       "price": {
         "latest_close": 138.47,
         "latest_date": "2026-11-19",
@@ -327,8 +379,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:12+00:00"
-      },
-      "summary_ko": "MRVL의 광학 메모리 풀링이 메모리 제약이 있는 추론에서 HBM4 요구 사항을 최대 30%까지 줄일 수 있다고 언급했습니다."
+      }
     },
     {
       "ticker": "LITE",
@@ -341,11 +392,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2123588783753048553",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-29T05:54:36+00:00",
@@ -403,6 +454,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "광학 부품 수요 증가 가속화의 증거로 2029년 LITE 생산량이 매진된 것을 언급했습니다.",
       "price": {
         "latest_close": 551.07,
         "latest_date": "2026-11-18",
@@ -413,8 +465,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:13+00:00"
-      },
-      "summary_ko": "광학 부품 수요 증가 가속화의 증거로 2029년 LITE 생산량이 매진된 것을 언급했습니다."
+      }
     },
     {
       "ticker": "COHR",
@@ -427,11 +478,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2123588783753048553",
       "company_name": "코히런트 (Coherent)",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -459,6 +510,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "광학 부품 공급 조달이 가속화되고 있다는 증거로 COHR의 장기 계약 규모 200억 달러를 언급했습니다.",
       "price": {
         "latest_close": 214.94,
         "latest_date": "2026-11-19",
@@ -469,8 +521,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:13+00:00"
-      },
-      "summary_ko": "광학 부품 공급 조달이 가속화되고 있다는 증거로 COHR의 장기 계약 규모 200억 달러를 언급했습니다."
+      }
     },
     {
       "ticker": "005930.KS",
@@ -483,11 +534,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2123588783753048553",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-08T11:50:16+00:00",
@@ -510,6 +561,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "삼성전자의 포토닉스 파운드리 추진을 광학 산업 활동 가속화의 증거로 언급했습니다.",
       "price": {
         "latest_close": 182500.0,
         "latest_date": "2026-11-20",
@@ -520,8 +572,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:13+00:00"
-      },
-      "summary_ko": "삼성전자의 포토닉스 파운드리 추진을 광학 산업 활동 가속화의 증거로 언급했습니다."
+      }
     },
     {
       "ticker": "000660.KS",
@@ -533,12 +584,12 @@
       "detail_url": "https://serenitystock.com/stocks/KSC/000660.KS",
       "post_url": "https://x.com/aleabitoreddit/status/2123588783753048553",
       "company_name": "SK하이닉스",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-18T23:58:49+00:00",
@@ -551,6 +602,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "광학 산업의 성장 동력의 일환으로 SK하이닉스의 CPO 추진과 PIC IP 인수를 언급했습니다.",
       "price": {
         "latest_close": 1101000.0,
         "latest_date": "2026-11-20",
@@ -561,8 +613,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:14+00:00"
-      },
-      "summary_ko": "광학 산업의 성장 동력의 일환으로 SK하이닉스의 CPO 추진과 PIC IP 인수를 언급했습니다."
+      }
     },
     {
       "ticker": "NVDA",
@@ -574,12 +625,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
       "post_url": "https://x.com/aleabitoreddit/status/2123565807653552458",
       "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -682,6 +733,7 @@
           "to": "bearish"
         }
       ],
+      "summary_ko": "저자는 젠슨 황이 핵심 경쟁력과 주요 아키텍처 의사 결정자로 여겨졌기 때문에 NVDA가 고위 인재의 이탈과 향후 성장 동력에 대한 신뢰 상실에 직면할 수 있다고 주장합니다.",
       "price": {
         "latest_close": 145.98,
         "latest_date": "2026-11-19",
@@ -692,8 +744,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:14+00:00"
-      },
-      "summary_ko": "저자는 젠슨 황이 핵심 경쟁력과 주요 아키텍처 의사 결정자로 여겨졌기 때문에 NVDA가 고위 인재의 이탈과 향후 성장 동력에 대한 신뢰 상실에 직면할 수 있다고 주장합니다."
+      }
     },
     {
       "ticker": "ANT",
@@ -706,11 +757,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2123543880780132572",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-10T23:46:34+00:00",
@@ -743,6 +794,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "Apple이 개발 중인 AI 에이전트 제품에서 경쟁사로만 언급되었습니다.",
       "price": {
         "latest_close": 97.17,
         "latest_date": "2026-11-19",
@@ -753,8 +805,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:14+00:00"
-      },
-      "summary_ko": "Apple이 개발 중인 AI 에이전트 제품에서 경쟁사로만 언급되었습니다."
+      }
     },
     {
       "ticker": "AAPL",
@@ -767,11 +818,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2123543880780132572",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-16T23:52:45+00:00",
@@ -784,6 +835,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "Apple은 $ANT, Meta Muse, Google Gemini, OpenAI와 경쟁하기 위해 자체 AI 에이전트 제품을 개발하고 있지만, 저자는 온디바이스 추론이 준비되지 않았으며 Apple이 AI로 유명하지 않다고 지적합니다.",
       "price": {
         "latest_close": 349.21,
         "latest_date": "2026-11-19",
@@ -794,8 +846,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-20T06:17:15+00:00"
-      },
-      "summary_ko": "Apple은 $ANT, Meta Muse, Google Gemini, OpenAI와 경쟁하기 위해 자체 AI 에이전트 제품을 개발하고 있지만, 저자는 온디바이스 추론이 준비되지 않았으며 Apple이 AI로 유명하지 않다고 지적합니다."
+      }
     },
     {
       "ticker": "META",
@@ -878,57 +929,6 @@
         "first_close": 179.53,
         "first_price_date": "2025-07-03",
         "return_pct": 51.87,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-20T06:17:15+00:00"
-      }
-    },
-    {
-      "ticker": "SNDK",
-      "stance": "bullish",
-      "summary_en": "Author believes Leopold's early SNDK idea was directionally right.",
-      "mentions": 155,
-      "last_seen": "Nov 18, 2026, 07:34 PM",
-      "first_mention": "Nov 14, 2025, 05:03 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
-      "post_url": "https://x.com/aleabitoreddit/status/2123137705597120613",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T06:11:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "저자는 레오폴드의 초기 SNDK 아이디어가 방향성 측면에서 옳았다고 생각합니다.",
-      "price": {
-        "latest_close": 94.395,
-        "latest_date": "2026-11-19",
-        "first_close": 31.77,
-        "first_price_date": "2025-11-14",
-        "return_pct": 197.12,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
