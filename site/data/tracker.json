@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-22T06:07:01+00:00",
+  "last_successful_sync_utc": "2026-11-22T11:53:27+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -153,12 +153,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
       "post_url": "https://x.com/aleabitoreddit/status/2124315829202493468",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -186,6 +186,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "저자는 SNDK가 서명한 LTA 및 최저 가격에 대한 확약을 시장의 비상적인 불신에 직면한 공시의 예로 인용합니다.",
       "price": {
         "latest_close": 94.395,
         "latest_date": "2026-11-19",
@@ -196,8 +197,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-22T06:07:07+00:00"
-      },
-      "summary_ko": "저자는 SNDK가 서명한 LTA 및 최저 가격에 대한 확약을 시장의 비상적인 불신에 직면한 공시의 예로 인용합니다."
+      }
     },
     {
       "ticker": "ORCL",
@@ -209,12 +209,12 @@
       "detail_url": "https://serenitystock.com/stocks/NYQ/ORCL",
       "post_url": "https://x.com/aleabitoreddit/status/2124315829202493468",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-22T06:07:01+00:00",
@@ -222,6 +222,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "작가는 OpenAI에 대한 자금 지원이 충분하다는 Oracle의 주장을 언급하며, 시장의 불신을 과도한 비관론 또는 정당한 회의주의로 규정합니다.",
       "price": {
         "latest_close": 101.19,
         "latest_date": "2026-11-20",
@@ -232,8 +233,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-22T06:07:07+00:00"
-      },
-      "summary_ko": "작가는 OpenAI에 대한 자금 지원이 충분하다는 Oracle의 주장을 언급하며, 시장의 불신을 과도한 비관론 또는 정당한 회의주의로 규정합니다."
+      }
     },
     {
       "ticker": "MU",
@@ -245,12 +245,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/MU",
       "post_url": "https://x.com/aleabitoreddit/status/2124315829202493468",
       "company_name": "마이크론 (Micron)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-04T23:51:55+00:00",
@@ -273,6 +273,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "저자는 마이크론이 체결한 LTA 및 최저 가격에 대한 마이크론의 확신을 비상적인 시장 불신에 직면한 공시의 예로 인용합니다.",
       "price": {
         "latest_close": 594.51,
         "latest_date": "2026-11-20",
@@ -283,8 +284,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-22T06:07:07+00:00"
-      },
-      "summary_ko": "저자는 마이크론이 체결한 LTA 및 최저 가격에 대한 마이크론의 확신을 비상적인 시장 불신에 직면한 공시의 예로 인용합니다."
+      }
     },
     {
       "ticker": "P",
