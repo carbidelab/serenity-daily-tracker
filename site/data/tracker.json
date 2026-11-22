@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-22T11:53:27+00:00",
+  "last_successful_sync_utc": "2026-11-22T23:52:54+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -142,6 +142,142 @@
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-22T06:07:06+00:00"
       }
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "bullish",
+      "summary_en": "Bessent highlights Nvidia's strong profitability and near-unlimited global chip demand, while the author suggests Jensen Huang's possible return and Washington support could improve AI sentiment.",
+      "mentions": 457,
+      "last_seen": "Nov 22, 2026, 07:17 PM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2124582975455318147",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-09T06:18:52+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T12:06:22+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T06:14:55+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-12T12:07:42+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-14T05:58:50+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-15T11:52:16+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-15T23:54:44+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T23:58:12+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-20T06:17:05+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-22T23:52:54+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 125.53,
+        "latest_date": "2026-11-20",
+        "first_close": 179.81,
+        "first_price_date": "2025-08-25",
+        "return_pct": -30.19,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-22T06:07:08+00:00"
+      },
+      "summary_ko": "베센트는 엔비디아의 강력한 수익성과 거의 무한한 글로벌 칩 수요를 강조하는 반면, 저자는 젠슨 황의 복귀 가능성과 워싱턴의 지원이 AI에 대한 투자 심리를 개선할 수 있다고 시사합니다."
     },
     {
       "ticker": "SNDK",
@@ -382,137 +518,6 @@
         "first_close": 97.17,
         "first_price_date": "2026-11-19",
         "return_pct": -8.5,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-22T06:07:08+00:00"
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "stance": "bearish",
-      "summary_en": "Author highlights NVDA dropping over 12% on a report that the SEC is probing potential accounting issues, calling the $5T+ company's crash wild and noting collateral damage.",
-      "mentions": 456,
-      "last_seen": "Nov 20, 2026, 08:39 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2123878986686333308",
-      "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-09T06:18:52+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T12:06:22+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-12T06:14:55+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-12T12:07:42+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-12T23:53:52+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bearish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-14T05:58:50+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-15T11:52:16+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-15T23:54:44+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T23:58:12+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-20T06:17:05+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "작성자는 SEC가 잠재적인 회계 문제를 조사하고 있다는 보고에 따라 NVDA가 12% 이상 하락한 것을 강조하며, 시가총액 5조 달러 이상의 이 기업의 주가 폭락을 '격렬한' 것으로 표현하고 부수적인 피해를 언급합니다.",
-      "price": {
-        "latest_close": 125.53,
-        "latest_date": "2026-11-20",
-        "first_close": 179.81,
-        "first_price_date": "2025-08-25",
-        "return_pct": -30.19,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23835,8 +23840,8 @@
     {
       "date": "2026-11-22",
       "stocks": 778,
-      "bullish": 191,
-      "bearish": 65,
+      "bullish": 192,
+      "bearish": 64,
       "neutral": 323,
       "unclear": 76,
       "watchlist": 92
