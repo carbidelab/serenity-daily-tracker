@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-23T06:18:45+00:00",
+  "last_successful_sync_utc": "2026-11-23T12:05:18+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -145,20 +145,20 @@
     },
     {
       "ticker": "NVDA",
-      "stance": "bullish",
-      "summary_en": "Bessent highlights Nvidia's strong profitability and near-unlimited global chip demand, while the author suggests Jensen Huang's possible return and Washington support could improve AI sentiment.",
-      "mentions": 457,
-      "last_seen": "Nov 22, 2026, 07:17 PM",
+      "stance": "neutral",
+      "summary_en": "The author says Jensen Huang's return to Nvidia is looking more likely, citing support from President Trump.",
+      "mentions": 458,
+      "last_seen": "Nov 23, 2026, 04:05 AM",
       "first_mention": "Aug 25, 2025, 08:41 PM",
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2124582975455318147",
+      "post_url": "https://x.com/aleabitoreddit/status/2124715837533859857",
       "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
+      "previous_stance": "bullish",
+      "mentions_delta": 1,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -264,9 +264,13 @@
           "observed_at_utc": "2026-11-22T23:52:54+00:00",
           "from": "bearish",
           "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-23T12:05:18+00:00",
+          "from": "bullish",
+          "to": "neutral"
         }
       ],
-      "summary_ko": "베센트는 엔비디아의 강력한 수익성과 거의 무한한 글로벌 칩 수요를 강조하는 반면, 저자는 젠슨 황의 복귀 가능성과 워싱턴의 지원이 AI에 대한 투자 심리를 개선할 수 있다고 시사합니다.",
       "price": {
         "latest_close": 125.53,
         "latest_date": "2026-11-20",
@@ -277,7 +281,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-23T06:18:50+00:00"
-      }
+      },
+      "summary_ko": "저자는 젠슨 황이 트럼프 대통령의 지지를 등에 업고 엔비디아로 복귀할 가능성이 더 높아 보인다고 말합니다."
     },
     {
       "ticker": "SNDK",
@@ -23849,9 +23854,9 @@
     {
       "date": "2026-11-23",
       "stocks": 778,
-      "bullish": 192,
+      "bullish": 191,
       "bearish": 64,
-      "neutral": 323,
+      "neutral": 324,
       "unclear": 76,
       "watchlist": 92
     }
