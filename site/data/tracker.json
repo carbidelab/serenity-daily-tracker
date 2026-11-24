@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-24T06:09:31+00:00",
+  "last_successful_sync_utc": "2026-11-24T12:09:33+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -144,6 +144,67 @@
       }
     },
     {
+      "ticker": "NBIS",
+      "stance": "bullish",
+      "summary_en": "Author argues NBIS has a technical moat and believes Databricks' co-founder was referring to Nebius when discussing the single neocloud trusted for customer workloads.",
+      "mentions": 722,
+      "last_seen": "Nov 24, 2026, 06:33 AM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2125115492935549060",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T23:49:20+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-20T23:57:18+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-24T12:09:33+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 97.8,
+        "latest_date": "2026-11-23",
+        "first_close": 52.37,
+        "first_price_date": "2025-07-21",
+        "return_pct": 86.75,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-24T06:09:41+00:00"
+      },
+      "summary_ko": "저자는 NBIS가 기술적 진입 장벽을 보유하고 있으며, Databricks의 공동 창업자가 고객 워크로드에 대해 신뢰할 수 있는 유일한 네오클라우드에 대해 언급할 때 Nebius를 지칭했다고 생각한다고 주장합니다."
+    },
+    {
       "ticker": "NVDA",
       "stance": "bullish",
       "summary_en": "Author is more confident in AI capex after Jensen's return to Nvidia, arguing Nvidia secures upstream capacity and forces hyperscalers to procure more aggressively.",
@@ -154,11 +215,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2125058643154632845",
       "company_name": "엔비디아 (NVIDIA)",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -276,6 +337,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 젠슨이 엔비디아로 복귀한 후 AI 설비 투자에 대해 더 확신을 갖고 있으며, 엔비디아가 업스트림(upstream) 생산 능력을 확보하고 하이퍼스케일러들이 더 공격적으로 조달하도록 강제한다고 주장한다.",
       "price": {
         "latest_close": 165.05,
         "latest_date": "2026-11-23",
@@ -286,8 +348,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-24T06:09:37+00:00"
-      },
-      "summary_ko": "저자는 젠슨이 엔비디아로 복귀한 후 AI 설비 투자에 대해 더 확신을 갖고 있으며, 엔비디아가 업스트림(upstream) 생산 능력을 확보하고 하이퍼스케일러들이 더 공격적으로 조달하도록 강제한다고 주장한다."
+      }
     },
     {
       "ticker": "GOOGL",
@@ -299,12 +360,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
       "post_url": "https://x.com/aleabitoreddit/status/2125058643154632845",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-05T23:52:53+00:00",
@@ -322,6 +383,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "작성자는 명확한 투자 전망을 제시하지 않고 Nvidia가 확보할 수 있는 필요한 용량을 가진 하이퍼스케일러로서만 GOOGL을 언급합니다.",
       "price": {
         "latest_close": 282.1,
         "latest_date": "2026-11-23",
@@ -332,8 +394,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-24T06:09:37+00:00"
-      },
-      "summary_ko": "작성자는 명확한 투자 전망을 제시하지 않고 Nvidia가 확보할 수 있는 필요한 용량을 가진 하이퍼스케일러로서만 GOOGL을 언급합니다."
+      }
     },
     {
       "ticker": "AMZN",
@@ -345,12 +406,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
       "post_url": "https://x.com/aleabitoreddit/status/2125058643154632845",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -363,6 +424,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "작가는 명확한 투자 전망을 제시하지 않고, Nvidia가 필요한 용량을 확보할 수 있는 하이퍼스케일러로서 Amazon을 언급할 뿐입니다.",
       "price": {
         "latest_close": 255.39,
         "latest_date": "2026-11-23",
@@ -373,8 +435,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-24T06:09:37+00:00"
-      },
-      "summary_ko": "작가는 명확한 투자 전망을 제시하지 않고, Nvidia가 필요한 용량을 확보할 수 있는 하이퍼스케일러로서 Amazon을 언급할 뿐입니다."
+      }
     },
     {
       "ticker": "SMTC",
@@ -386,12 +447,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/SMTC",
       "post_url": "https://x.com/aleabitoreddit/status/2125056333045219562",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T11:56:43+00:00",
@@ -404,6 +465,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작성자는 Semtech의 HieFo 인수 및 레이저 관련 공개 정보를 매우 신뢰할 수 있고 잠재적으로 가치 있는 것으로 보고 있지만, SMTC는 일부 레이저 관련 일정에서 상업적으로 경쟁사보다 뒤처져 있습니다.",
       "price": {
         "latest_close": 104.13,
         "latest_date": "2026-11-23",
@@ -414,8 +476,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-24T06:09:38+00:00"
-      },
-      "summary_ko": "작성자는 Semtech의 HieFo 인수 및 레이저 관련 공개 정보를 매우 신뢰할 수 있고 잠재적으로 가치 있는 것으로 보고 있지만, SMTC는 일부 레이저 관련 일정에서 상업적으로 경쟁사보다 뒤처져 있습니다."
+      }
     },
     {
       "ticker": "SIVE.ST",
@@ -427,12 +488,12 @@
       "detail_url": "https://serenitystock.com/stocks/STO/SIVE.ST",
       "post_url": "https://x.com/aleabitoreddit/status/2125056333045219562",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T11:56:43+00:00",
@@ -450,6 +511,7 @@
           "to": "unclear"
         }
       ],
+      "summary_ko": "작가는 SIVE의 경제적 정보 공개를 비판하며, SIVE가 SMTC의 수용 인원 및 참여 규모 공개 사례에서 배워야 한다고 말합니다.",
       "price": {
         "latest_close": 11.41,
         "latest_date": "2026-11-20",
@@ -460,8 +522,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-24T06:09:38+00:00"
-      },
-      "summary_ko": "작가는 SIVE의 경제적 정보 공개를 비판하며, SIVE가 SMTC의 수용 인원 및 참여 규모 공개 사례에서 배워야 한다고 말합니다."
+      }
     },
     {
       "ticker": "AAOI",
@@ -473,12 +534,12 @@
       "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
       "post_url": "https://x.com/aleabitoreddit/status/2125056333045219562",
       "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bearish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -511,6 +572,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "작성자 주 AAOI는 UHP 400mW 레이저 인증에서 SMTC보다 앞서 있으며, SMTC는 이 측면에서 더욱 뒤처져 있습니다.",
       "price": {
         "latest_close": 38.7,
         "latest_date": "2026-11-23",
@@ -521,8 +583,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-24T06:09:38+00:00"
-      },
-      "summary_ko": "작성자 주 AAOI는 UHP 400mW 레이저 인증에서 SMTC보다 앞서 있으며, SMTC는 이 측면에서 더욱 뒤처져 있습니다."
+      }
     },
     {
       "ticker": "SNDK",
@@ -910,62 +971,6 @@
         "first_close": 100.61,
         "first_price_date": "2025-11-19",
         "return_pct": 28.79,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-24T06:09:41+00:00"
-      }
-    },
-    {
-      "ticker": "NBIS",
-      "stance": "bearish",
-      "summary_en": "Notes that NBIS, alongside other non-AI growth equities, has fallen sharply.",
-      "mentions": 721,
-      "last_seen": "Nov 20, 2026, 03:48 PM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2123805601411277149",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T23:49:20+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-11T12:04:38+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-20T23:57:18+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "NBIS는 다른 비 AI 성장주와 함께 급락했습니다.",
-      "price": {
-        "latest_close": 97.8,
-        "latest_date": "2026-11-23",
-        "first_close": 52.37,
-        "first_price_date": "2025-07-21",
-        "return_pct": 86.75,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23904,8 +23909,8 @@
     {
       "date": "2026-11-24",
       "stocks": 778,
-      "bullish": 192,
-      "bearish": 63,
+      "bullish": 193,
+      "bearish": 62,
       "neutral": 321,
       "unclear": 79,
       "watchlist": 92
