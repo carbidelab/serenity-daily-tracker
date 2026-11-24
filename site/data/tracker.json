@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-24T12:09:33+00:00",
+  "last_successful_sync_utc": "2026-11-24T23:58:21+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -144,6 +144,67 @@
       }
     },
     {
+      "ticker": "SNDK",
+      "stance": "bullish",
+      "summary_en": "Author notes SNDK keeps dropping but argues memory companies look undervalued, citing long-term contracts with price floors and visible duration rather than needing NAND pricing to rise exponentially.",
+      "mentions": 158,
+      "last_seen": "Nov 24, 2026, 07:30 PM",
+      "first_mention": "Nov 14, 2025, 05:03 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
+      "post_url": "https://x.com/aleabitoreddit/status/2125311224242164185",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T06:11:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-22T06:07:01+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-24T23:58:21+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "price": {
+        "latest_close": 94.395,
+        "latest_date": "2026-11-19",
+        "first_close": 31.77,
+        "first_price_date": "2025-11-14",
+        "return_pct": 197.12,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-24T06:09:39+00:00"
+      },
+      "summary_ko": "작성자 주석 SNDK는 계속 하락하고 있지만, NAND 가격이 기하급수적으로 상승할 필요가 있기보다는 가격 하한선과 가시적인 만기 기간이 있는 장기 계약을 이유로 메모리 기업들이 저평가된 것으로 보인다고 주장합니다."
+    },
+    {
       "ticker": "NBIS",
       "stance": "bullish",
       "summary_en": "Author argues NBIS has a technical moat and believes Databricks' co-founder was referring to Nebius when discussing the single neocloud trusted for customer workloads.",
@@ -153,12 +214,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
       "post_url": "https://x.com/aleabitoreddit/status/2125115492935549060",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bearish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -191,6 +252,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 NBIS가 기술적 진입 장벽을 보유하고 있으며, Databricks의 공동 창업자가 고객 워크로드에 대해 신뢰할 수 있는 유일한 네오클라우드에 대해 언급할 때 Nebius를 지칭했다고 생각한다고 주장합니다.",
       "price": {
         "latest_close": 97.8,
         "latest_date": "2026-11-23",
@@ -201,8 +263,129 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-24T06:09:41+00:00"
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "stance": "watchlist",
+      "summary_en": "Author shares Google DeepMind's paper on using agents to find faster quantum algorithms and notes the AI quantum discovery theme as interesting.",
+      "mentions": 231,
+      "last_seen": "Nov 24, 2026, 05:12 PM",
+      "first_mention": "Jul 03, 2025, 09:57 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
+      "post_url": "https://x.com/aleabitoreddit/status/2125276382909566982",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "unclear",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-05T23:52:53+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-24T06:09:31+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-24T23:58:21+00:00",
+          "from": "unclear",
+          "to": "watchlist"
+        }
+      ],
+      "price": {
+        "latest_close": 282.1,
+        "latest_date": "2026-11-23",
+        "first_close": 179.53,
+        "first_price_date": "2025-07-03",
+        "return_pct": 57.13,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-24T06:09:37+00:00"
       },
-      "summary_ko": "저자는 NBIS가 기술적 진입 장벽을 보유하고 있으며, Databricks의 공동 창업자가 고객 워크로드에 대해 신뢰할 수 있는 유일한 네오클라우드에 대해 언급할 때 Nebius를 지칭했다고 생각한다고 주장합니다."
+      "summary_ko": "작가는 더 빠른 양자 알고리즘을 찾기 위해 에이전트를 사용하는 Google DeepMind의 논문을 공유하고 AI 양자 발견 주제가 흥미롭다고 언급합니다."
+    },
+    {
+      "ticker": "ANT",
+      "stance": "neutral",
+      "summary_en": "Author notes ANT has recently worked on other quantum applications, citing a paper on designing more efficient quantum circuits with Claude.",
+      "mentions": 12,
+      "last_seen": "Nov 24, 2026, 05:12 PM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2125276382909566982",
+      "company_name": "",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bearish",
+      "mentions_delta": 1,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-19T23:54:50+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-20T23:57:18+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-24T23:58:21+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        }
+      ],
+      "price": {
+        "latest_close": 87.64,
+        "latest_date": "2026-11-23",
+        "first_close": 97.17,
+        "first_price_date": "2026-11-19",
+        "return_pct": -9.81,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-24T06:09:40+00:00"
+      },
+      "summary_ko": "작성자 주 ANT는 최근 Claude를 사용하여 보다 효율적인 양자 회로를 설계하는 논문을 인용하며 다른 양자 애플리케이션에 대한 작업을 진행했습니다."
     },
     {
       "ticker": "NVDA",
@@ -351,52 +534,6 @@
       }
     },
     {
-      "ticker": "GOOGL",
-      "stance": "unclear",
-      "summary_en": "The author mentions GOOGL only as a hyperscaler whose needed capacity Nvidia may secure, without stating a clear investment view.",
-      "mentions": 230,
-      "last_seen": "Nov 24, 2026, 02:47 AM",
-      "first_mention": "Jul 03, 2025, 09:57 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
-      "post_url": "https://x.com/aleabitoreddit/status/2125058643154632845",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-05T23:52:53+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-24T06:09:31+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "작성자는 명확한 투자 전망을 제시하지 않고 Nvidia가 확보할 수 있는 필요한 용량을 가진 하이퍼스케일러로서만 GOOGL을 언급합니다.",
-      "price": {
-        "latest_close": 282.1,
-        "latest_date": "2026-11-23",
-        "first_close": 179.53,
-        "first_price_date": "2025-07-03",
-        "return_pct": 57.13,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-24T06:09:37+00:00"
-      }
-    },
-    {
       "ticker": "AMZN",
       "stance": "unclear",
       "summary_en": "The author mentions Amazon only as a hyperscaler whose needed capacity Nvidia may secure, without stating a clear investment view.",
@@ -527,19 +664,19 @@
     {
       "ticker": "AAOI",
       "stance": "neutral",
-      "summary_en": "Author notes AAOI is ahead of SMTC in UHP 400mW laser qualifications, as SMTC is further behind in this aspect.",
-      "mentions": 413,
-      "last_seen": "Nov 24, 2026, 02:38 AM",
+      "summary_en": "The author reports that AAOI signed a $2.2B long-term agreement with a hyperscaler customer, with details on 800G transceivers and lasers and cited customer demand potential above $10B.",
+      "mentions": 414,
+      "last_seen": "Nov 24, 2026, 01:09 PM",
       "first_mention": "Dec 11, 2025, 10:10 PM",
       "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
-      "post_url": "https://x.com/aleabitoreddit/status/2125056333045219562",
+      "post_url": "https://x.com/aleabitoreddit/status/2125215193139663292",
       "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
       "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 0,
+      "mentions_delta": 1,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -572,7 +709,6 @@
           "to": "neutral"
         }
       ],
-      "summary_ko": "작성자 주 AAOI는 UHP 400mW 레이저 인증에서 SMTC보다 앞서 있으며, SMTC는 이 측면에서 더욱 뒤처져 있습니다.",
       "price": {
         "latest_close": 38.7,
         "latest_date": "2026-11-23",
@@ -583,63 +719,8 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-24T06:09:38+00:00"
-      }
-    },
-    {
-      "ticker": "SNDK",
-      "stance": "unclear",
-      "summary_en": "Author cites SNDK's reassurances on signed LTAs and price floors as an example of disclosures facing extraordinary market distrust.",
-      "mentions": 157,
-      "last_seen": "Nov 22, 2026, 01:35 AM",
-      "first_mention": "Nov 14, 2025, 05:03 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
-      "post_url": "https://x.com/aleabitoreddit/status/2124315829202493468",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T06:11:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-22T06:07:01+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        }
-      ],
-      "summary_ko": "저자는 SNDK가 서명한 LTA 및 최저 가격에 대한 확약을 시장의 비상적인 불신에 직면한 공시의 예로 인용합니다.",
-      "price": {
-        "latest_close": 94.395,
-        "latest_date": "2026-11-19",
-        "first_close": 31.77,
-        "first_price_date": "2025-11-14",
-        "return_pct": 197.12,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-24T06:09:39+00:00"
-      }
+      },
+      "summary_ko": "작성자는 AAOI가 하이퍼스케일러 고객과 22억 달러 규모의 장기 계약을 체결했으며, 800G 트랜시버 및 레이저에 대한 세부 정보가 포함되어 있고 고객 수요 잠재력이 100억 달러를 초과한다고 언급했습니다."
     },
     {
       "ticker": "ORCL",
@@ -758,72 +839,6 @@
         "first_close": 72.69,
         "first_price_date": "2026-02-17",
         "return_pct": 38.96,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-24T06:09:40+00:00"
-      }
-    },
-    {
-      "ticker": "ANT",
-      "stance": "bearish",
-      "summary_en": "Author says a broad shift to open weight models and on-prem AI factories would be heavily bearish for $ANT as a frontier lab over the long term.",
-      "mentions": 11,
-      "last_seen": "Nov 20, 2026, 12:56 PM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2123762482280055255",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-11T23:56:52+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T11:59:37+00:00",
-          "from": "bearish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-19T23:54:50+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-20T23:57:18+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        }
-      ],
-      "summary_ko": "작성자는 장기적으로 프론티어 랩으로서 $ANT에 대해 오픈 웨이트 모델과 온프레미스 AI 팩토리로의 광범위한 전환이 크게 하락할 것이라고 말합니다.",
-      "price": {
-        "latest_close": 87.64,
-        "latest_date": "2026-11-23",
-        "first_close": 97.17,
-        "first_price_date": "2026-11-19",
-        "return_pct": -9.81,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -23909,11 +23924,11 @@
     {
       "date": "2026-11-24",
       "stocks": 778,
-      "bullish": 193,
-      "bearish": 62,
-      "neutral": 321,
-      "unclear": 79,
-      "watchlist": 92
+      "bullish": 194,
+      "bearish": 61,
+      "neutral": 322,
+      "unclear": 77,
+      "watchlist": 93
     }
   ]
 }
