@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-25T12:15:27+00:00",
+  "last_successful_sync_utc": "2026-11-25T23:59:01+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -141,6 +141,243 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-25T06:09:43+00:00"
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "stance": "unclear",
+      "summary_en": "Cites loading up on NVDA (alongside AI puts) as an obvious hindsight trade that would have made paywalled gurus unnecessary.",
+      "mentions": 462,
+      "last_seen": "Nov 25, 2026, 08:48 PM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2125693156750717298",
+      "company_name": "엔비디아 (NVIDIA)",
+      "stance_changed": true,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": "bullish",
+      "mentions_delta": 2,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T11:59:59+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-09T06:18:52+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T12:06:22+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T06:14:55+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-12T12:07:42+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-14T05:58:50+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-15T11:52:16+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-15T23:54:44+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
+          "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T23:58:12+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-20T06:17:05+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-22T23:52:54+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-23T12:05:18+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-23T23:59:24+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-25T23:59:01+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        }
+      ],
+      "price": {
+        "latest_close": 155.38,
+        "latest_date": "2026-11-24",
+        "first_close": 179.81,
+        "first_price_date": "2025-08-25",
+        "return_pct": -13.59,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-25T06:09:44+00:00"
+      }
+    },
+    {
+      "ticker": "HPE",
+      "stance": "neutral",
+      "summary_en": "Author quotes HPE's CEO saying memory, NAND, and other critical component supply will remain constrained through at least H2 2028.",
+      "mentions": 1,
+      "last_seen": "Nov 25, 2026, 02:05 PM",
+      "first_mention": "Nov 25, 2026, 02:05 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/HPE",
+      "post_url": "https://x.com/aleabitoreddit/status/2125591613426848145",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": true,
+      "previous_stance": null,
+      "mentions_delta": null,
+      "stance_history": [],
+      "price": {
+        "latest_close": 40.82,
+        "latest_date": "2026-11-25",
+        "first_close": 40.82,
+        "first_price_date": "2026-11-25",
+        "return_pct": 0.0,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-25T23:59:05+00:00"
+      }
+    },
+    {
+      "ticker": "DELL",
+      "stance": "neutral",
+      "summary_en": "Author quotes Dell's Vice Chairman saying enterprise NAND and server DRAM prices show no signs of declining.",
+      "mentions": 14,
+      "last_seen": "Nov 25, 2026, 02:05 PM",
+      "first_mention": "Sep 29, 2025, 03:21 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/DELL",
+      "post_url": "https://x.com/aleabitoreddit/status/2125591613426848145",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 295.28,
+        "latest_date": "2026-11-24",
+        "first_close": 133.9,
+        "first_price_date": "2025-09-29",
+        "return_pct": 120.52,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-25T06:12:13+00:00"
+      }
+    },
+    {
+      "ticker": "AMBA",
+      "stance": "neutral",
+      "summary_en": "Author cites AMBA earnings for bullish comments on DRAM duration but notes consumer demand is weakening.",
+      "mentions": 8,
+      "last_seen": "Nov 25, 2026, 02:05 PM",
+      "first_mention": "Jan 15, 2026, 06:54 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMBA",
+      "post_url": "https://x.com/aleabitoreddit/status/2125591613426848145",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": true,
+      "changed_since_previous": true,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 1,
+      "stance_history": [],
+      "price": {
+        "latest_close": 44.47,
+        "latest_date": "2026-11-24",
+        "first_close": 64.6,
+        "first_price_date": "2026-01-15",
+        "return_pct": -31.16,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-25T06:09:55+00:00"
       }
     },
     {
@@ -381,152 +618,6 @@
         "first_close": 97.17,
         "first_price_date": "2026-11-19",
         "return_pct": -15.7,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-25T06:09:44+00:00"
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "stance": "bullish",
-      "summary_en": "Author is more confident in AI capex after Jensen's return to Nvidia, arguing Nvidia secures upstream capacity and forces hyperscalers to procure more aggressively.",
-      "mentions": 460,
-      "last_seen": "Nov 24, 2026, 02:47 AM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2125058643154632845",
-      "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T11:59:59+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-09T06:18:52+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T12:06:22+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-12T06:14:55+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-12T12:07:42+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-12T23:53:52+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "bearish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-14T05:58:50+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-15T11:52:16+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-15T23:54:44+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T23:58:12+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-20T06:17:05+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-22T23:52:54+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-23T12:05:18+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-23T23:59:24+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "summary_ko": "저자는 젠슨이 엔비디아로 복귀한 후 AI 설비 투자에 대해 더 확신을 갖고 있으며, 엔비디아가 업스트림(upstream) 생산 능력을 확보하고 하이퍼스케일러들이 더 공격적으로 조달하도록 강제한다고 주장한다.",
-      "price": {
-        "latest_close": 155.38,
-        "latest_date": "2026-11-24",
-        "first_close": 179.81,
-        "first_price_date": "2025-08-25",
-        "return_pct": -13.59,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -2243,36 +2334,6 @@
         "first_close": 280.71,
         "first_price_date": "2025-09-24",
         "return_pct": 24.4,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-25T06:09:55+00:00"
-      }
-    },
-    {
-      "ticker": "AMBA",
-      "stance": "neutral",
-      "summary_en": "Author cites AMBA as another example, noting that roughly 60-70% of its 2026 revenue went through WT.",
-      "mentions": 7,
-      "last_seen": "Nov 11, 2026, 02:25 PM",
-      "first_mention": "Jan 15, 2026, 06:54 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMBA",
-      "post_url": "https://x.com/aleabitoreddit/status/2120523420639408175",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "summary_ko": "저자는 AMBA를 또 다른 예로 들며, 2026년 매출의 약 60~70%가 WT를 통해 발생했다고 언급합니다.",
-      "price": {
-        "latest_close": 44.47,
-        "latest_date": "2026-11-24",
-        "first_close": 64.6,
-        "first_price_date": "2026-01-15",
-        "return_pct": -31.16,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
@@ -18099,36 +18160,6 @@
       "stance_history": []
     },
     {
-      "ticker": "DELL",
-      "stance": "neutral",
-      "summary_en": "",
-      "mentions": 13,
-      "first_mention": "Sep 29, 2025",
-      "last_seen": "",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/DELL",
-      "post_url": "",
-      "company_name": "Dell Technologies Inc.",
-      "data_coverage": "performance_table_only",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [],
-      "price": {
-        "latest_close": 295.28,
-        "latest_date": "2026-11-24",
-        "first_close": 133.9,
-        "first_price_date": "2025-09-29",
-        "return_pct": 120.52,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-25T06:12:13+00:00"
-      }
-    },
-    {
       "ticker": "DE",
       "stance": "conditional_call",
       "summary_en": "",
@@ -23932,11 +23963,11 @@
     },
     {
       "date": "2026-11-25",
-      "stocks": 778,
-      "bullish": 194,
+      "stocks": 779,
+      "bullish": 193,
       "bearish": 61,
-      "neutral": 322,
-      "unclear": 77,
+      "neutral": 323,
+      "unclear": 78,
       "watchlist": 93
     }
   ]
