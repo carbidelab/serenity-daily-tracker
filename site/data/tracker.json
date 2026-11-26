@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-26T06:08:32+00:00",
+  "last_successful_sync_utc": "2026-11-26T12:12:51+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -153,12 +153,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/SNDK",
       "post_url": "https://x.com/aleabitoreddit/status/2125751437833756715",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -196,6 +196,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "SNDK를 Leopold가 처음 투자한 종목 중 하나로 언급하며, 펀드의 최고가 대비 하락폭에 초점을 맞추기보다는 SNDK를 평가해볼 가치가 있다고 언급합니다.",
       "price": {
         "latest_close": 94.395,
         "latest_date": "2026-11-19",
@@ -206,8 +207,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:37+00:00"
-      },
-      "summary_ko": "SNDK를 Leopold가 처음 투자한 종목 중 하나로 언급하며, 펀드의 최고가 대비 하락폭에 초점을 맞추기보다는 SNDK를 평가해볼 가치가 있다고 언급합니다."
+      }
     },
     {
       "ticker": "BE",
@@ -219,12 +219,12 @@
       "detail_url": "https://serenitystock.com/stocks/NYQ/BE",
       "post_url": "https://x.com/aleabitoreddit/status/2125751437833756715",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-05T23:52:53+00:00",
@@ -252,6 +252,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "BE를 Leopold가 고려해볼 만한 최초 진입 시점 중 하나로 언급하며, 펀드의 최고가 대비 하락률에 초점을 맞추는 것보다는 BE를 평가하는 것이 더 낫다고 말합니다.",
       "price": {
         "latest_close": 152.89,
         "latest_date": "2026-11-25",
@@ -262,8 +263,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:38+00:00"
-      },
-      "summary_ko": "BE를 Leopold가 고려해볼 만한 최초 진입 시점 중 하나로 언급하며, 펀드의 최고가 대비 하락률에 초점을 맞추는 것보다는 BE를 평가하는 것이 더 낫다고 말합니다."
+      }
     },
     {
       "ticker": "NVDA",
@@ -275,12 +275,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
       "post_url": "https://x.com/aleabitoreddit/status/2125738646477455841",
       "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -408,6 +408,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "작성자는 Lumentum의 연혁에서 3월의 주요 사건으로 엔비디아와의 20억 달러 이상의 계약 체결 및 생산 능력 확보를 꼽습니다.",
       "price": {
         "latest_close": 149.3,
         "latest_date": "2026-11-25",
@@ -418,8 +419,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:38+00:00"
-      },
-      "summary_ko": "작성자는 Lumentum의 연혁에서 3월의 주요 사건으로 엔비디아와의 20억 달러 이상의 계약 체결 및 생산 능력 확보를 꼽습니다."
+      }
     },
     {
       "ticker": "MRVL",
@@ -432,11 +432,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2125738646477455841",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-30T11:52:23+00:00",
@@ -469,6 +469,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "작성자 주: 마벨은 11월에 루멘텀의 일정에 따라 시가총액 1,150억 달러로 루멘텀을 인수했습니다.",
       "price": {
         "latest_close": 130.93,
         "latest_date": "2026-11-25",
@@ -479,8 +480,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:38+00:00"
-      },
-      "summary_ko": "작성자 주: 마벨은 11월에 루멘텀의 일정에 따라 시가총액 1,150억 달러로 루멘텀을 인수했습니다."
+      }
     },
     {
       "ticker": "LITE",
@@ -493,11 +493,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2125738646477455841",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-10-29T05:54:36+00:00",
@@ -555,6 +555,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작가는 Lumentum의 여정을 놀라운 것으로 묘사하며, 매진된 생산 능력, 주요 LTA(장기 공급 계약), 1,150억 달러의 추정 인수 가치를 언급하는 한편, 주가가 15% 하락하여 현재 가치가 430억 달러로 평가된다고 언급합니다.",
       "price": {
         "latest_close": 476.58,
         "latest_date": "2026-11-25",
@@ -565,8 +566,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:39+00:00"
-      },
-      "summary_ko": "작가는 Lumentum의 여정을 놀라운 것으로 묘사하며, 매진된 생산 능력, 주요 LTA(장기 공급 계약), 1,150억 달러의 추정 인수 가치를 언급하는 한편, 주가가 15% 하락하여 현재 가치가 430억 달러로 평가된다고 언급합니다."
+      }
     },
     {
       "ticker": "SPCX",
@@ -578,12 +578,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
       "post_url": "https://x.com/aleabitoreddit/status/2125715518154019298",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-02T23:46:49+00:00",
@@ -626,6 +626,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작가는 SPCX의 440억 달러 규모 GPU 자금 조달이 초과 청약되었다는 사실을 대형 기업들이 여전히 자본에 대한 강력한 접근성을 보유하고 있다는 증거로 인용합니다.",
       "price": {
         "latest_close": 127.44,
         "latest_date": "2026-11-25",
@@ -636,8 +637,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:39+00:00"
-      },
-      "summary_ko": "작가는 SPCX의 440억 달러 규모 GPU 자금 조달이 초과 청약되었다는 사실을 대형 기업들이 여전히 자본에 대한 강력한 접근성을 보유하고 있다는 증거로 인용합니다."
+      }
     },
     {
       "ticker": "NBIS",
@@ -650,11 +650,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2125715518154019298",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
@@ -687,6 +687,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 NBIS가 하이퍼스케일러 거래 상대방과의 Neocloud 성장을 위해 지속적인 투자등급 자금 가용성의 수혜자라고 지적합니다.",
       "price": {
         "latest_close": 84.99,
         "latest_date": "2026-11-25",
@@ -697,8 +698,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:39+00:00"
-      },
-      "summary_ko": "저자는 NBIS가 하이퍼스케일러 거래 상대방과의 Neocloud 성장을 위해 지속적인 투자등급 자금 가용성의 수혜자라고 지적합니다."
+      }
     },
     {
       "ticker": "META",
@@ -711,11 +711,11 @@
       "post_url": "https://x.com/aleabitoreddit/status/2125715518154019298",
       "company_name": "",
       "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
       "previous_stance": null,
-      "mentions_delta": 1,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-07T23:45:09+00:00",
@@ -733,6 +733,7 @@
           "to": "neutral"
         }
       ],
+      "summary_ko": "Meta는 CoreWeave의 GPU 담보 45억 달러 대출 판매에 대한 하이퍼스케일러 상대방으로만 언급되며, 독립적인 의견은 제시되지 않습니다.",
       "price": {
         "latest_close": 609.89,
         "latest_date": "2026-11-25",
@@ -743,8 +744,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:40+00:00"
-      },
-      "summary_ko": "Meta는 CoreWeave의 GPU 담보 45억 달러 대출 판매에 대한 하이퍼스케일러 상대방으로만 언급되며, 독립적인 의견은 제시되지 않습니다."
+      }
     },
     {
       "ticker": "IREN",
@@ -756,12 +756,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/IREN",
       "post_url": "https://x.com/aleabitoreddit/status/2125715518154019298",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-08T23:45:38+00:00",
@@ -784,6 +784,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "저자는 IREN이 하이퍼스케일러 거래 상대방과의 Neocloud 성장을 위해 지속적인 투자등급 자금 가용성의 수혜를 받고 있다고 지적합니다.",
       "price": {
         "latest_close": 12.85,
         "latest_date": "2026-11-25",
@@ -794,8 +795,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:40+00:00"
-      },
-      "summary_ko": "저자는 IREN이 하이퍼스케일러 거래 상대방과의 Neocloud 성장을 위해 지속적인 투자등급 자금 가용성의 수혜를 받고 있다고 지적합니다."
+      }
     },
     {
       "ticker": "CRWV",
@@ -807,12 +807,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/CRWV",
       "post_url": "https://x.com/aleabitoreddit/status/2125715518154019298",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-04T11:59:59+00:00",
@@ -840,6 +840,7 @@
           "to": "bullish"
         }
       ],
+      "summary_ko": "작성자 주 CoreWeave는 Meta와의 계약과 연계된 45억 달러 규모의 GPU 담보 대출 판매를 준비하고 있으며, 부실 채권에 대한 우려에도 불구하고 하이퍼스케일러와 연계된 구축을 통해 여전히 성장할 수 있다고 밝혔습니다.",
       "price": {
         "latest_close": 42.57,
         "latest_date": "2026-11-25",
@@ -850,8 +851,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:40+00:00"
-      },
-      "summary_ko": "작성자 주 CoreWeave는 Meta와의 계약과 연계된 45억 달러 규모의 GPU 담보 대출 판매를 준비하고 있으며, 부실 채권에 대한 우려에도 불구하고 하이퍼스케일러와 연계된 구축을 통해 여전히 성장할 수 있다고 밝혔습니다."
+      }
     },
     {
       "ticker": "HPE",
@@ -870,6 +870,7 @@
       "previous_stance": null,
       "mentions_delta": 0,
       "stance_history": [],
+      "summary_ko": "저자는 HPE의 CEO가 메모리, NAND 및 기타 핵심 부품 공급이 적어도 2028년 하반기까지 제한될 것이라고 말한 것을 인용합니다.",
       "price": {
         "latest_close": 40.82,
         "latest_date": "2026-11-25",
@@ -880,8 +881,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:40+00:00"
-      },
-      "summary_ko": "저자는 HPE의 CEO가 메모리, NAND 및 기타 핵심 부품 공급이 적어도 2028년 하반기까지 제한될 것이라고 말한 것을 인용합니다."
+      }
     },
     {
       "ticker": "DELL",
@@ -900,6 +900,7 @@
       "previous_stance": null,
       "mentions_delta": 0,
       "stance_history": [],
+      "summary_ko": "저자는 Dell의 부회장이 기업용 NAND 및 서버용 DRAM 가격이 하락할 기미가 없다고 말한 것을 인용합니다.",
       "price": {
         "latest_close": 297.06,
         "latest_date": "2026-11-25",
@@ -910,8 +911,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:41+00:00"
-      },
-      "summary_ko": "저자는 Dell의 부회장이 기업용 NAND 및 서버용 DRAM 가격이 하락할 기미가 없다고 말한 것을 인용합니다."
+      }
     },
     {
       "ticker": "AMBA",
@@ -930,6 +930,7 @@
       "previous_stance": null,
       "mentions_delta": 0,
       "stance_history": [],
+      "summary_ko": "작성자는 DRAM 듀레이션에 대한 낙관적인 의견을 제시하며 AMBA의 실적을 인용하지만, 소비자 수요가 약화되고 있다고 언급합니다.",
       "price": {
         "latest_close": 35.68,
         "latest_date": "2026-11-25",
@@ -940,8 +941,7 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-26T06:08:41+00:00"
-      },
-      "summary_ko": "작성자는 DRAM 듀레이션에 대한 낙관적인 의견을 제시하며 AMBA의 실적을 인용하지만, 소비자 수요가 약화되고 있다고 언급합니다."
+      }
     },
     {
       "ticker": "GOOGL",
