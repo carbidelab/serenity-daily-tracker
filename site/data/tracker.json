@@ -1,7 +1,7 @@
 {
   "source": "https://serenitystock.com/",
   "source_type": "third_party_archive_snapshot",
-  "last_successful_sync_utc": "2026-11-28T04:44:25+00:00",
+  "last_successful_sync_utc": "2026-11-28T14:13:27+00:00",
   "disclaimer": "Not an official or complete X feed. Changes are between observed archive snapshots, not the date a post was authored.",
   "stocks": [
     {
@@ -153,12 +153,12 @@
       "detail_url": "https://serenitystock.com/stocks/NMS/AAPL",
       "post_url": "https://x.com/aleabitoreddit/status/2126470123901088164",
       "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
       "new_since_previous": false,
-      "previous_stance": "neutral",
-      "mentions_delta": 1,
+      "previous_stance": null,
+      "mentions_delta": 0,
       "stance_history": [
         {
           "observed_at_utc": "2026-11-16T23:52:45+00:00",
@@ -176,6 +176,7 @@
           "to": "bearish"
         }
       ],
+      "summary_ko": "한 개발자가 매우 신빙성 있는 AAPL 취약점을 경고하며, 약간 오래된 iOS에서는 웹사이트를 여는 것만으로도 해킹당하기에 충분하다고 밝혔습니다.",
       "price": {
         "latest_close": 358.54,
         "latest_date": "2026-11-27",
@@ -186,24 +187,23 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-28T04:44:31+00:00"
-      },
-      "summary_ko": "한 개발자가 매우 신빙성 있는 AAPL 취약점을 경고하며, 약간 오래된 iOS에서는 웹사이트를 여는 것만으로도 해킹당하기에 충분하다고 밝혔습니다."
+      }
     },
     {
       "ticker": "SPCX",
-      "stance": "unclear",
-      "summary_en": "Author cites SPCX only as an example of an important supplier that may help refinance a company, without expressing an investment view.",
-      "mentions": 48,
-      "last_seen": "Nov 27, 2026, 09:36 PM",
+      "stance": "neutral",
+      "summary_en": "Author relays Elon Musk saying SpaceX compute rental prices are rising overall, especially for large high-bandwidth training clusters, contrasting with market selloff on oversupply fears.",
+      "mentions": 49,
+      "last_seen": "Nov 28, 2026, 10:01 AM",
       "first_mention": "Dec 09, 2025, 10:48 PM",
       "detail_url": "https://serenitystock.com/stocks/NMS/SPCX",
-      "post_url": "https://x.com/aleabitoreddit/status/2126429899141636315",
+      "post_url": "https://x.com/aleabitoreddit/status/2126617345569567144",
       "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "bullish",
+      "previous_stance": "unclear",
       "mentions_delta": 1,
       "stance_history": [
         {
@@ -250,6 +250,11 @@
           "observed_at_utc": "2026-11-28T04:44:25+00:00",
           "from": "bullish",
           "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-28T14:13:27+00:00",
+          "from": "unclear",
+          "to": "neutral"
         }
       ],
       "price": {
@@ -262,63 +267,32 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-28T04:44:31+00:00"
-      },
-      "summary_ko": "작성자는 투자 의견을 표명하지 않고 SPCX를 기업의 재융자를 지원할 수 있는 중요한 공급업체의 예시로만 인용합니다."
+      }
     },
     {
-      "ticker": "LITE",
-      "stance": "bullish",
-      "summary_en": "Author highlights Lumentum's take-or-pay customer commitments and prepayment elements, calling it a gold standard for financing and demand signals.",
-      "mentions": 444,
-      "last_seen": "Nov 27, 2026, 09:36 PM",
-      "first_mention": "Oct 25, 2025, 06:17 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
-      "post_url": "https://x.com/aleabitoreddit/status/2126429899141636315",
+      "ticker": "NBIS",
+      "stance": "neutral",
+      "summary_en": "Author says Musk's comments on SPCX compute rental prices are relevant to NBIS and other Neocloud compute-rental companies, without giving a specific NBIS view.",
+      "mentions": 725,
+      "last_seen": "Nov 28, 2026, 10:01 AM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
+      "post_url": "https://x.com/aleabitoreddit/status/2126617345569567144",
       "company_name": "",
-      "stance_changed": true,
+      "stance_changed": false,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "neutral",
+      "previous_stance": null,
       "mentions_delta": 1,
       "stance_history": [
         {
-          "observed_at_utc": "2026-10-29T05:54:36+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "neutral",
-          "to": "bearish"
-        },
-        {
           "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
           "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "neutral",
           "to": "unclear"
         },
         {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
           "from": "unclear",
           "to": "bullish"
         },
@@ -328,12 +302,17 @@
           "to": "neutral"
         },
         {
-          "observed_at_utc": "2026-11-10T11:58:27+00:00",
+          "observed_at_utc": "2026-11-11T12:04:38+00:00",
           "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-20T23:57:18+00:00",
+          "from": "bullish",
           "to": "bearish"
         },
         {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "observed_at_utc": "2026-11-24T12:09:33+00:00",
           "from": "bearish",
           "to": "bullish"
         },
@@ -341,546 +320,35 @@
           "observed_at_utc": "2026-11-27T15:06:06+00:00",
           "from": "bullish",
           "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-28T04:44:25+00:00",
-          "from": "neutral",
-          "to": "bullish"
         }
       ],
       "price": {
-        "latest_close": 514.63,
+        "latest_close": 89.46,
         "latest_date": "2026-11-27",
-        "first_close": 193.8,
-        "first_price_date": "2025-10-27",
-        "return_pct": 165.55,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:32+00:00"
-      },
-      "summary_ko": "작성자는 Lumentum의 테이크 오어 페이(take-or-pay) 고객 약정 및 선지급 요소를 강조하며 이를 자금 조달 및 수요 신호의 '골드 스탠다드'라고 부릅니다."
-    },
-    {
-      "ticker": "COHR",
-      "stance": "bullish",
-      "summary_en": "Author notes Coherent's CEO cited upfront payments in almost every LTA and groups Coherent with Lumentum as a gold standard for financing and demand signals.",
-      "mentions": 227,
-      "last_seen": "Nov 27, 2026, 09:36 PM",
-      "first_mention": "Dec 01, 2025, 05:21 PM",
-      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
-      "post_url": "https://x.com/aleabitoreddit/status/2126429899141636315",
-      "company_name": "코히런트 (Coherent)",
-      "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-05T12:04:42+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-06T11:59:23+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-08T11:50:16+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        }
-      ],
-      "price": {
-        "latest_close": 223.79,
-        "latest_date": "2026-11-27",
-        "first_close": 163.5,
-        "first_price_date": "2025-12-01",
-        "return_pct": 36.87,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:32+00:00"
-      },
-      "summary_ko": "작성자 주 Coherent의 CEO는 거의 모든 LTA에서 선급금을 언급했으며, Coherent와 Lumentum을 자금 조달 및 수요 신호의 골드 스탠더드로 꼽았습니다."
-    },
-    {
-      "ticker": "AAOI",
-      "stance": "bullish",
-      "summary_en": "Author finds AAOI operationally compelling at $3.7B market cap with large LTAs and a $700m CPO/laser contract, but flags ATMs, management credibility, and financing concerns; still sees it compelling in H2 2027.",
-      "mentions": 416,
-      "last_seen": "Nov 27, 2026, 09:36 PM",
-      "first_mention": "Dec 11, 2025, 10:10 PM",
-      "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
-      "post_url": "https://x.com/aleabitoreddit/status/2126429899141636315",
-      "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-03T11:56:43+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-03T23:48:06+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-10T11:58:27+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-18T06:17:01+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-24T06:09:31+00:00",
-          "from": "bearish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-27T15:06:06+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-28T04:44:25+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        }
-      ],
-      "price": {
-        "latest_close": 40.9,
-        "latest_date": "2026-11-27",
-        "first_close": 36.32,
-        "first_price_date": "2025-12-11",
-        "return_pct": 12.61,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:32+00:00"
-      },
-      "summary_ko": "작성자는 AAOI가 37억 달러의 시가총액, 대규모 LTA 및 7억 달러 규모의 CPO/레이저 계약을 보유하고 있어 운영 측면에서 매력적이라고 평가하지만, ATM, 경영진의 신뢰성, 자금 조달 우려를 지적합니다. 그럼에도 불구하고 2027년 하반기에는 여전히 매력적일 것으로 전망합니다."
-    },
-    {
-      "ticker": "PANW",
-      "stance": "neutral",
-      "summary_en": "Author cites Palo Alto Networks' November research documenting 25 operations against at least 19 organizations.",
-      "mentions": 2,
-      "last_seen": "Nov 27, 2026, 08:04 PM",
-      "first_mention": "Nov 16, 2026, 07:01 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/PANW",
-      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
-      "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-28T04:44:25+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "price": {
-        "latest_close": 366.76,
-        "latest_date": "2026-11-27",
-        "first_close": 316.09,
-        "first_price_date": "2026-11-16",
-        "return_pct": 16.03,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:33+00:00"
-      },
-      "summary_ko": "작가는 팔로알토 네트웍스의 11월 연구를 인용하여 최소 19개 조직을 대상으로 한 25건의 공격을 기록하고 있습니다."
-    },
-    {
-      "ticker": "MSFT",
-      "stance": "neutral",
-      "summary_en": "Author cites Microsoft's October report of a large-scale nation-state campaign using ARTEX that enables supply chain compromise for downstream customers.",
-      "mentions": 176,
-      "last_seen": "Nov 27, 2026, 08:04 PM",
-      "first_mention": "Sep 27, 2025, 10:53 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MSFT",
-      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
-      "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "bullish",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-12T23:53:52+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-27T00:06:55+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-28T04:44:25+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "price": {
-        "latest_close": 492.85,
-        "latest_date": "2026-11-27",
-        "first_close": 514.6,
-        "first_price_date": "2025-09-29",
-        "return_pct": -4.23,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:33+00:00"
-      },
-      "summary_ko": "작성자는 ARTEX를 사용하여 다운스트림 고객의 공급망을 침해하는 대규모 국가 주도 캠페인에 대한 Microsoft의 10월 보고서를 인용합니다."
-    },
-    {
-      "ticker": "GOOGL",
-      "stance": "neutral",
-      "summary_en": "Author cites Google Threat Intelligence Group's November finding of a significant inflection point in autonomous AI threat activity.",
-      "mentions": 232,
-      "last_seen": "Nov 27, 2026, 08:04 PM",
-      "first_mention": "Jul 03, 2025, 09:57 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
-      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
-      "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "watchlist",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-05T23:52:53+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-07T23:45:09+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-24T06:09:31+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-24T23:58:21+00:00",
-          "from": "unclear",
-          "to": "watchlist"
-        },
-        {
-          "observed_at_utc": "2026-11-28T04:44:25+00:00",
-          "from": "watchlist",
-          "to": "neutral"
-        }
-      ],
-      "price": {
-        "latest_close": 274.96,
-        "latest_date": "2026-11-27",
-        "first_close": 179.53,
-        "first_price_date": "2025-07-03",
-        "return_pct": 53.16,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:33+00:00"
-      },
-      "summary_ko": "작가는 Google Threat Intelligence Group이 11월에 발표한 자율 AI 위협 활동의 중대한 전환점에 대한 조사 결과를 인용합니다."
-    },
-    {
-      "ticker": "CRWD",
-      "stance": "neutral",
-      "summary_en": "Author notes CrowdStrike confirmed AI agents were used against 200+ organizations and access at nine organizations in October.",
-      "mentions": 23,
-      "last_seen": "Nov 27, 2026, 08:04 PM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/CRWD",
-      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
-      "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "bearish",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-28T04:44:25+00:00",
-          "from": "bearish",
-          "to": "neutral"
-        }
-      ],
-      "price": {
-        "latest_close": 217.2,
-        "latest_date": "2026-11-27",
-        "first_close": 120.395,
+        "first_close": 52.37,
         "first_price_date": "2025-07-21",
-        "return_pct": 80.41,
+        "return_pct": 70.82,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:34+00:00"
-      },
-      "summary_ko": "작성자 주 CrowdStrike는 AI 에이전트가 10월에 200개 이상의 조직을 상대로 사용되었으며 9개 조직에 대한 액세스가 이루어졌음을 확인했습니다."
+        "fetched_utc": "2026-11-28T04:44:37+00:00"
+      }
     },
     {
-      "ticker": "AMZN",
-      "stance": "neutral",
-      "summary_en": "Author cites Amazon Threat Intelligence's November report that a Chinese-nexus actor's Cairn AI agents found a zero-day on their own, targeting universities.",
-      "mentions": 188,
-      "last_seen": "Nov 27, 2026, 08:04 PM",
-      "first_mention": "Sep 24, 2025, 11:36 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
-      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
-      "company_name": "",
-      "stance_changed": true,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": "unclear",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-02T23:46:49+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-24T06:09:31+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-28T04:44:25+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        }
-      ],
-      "price": {
-        "latest_close": 254.12,
-        "latest_date": "2026-11-27",
-        "first_close": 220.21,
-        "first_price_date": "2025-09-24",
-        "return_pct": 15.4,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:34+00:00"
-      },
-      "summary_ko": "작성자는 Amazon Threat Intelligence의 11월 보고서를 인용하여 중국과 연관된 공격 주체의 Cairn AI 에이전트가 대학을 대상으로 한 제로데이를 자체적으로 발견했다고 언급합니다."
-    },
-    {
-      "ticker": "ANT",
-      "stance": "unclear",
-      "summary_en": "The post relays a rumor that AI labs at $ANT or OpenAI discovered algorithms that could break public-key cryptography, expressing alarm but no clear investment stance on $ANT.",
-      "mentions": 13,
-      "last_seen": "Nov 27, 2026, 06:11 PM",
-      "first_mention": "Oct 26, 2026, 04:14 PM",
-      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
-      "post_url": "https://x.com/aleabitoreddit/status/2126378481714168280",
-      "company_name": "",
+      "ticker": "NVDA",
+      "stance": "bearish",
+      "summary_en": "Author quotes a bearish view that labs will get better returns on components than NVDA and bid up prices until Nvidia cannot profitably secure components.",
+      "mentions": 467,
+      "last_seen": "Nov 28, 2026, 08:55 AM",
+      "first_mention": "Aug 25, 2025, 08:41 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
+      "post_url": "https://x.com/aleabitoreddit/status/2126600942560919834",
+      "company_name": "엔비디아 (NVIDIA)",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
       "previous_stance": "neutral",
-      "mentions_delta": 1,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-10T23:46:34+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-11T23:56:52+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-16T23:52:45+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-17T11:59:37+00:00",
-          "from": "bearish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
-          "from": "unclear",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-19T23:54:50+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-20T23:57:18+00:00",
-          "from": "unclear",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-24T23:58:21+00:00",
-          "from": "bearish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-28T04:44:25+00:00",
-          "from": "neutral",
-          "to": "unclear"
-        }
-      ],
-      "price": {
-        "latest_close": 91.88,
-        "latest_date": "2026-11-27",
-        "first_close": 97.17,
-        "first_price_date": "2026-11-19",
-        "return_pct": -5.44,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:34+00:00"
-      },
-      "summary_ko": "이 게시물은 $ANT 또는 OpenAI의 AI 연구소가 공개 키 암호화를 해독할 수 있는 알고리즘을 발견했다는 소문을 전하며 우려를 표명하지만 $ANT에 대한 명확한 투자 입장은 밝히지 않습니다."
-    },
-    {
-      "ticker": "AXTI",
-      "stance": "neutral",
-      "summary_en": "The post notes indium phosphide substrate prices rose several percentage points in Q4 after no increase in Q3 2026, with AXT subsidiary Tongmei named among primary suppliers.",
-      "mentions": 471,
-      "last_seen": "Nov 27, 2026, 05:40 AM",
-      "first_mention": "Dec 22, 2025, 09:48 AM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/AXTI",
-      "post_url": "https://x.com/aleabitoreddit/status/2126189347481538755",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-27T15:06:06+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "이 게시물에 따르면, 2026년 3분기에는 가격이 오르지 않았으나 4분기에는 인듐 인화물 기판 가격이 몇 %p 상승했으며, AXT의 자회사인 통메이(Tongmei)가 주요 공급업체 중 하나로 언급되었습니다.",
-      "price": {
-        "latest_close": 36.37,
-        "latest_date": "2026-11-27",
-        "first_close": 15.22,
-        "first_price_date": "2025-12-22",
-        "return_pct": 138.96,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:35+00:00"
-      }
-    },
-    {
-      "ticker": "AIXA.DE",
-      "stance": "neutral",
-      "summary_en": "MOCVD equipment delivery lead times remain stable at about 12 months, with AIXA and related names unchanged.",
-      "mentions": 8,
-      "last_seen": "Nov 27, 2026, 05:40 AM",
-      "first_mention": "Feb 27, 2026, 08:27 PM",
-      "detail_url": "https://serenitystock.com/stocks/GER/AIXA.DE",
-      "post_url": "https://x.com/aleabitoreddit/status/2126189347481538755",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-27T15:06:06+00:00",
-          "from": "bearish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "MOCVD 장비 납품 소요 시간은 약 12개월로 안정적이며, AIXA 및 관련 명칭은 변동이 없습니다.",
-      "price": {
-        "latest_close": 26.02,
-        "latest_date": "2026-11-26",
-        "first_close": 27.6,
-        "first_price_date": "2026-02-27",
-        "return_pct": -5.72,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:35+00:00"
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "stance": "neutral",
-      "summary_en": "Author lists Nvidia scaling back financing support for neocloud providers as a bear-case assumption in the DRAM demand outlook.",
-      "mentions": 466,
-      "last_seen": "Nov 27, 2026, 05:09 PM",
-      "first_mention": "Aug 25, 2025, 08:41 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NVDA",
-      "post_url": "https://x.com/aleabitoreddit/status/2126362821621690751",
-      "company_name": "엔비디아 (NVIDIA)",
-      "stance_changed": false,
-      "new_mention_since_previous": true,
-      "changed_since_previous": true,
-      "new_since_previous": false,
-      "previous_stance": null,
       "mentions_delta": 1,
       "stance_history": [
         {
@@ -1007,6 +475,11 @@
           "observed_at_utc": "2026-11-26T06:08:32+00:00",
           "from": "unclear",
           "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-28T14:13:27+00:00",
+          "from": "neutral",
+          "to": "bearish"
         }
       ],
       "price": {
@@ -1019,19 +492,18 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-28T04:44:35+00:00"
-      },
-      "summary_ko": "작성자는 DRAM 수요 전망에서 비관적 가정으로 네오클라우드(neocloud) 제공업체에 대한 엔비디아의 자금 지원 축소를 꼽습니다."
+      }
     },
     {
-      "ticker": "MU",
+      "ticker": "ANT",
       "stance": "bullish",
-      "summary_en": "Author highlights Micron's buyback restrictions ending Dec 9, 2026 and its plan to return 100% of excess cash, while arguing 2028 demand/pricing destruction is priced in and price-floor LTAs improve memory durability.",
-      "mentions": 213,
-      "last_seen": "Nov 27, 2026, 05:09 PM",
-      "first_mention": "Sep 25, 2025, 04:25 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/MU",
-      "post_url": "https://x.com/aleabitoreddit/status/2126362821621690751",
-      "company_name": "마이크론 (Micron)",
+      "summary_en": "Author shares Leopold's forecast that ANT could run-rate many hundreds of billions in revenue by end-2027, plausibly approaching $1T on its own.",
+      "mentions": 14,
+      "last_seen": "Nov 28, 2026, 08:55 AM",
+      "first_mention": "Oct 26, 2026, 04:14 PM",
+      "detail_url": "https://serenitystock.com/stocks/UNKNOWN/ANT",
+      "post_url": "https://x.com/aleabitoreddit/status/2126600942560919834",
+      "company_name": "",
       "stance_changed": true,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
@@ -1040,59 +512,83 @@
       "mentions_delta": 1,
       "stance_history": [
         {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "observed_at_utc": "2026-11-10T23:46:34+00:00",
           "from": "bullish",
-          "to": "neutral"
+          "to": "bearish"
         },
         {
-          "observed_at_utc": "2026-11-13T23:49:43+00:00",
-          "from": "neutral",
+          "observed_at_utc": "2026-11-11T23:56:52+00:00",
+          "from": "bearish",
           "to": "bullish"
         },
         {
-          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "observed_at_utc": "2026-11-16T23:52:45+00:00",
           "from": "bullish",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-17T11:59:37+00:00",
+          "from": "bearish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
           "to": "neutral"
         },
         {
-          "observed_at_utc": "2026-11-22T06:07:01+00:00",
+          "observed_at_utc": "2026-11-19T23:54:50+00:00",
           "from": "neutral",
           "to": "unclear"
         },
         {
+          "observed_at_utc": "2026-11-20T23:57:18+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-24T23:58:21+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        },
+        {
           "observed_at_utc": "2026-11-28T04:44:25+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-28T14:13:27+00:00",
           "from": "unclear",
           "to": "bullish"
         }
       ],
       "price": {
-        "latest_close": 646.95,
+        "latest_close": 91.88,
         "latest_date": "2026-11-27",
-        "first_close": 156.83,
-        "first_price_date": "2025-09-25",
-        "return_pct": 312.52,
+        "first_close": 97.17,
+        "first_price_date": "2026-11-19",
+        "return_pct": -5.44,
         "currency": "USD",
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:36+00:00"
-      },
-      "summary_ko": "작성자는 2026년 12월 9일에 종료되는 마이크론의 자사주 매입 제한과 잉여 현금의 100%를 환원하겠다는 계획을 강조하는 한편, 2028년 수요/가격 하락이 이미 주가에 반영되었으며 최저 가격 LTA가 메모리 내구성을 개선한다고 주장합니다."
+        "fetched_utc": "2026-11-28T04:44:34+00:00"
+      }
     },
     {
       "ticker": "000660.KS",
       "stance": "bullish",
-      "summary_en": "Author notes SKHY doubled daily buybacks after Korea relaxed buyback rules and cited undervaluation, and agrees its shares look increasingly undervalued if memory durability and pricing stay elevated.",
-      "mentions": 127,
-      "last_seen": "Nov 27, 2026, 05:09 PM",
+      "summary_en": "Author notes Leopold's estimate that SKHY trades around 2x 2027 earnings and can buy back half the company by end-2027.",
+      "mentions": 128,
+      "last_seen": "Nov 28, 2026, 08:55 AM",
       "first_mention": "Nov 04, 2025, 06:04 PM",
       "detail_url": "https://serenitystock.com/stocks/KSC/000660.KS",
-      "post_url": "https://x.com/aleabitoreddit/status/2126362821621690751",
+      "post_url": "https://x.com/aleabitoreddit/status/2126600942560919834",
       "company_name": "SK하이닉스",
-      "stance_changed": true,
+      "stance_changed": false,
       "new_mention_since_previous": true,
       "changed_since_previous": true,
       "new_since_previous": false,
-      "previous_stance": "neutral",
+      "previous_stance": null,
       "mentions_delta": 1,
       "stance_history": [
         {
@@ -1121,8 +617,588 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-28T04:44:36+00:00"
-      },
-      "summary_ko": "작성자 참고 SK하이닉스는 한국이 자사주 매수 규제를 완화하고 저평가를 언급한 후 일일 자사주 매수량을 두 배로 늘렸으며, 메모리 내구성과 가격이 높은 수준을 유지한다면 자사주가 점점 더 저평가되는 것으로 보인다는 데 동의합니다."
+      }
+    },
+    {
+      "ticker": "LITE",
+      "stance": "bullish",
+      "summary_en": "Author highlights Lumentum's take-or-pay customer commitments and prepayment elements, calling it a gold standard for financing and demand signals.",
+      "mentions": 444,
+      "last_seen": "Nov 27, 2026, 09:36 PM",
+      "first_mention": "Oct 25, 2025, 06:17 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/LITE",
+      "post_url": "https://x.com/aleabitoreddit/status/2126429899141636315",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-10-29T05:54:36+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-09T23:49:20+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-10T11:58:27+00:00",
+          "from": "neutral",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "bearish",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-27T15:06:06+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-28T04:44:25+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "summary_ko": "작성자는 Lumentum의 테이크 오어 페이(take-or-pay) 고객 약정 및 선지급 요소를 강조하며 이를 자금 조달 및 수요 신호의 '골드 스탠다드'라고 부릅니다.",
+      "price": {
+        "latest_close": 514.63,
+        "latest_date": "2026-11-27",
+        "first_close": 193.8,
+        "first_price_date": "2025-10-27",
+        "return_pct": 165.55,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:32+00:00"
+      }
+    },
+    {
+      "ticker": "COHR",
+      "stance": "bullish",
+      "summary_en": "Author notes Coherent's CEO cited upfront payments in almost every LTA and groups Coherent with Lumentum as a gold standard for financing and demand signals.",
+      "mentions": 227,
+      "last_seen": "Nov 27, 2026, 09:36 PM",
+      "first_mention": "Dec 01, 2025, 05:21 PM",
+      "detail_url": "https://serenitystock.com/stocks/NYQ/COHR",
+      "post_url": "https://x.com/aleabitoreddit/status/2126429899141636315",
+      "company_name": "코히런트 (Coherent)",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-03T06:02:39+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-05T12:04:42+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-06T11:59:23+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-08T11:50:16+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        }
+      ],
+      "summary_ko": "작성자 주 Coherent의 CEO는 거의 모든 LTA에서 선급금을 언급했으며, Coherent와 Lumentum을 자금 조달 및 수요 신호의 골드 스탠더드로 꼽았습니다.",
+      "price": {
+        "latest_close": 223.79,
+        "latest_date": "2026-11-27",
+        "first_close": 163.5,
+        "first_price_date": "2025-12-01",
+        "return_pct": 36.87,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:32+00:00"
+      }
+    },
+    {
+      "ticker": "AAOI",
+      "stance": "bullish",
+      "summary_en": "Author finds AAOI operationally compelling at $3.7B market cap with large LTAs and a $700m CPO/laser contract, but flags ATMs, management credibility, and financing concerns; still sees it compelling in H2 2027.",
+      "mentions": 416,
+      "last_seen": "Nov 27, 2026, 09:36 PM",
+      "first_mention": "Dec 11, 2025, 10:10 PM",
+      "detail_url": "https://serenitystock.com/stocks/NGM/AAOI",
+      "post_url": "https://x.com/aleabitoreddit/status/2126429899141636315",
+      "company_name": "어플라이드 옵토일렉트로닉스 (Applied Optoelectronics)",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-03T11:56:43+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-03T23:48:06+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-10T11:58:27+00:00",
+          "from": "bullish",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T06:17:01+00:00",
+          "from": "unclear",
+          "to": "bearish"
+        },
+        {
+          "observed_at_utc": "2026-11-24T06:09:31+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-27T15:06:06+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-28T04:44:25+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "summary_ko": "작성자는 AAOI가 37억 달러의 시가총액, 대규모 LTA 및 7억 달러 규모의 CPO/레이저 계약을 보유하고 있어 운영 측면에서 매력적이라고 평가하지만, ATM, 경영진의 신뢰성, 자금 조달 우려를 지적합니다. 그럼에도 불구하고 2027년 하반기에는 여전히 매력적일 것으로 전망합니다.",
+      "price": {
+        "latest_close": 40.9,
+        "latest_date": "2026-11-27",
+        "first_close": 36.32,
+        "first_price_date": "2025-12-11",
+        "return_pct": 12.61,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:32+00:00"
+      }
+    },
+    {
+      "ticker": "PANW",
+      "stance": "neutral",
+      "summary_en": "Author cites Palo Alto Networks' November research documenting 25 operations against at least 19 organizations.",
+      "mentions": 2,
+      "last_seen": "Nov 27, 2026, 08:04 PM",
+      "first_mention": "Nov 16, 2026, 07:01 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/PANW",
+      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-28T04:44:25+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "작가는 팔로알토 네트웍스의 11월 연구를 인용하여 최소 19개 조직을 대상으로 한 25건의 공격을 기록하고 있습니다.",
+      "price": {
+        "latest_close": 366.76,
+        "latest_date": "2026-11-27",
+        "first_close": 316.09,
+        "first_price_date": "2026-11-16",
+        "return_pct": 16.03,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:33+00:00"
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "stance": "neutral",
+      "summary_en": "Author cites Microsoft's October report of a large-scale nation-state campaign using ARTEX that enables supply chain compromise for downstream customers.",
+      "mentions": 176,
+      "last_seen": "Nov 27, 2026, 08:04 PM",
+      "first_mention": "Sep 27, 2025, 10:53 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MSFT",
+      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-12T23:53:52+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-27T00:06:55+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-28T04:44:25+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "작성자는 ARTEX를 사용하여 다운스트림 고객의 공급망을 침해하는 대규모 국가 주도 캠페인에 대한 Microsoft의 10월 보고서를 인용합니다.",
+      "price": {
+        "latest_close": 492.85,
+        "latest_date": "2026-11-27",
+        "first_close": 514.6,
+        "first_price_date": "2025-09-29",
+        "return_pct": -4.23,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:33+00:00"
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "stance": "neutral",
+      "summary_en": "Author cites Google Threat Intelligence Group's November finding of a significant inflection point in autonomous AI threat activity.",
+      "mentions": 232,
+      "last_seen": "Nov 27, 2026, 08:04 PM",
+      "first_mention": "Jul 03, 2025, 09:57 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/GOOGL",
+      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-05T23:52:53+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-07T23:45:09+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-24T06:09:31+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-24T23:58:21+00:00",
+          "from": "unclear",
+          "to": "watchlist"
+        },
+        {
+          "observed_at_utc": "2026-11-28T04:44:25+00:00",
+          "from": "watchlist",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "작가는 Google Threat Intelligence Group이 11월에 발표한 자율 AI 위협 활동의 중대한 전환점에 대한 조사 결과를 인용합니다.",
+      "price": {
+        "latest_close": 274.96,
+        "latest_date": "2026-11-27",
+        "first_close": 179.53,
+        "first_price_date": "2025-07-03",
+        "return_pct": 53.16,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:33+00:00"
+      }
+    },
+    {
+      "ticker": "CRWD",
+      "stance": "neutral",
+      "summary_en": "Author notes CrowdStrike confirmed AI agents were used against 200+ organizations and access at nine organizations in October.",
+      "mentions": 23,
+      "last_seen": "Nov 27, 2026, 08:04 PM",
+      "first_mention": "Jul 21, 2025, 02:13 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/CRWD",
+      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-28T04:44:25+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "작성자 주 CrowdStrike는 AI 에이전트가 10월에 200개 이상의 조직을 상대로 사용되었으며 9개 조직에 대한 액세스가 이루어졌음을 확인했습니다.",
+      "price": {
+        "latest_close": 217.2,
+        "latest_date": "2026-11-27",
+        "first_close": 120.395,
+        "first_price_date": "2025-07-21",
+        "return_pct": 80.41,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:34+00:00"
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "stance": "neutral",
+      "summary_en": "Author cites Amazon Threat Intelligence's November report that a Chinese-nexus actor's Cairn AI agents found a zero-day on their own, targeting universities.",
+      "mentions": 188,
+      "last_seen": "Nov 27, 2026, 08:04 PM",
+      "first_mention": "Sep 24, 2025, 11:36 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AMZN",
+      "post_url": "https://x.com/aleabitoreddit/status/2126406828980686901",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-02T23:46:49+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-24T06:09:31+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-28T04:44:25+00:00",
+          "from": "unclear",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "작성자는 Amazon Threat Intelligence의 11월 보고서를 인용하여 중국과 연관된 공격 주체의 Cairn AI 에이전트가 대학을 대상으로 한 제로데이를 자체적으로 발견했다고 언급합니다.",
+      "price": {
+        "latest_close": 254.12,
+        "latest_date": "2026-11-27",
+        "first_close": 220.21,
+        "first_price_date": "2025-09-24",
+        "return_pct": 15.4,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:34+00:00"
+      }
+    },
+    {
+      "ticker": "AXTI",
+      "stance": "neutral",
+      "summary_en": "The post notes indium phosphide substrate prices rose several percentage points in Q4 after no increase in Q3 2026, with AXT subsidiary Tongmei named among primary suppliers.",
+      "mentions": 471,
+      "last_seen": "Nov 27, 2026, 05:40 AM",
+      "first_mention": "Dec 22, 2025, 09:48 AM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/AXTI",
+      "post_url": "https://x.com/aleabitoreddit/status/2126189347481538755",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-27T15:06:06+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "이 게시물에 따르면, 2026년 3분기에는 가격이 오르지 않았으나 4분기에는 인듐 인화물 기판 가격이 몇 %p 상승했으며, AXT의 자회사인 통메이(Tongmei)가 주요 공급업체 중 하나로 언급되었습니다.",
+      "price": {
+        "latest_close": 36.37,
+        "latest_date": "2026-11-27",
+        "first_close": 15.22,
+        "first_price_date": "2025-12-22",
+        "return_pct": 138.96,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:35+00:00"
+      }
+    },
+    {
+      "ticker": "AIXA.DE",
+      "stance": "neutral",
+      "summary_en": "MOCVD equipment delivery lead times remain stable at about 12 months, with AIXA and related names unchanged.",
+      "mentions": 8,
+      "last_seen": "Nov 27, 2026, 05:40 AM",
+      "first_mention": "Feb 27, 2026, 08:27 PM",
+      "detail_url": "https://serenitystock.com/stocks/GER/AIXA.DE",
+      "post_url": "https://x.com/aleabitoreddit/status/2126189347481538755",
+      "company_name": "",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-27T15:06:06+00:00",
+          "from": "bearish",
+          "to": "neutral"
+        }
+      ],
+      "summary_ko": "MOCVD 장비 납품 소요 시간은 약 12개월로 안정적이며, AIXA 및 관련 명칭은 변동이 없습니다.",
+      "price": {
+        "latest_close": 26.02,
+        "latest_date": "2026-11-26",
+        "first_close": 27.6,
+        "first_price_date": "2026-02-27",
+        "return_pct": -5.72,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:35+00:00"
+      }
+    },
+    {
+      "ticker": "MU",
+      "stance": "bullish",
+      "summary_en": "Author highlights Micron's buyback restrictions ending Dec 9, 2026 and its plan to return 100% of excess cash, while arguing 2028 demand/pricing destruction is priced in and price-floor LTAs improve memory durability.",
+      "mentions": 213,
+      "last_seen": "Nov 27, 2026, 05:09 PM",
+      "first_mention": "Sep 25, 2025, 04:25 PM",
+      "detail_url": "https://serenitystock.com/stocks/NMS/MU",
+      "post_url": "https://x.com/aleabitoreddit/status/2126362821621690751",
+      "company_name": "마이크론 (Micron)",
+      "stance_changed": false,
+      "new_mention_since_previous": false,
+      "changed_since_previous": false,
+      "new_since_previous": false,
+      "previous_stance": null,
+      "mentions_delta": 0,
+      "stance_history": [
+        {
+          "observed_at_utc": "2026-11-04T23:51:55+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-13T23:49:43+00:00",
+          "from": "neutral",
+          "to": "bullish"
+        },
+        {
+          "observed_at_utc": "2026-11-18T23:58:49+00:00",
+          "from": "bullish",
+          "to": "neutral"
+        },
+        {
+          "observed_at_utc": "2026-11-22T06:07:01+00:00",
+          "from": "neutral",
+          "to": "unclear"
+        },
+        {
+          "observed_at_utc": "2026-11-28T04:44:25+00:00",
+          "from": "unclear",
+          "to": "bullish"
+        }
+      ],
+      "summary_ko": "작성자는 2026년 12월 9일에 종료되는 마이크론의 자사주 매입 제한과 잉여 현금의 100%를 환원하겠다는 계획을 강조하는 한편, 2028년 수요/가격 하락이 이미 주가에 반영되었으며 최저 가격 LTA가 메모리 내구성을 개선한다고 주장합니다.",
+      "price": {
+        "latest_close": 646.95,
+        "latest_date": "2026-11-27",
+        "first_close": 156.83,
+        "first_price_date": "2025-09-25",
+        "return_pct": 312.52,
+        "currency": "USD",
+        "basis": "unadjusted_daily_close",
+        "provider": "Yahoo Finance (unofficial via yfinance)",
+        "fetched_utc": "2026-11-28T04:44:36+00:00"
+      }
     },
     {
       "ticker": "SIVE.ST",
@@ -1173,72 +1249,6 @@
         "basis": "unadjusted_daily_close",
         "provider": "Yahoo Finance (unofficial via yfinance)",
         "fetched_utc": "2026-11-28T04:44:36+00:00"
-      }
-    },
-    {
-      "ticker": "NBIS",
-      "stance": "neutral",
-      "summary_en": "Mentioned as a retail-popular stock whose recent price action may reflect crowded-position unwinding rather than a company-specific fundamental view.",
-      "mentions": 724,
-      "last_seen": "Nov 27, 2026, 04:02 AM",
-      "first_mention": "Jul 21, 2025, 02:13 PM",
-      "detail_url": "https://serenitystock.com/stocks/NMS/NBIS",
-      "post_url": "https://x.com/aleabitoreddit/status/2126164719522426935",
-      "company_name": "",
-      "stance_changed": false,
-      "new_mention_since_previous": false,
-      "changed_since_previous": false,
-      "new_since_previous": false,
-      "previous_stance": null,
-      "mentions_delta": 0,
-      "stance_history": [
-        {
-          "observed_at_utc": "2026-11-03T06:02:39+00:00",
-          "from": "bullish",
-          "to": "unclear"
-        },
-        {
-          "observed_at_utc": "2026-11-04T23:51:55+00:00",
-          "from": "unclear",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-09T23:49:20+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        },
-        {
-          "observed_at_utc": "2026-11-11T12:04:38+00:00",
-          "from": "neutral",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-20T23:57:18+00:00",
-          "from": "bullish",
-          "to": "bearish"
-        },
-        {
-          "observed_at_utc": "2026-11-24T12:09:33+00:00",
-          "from": "bearish",
-          "to": "bullish"
-        },
-        {
-          "observed_at_utc": "2026-11-27T15:06:06+00:00",
-          "from": "bullish",
-          "to": "neutral"
-        }
-      ],
-      "summary_ko": "최근 주가 움직임이 기업 고유의 펀더멘털 전망보다는 포화 상태의 포지션 청산(crowded-position unwinding)을 반영할 수 있는 소매 투자자에게 인기 있는 주식으로 언급되었습니다.",
-      "price": {
-        "latest_close": 89.46,
-        "latest_date": "2026-11-27",
-        "first_close": 52.37,
-        "first_price_date": "2025-07-21",
-        "return_pct": 70.82,
-        "currency": "USD",
-        "basis": "unadjusted_daily_close",
-        "provider": "Yahoo Finance (unofficial via yfinance)",
-        "fetched_utc": "2026-11-28T04:44:37+00:00"
       }
     },
     {
@@ -24139,10 +24149,10 @@
     {
       "date": "2026-11-28",
       "stocks": 779,
-      "bullish": 193,
-      "bearish": 59,
+      "bullish": 194,
+      "bearish": 60,
       "neutral": 332,
-      "unclear": 72,
+      "unclear": 70,
       "watchlist": 92
     }
   ]
